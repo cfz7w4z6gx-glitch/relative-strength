@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name "CI"
           git config user.email "ci@github.com"
-          git add output/*.csv
+          git add -f output/*.csv
           git commit -m "RS update $(date -u +%F)" || echo "nothing to commit"
           git push
