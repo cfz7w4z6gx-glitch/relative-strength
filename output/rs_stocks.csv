@@ -1,1168 +1,1168 @@
 Rank,Ticker,Sector,Industry,Exchange,Relative Strength,Percentile,1 Month Ago,3 Months Ago,6 Months Ago
-1,MRNA,Healthcare,Biotechnology,NASDAQ,529.71,99,99,94,91
-2,CDNA,Healthcare,Diagnostics & Research,NASDAQ,360.49,99,99,99,77
-3,MTC,Technology,Software—Application,NASDAQ,354.11,99,99,70,98
-4,RCEL,Healthcare,Medical Devices,NASDAQ,339.45,99,99,95,31
-5,KOD,Healthcare,Biotechnology,NASDAQ,311.17,99,99,98,99
-6,VNCE,Consumer Cyclical,Apparel Manufacturing,NASDAQ,304.11,99,99,98,95
-7,IPDN,Industrials,Staffing & Employment Services,NASDAQ,290.66,99,99,1,0
-8,AGL,Healthcare,Medical Care Facilities,NYSE,279.55,99,99,99,99
-9,REPL,Healthcare,Biotechnology,NASDAQ,275.29,99,97,99,11
-10,DHY,Financial Services,Asset Management,NYSE MKT,273.06,99,99,99,99
-11,TXG,Healthcare,Health Information Services,NASDAQ,266.53,99,99,99,86
-12,SLN,Healthcare,Biotechnology,NASDAQ,261.35,99,92,99,83
-13,IOVA,Healthcare,Biotechnology,NASDAQ,251.67,99,99,98,89
-14,ULBI,Industrials,Electrical Equipment & Parts,NASDAQ,244.33,99,61,48,33
-15,TWST,Healthcare,Diagnostics & Research,NASDAQ,235.2,99,99,99,87
-16,ABCL,Healthcare,Biotechnology,NASDAQ,232.35,99,99,98,88
-17,PLSE,Healthcare,Medical Instruments & Supplies,NASDAQ,229.88,99,99,98,78
-18,PAYS,Industrials,Specialty Business Services,NASDAQ,225.22,99,98,98,87
-19,VRA,Consumer Cyclical,Footwear & Accessories,NASDAQ,216.17,99,95,73,85
-20,GTBP,Healthcare,Biotechnology,NASDAQ,206.37,99,99,99,99
-21,EDRY,Industrials,Marine Shipping,NASDAQ,204.54,99,99,98,94
-22,AXTI,Technology,Semiconductor Equipment & Materials,NASDAQ,204.03,99,99,99,99
-23,SLS,Healthcare,Biotechnology,NASDAQ,201.26,99,99,99,98
-24,ATEX,Communication Services,Telecom Services,NASDAQ,199.59,99,98,99,96
-25,MXL,Technology,Semiconductors,NASDAQ,199.39,99,99,99,99
-26,XNCR,Healthcare,Biotechnology,NASDAQ,196.64,99,97,96,74
-27,ETON,Healthcare,Biotechnology,NASDAQ,194.98,99,98,98,93
-28,WHLRP,Real Estate,REIT—Retail,NASDAQ,193.98,99,98,95,89
-29,LIFE,Healthcare,Biotechnology,NASDAQ,192.26,99,98,94,93
-30,ABSI,Healthcare,Biotechnology,NASDAQ,190.62,99,98,98,94
-31,RNG,Technology,Software—Application,NYSE,188.32,99,99,96,81
-32,SKIN,Consumer Defensive,Household & Personal Products,NASDAQ,187.83,99,97,99,99
-33,FIGS,Consumer Cyclical,Apparel Manufacturing,NYSE,187.0,99,90,92,90
-34,QMCO,Technology,Computer Hardware,NASDAQ,185.85,99,99,89,73
-35,RXT,Technology,Software—Infrastructure,NASDAQ,184.65,99,99,99,99
-36,DHX,Industrials,Staffing & Employment Services,NYSE,184.62,99,97,84,92
-37,INDP,Healthcare,Biotechnology,NASDAQ,183.98,99,69,3,5
-38,ULH,Industrials,Trucking,NASDAQ,183.49,99,50,72,8
-39,AMN,Healthcare,Medical Care Facilities,NYSE,183.11,99,96,94,92
-40,DELL,Technology,Computer Hardware,NYSE,182.37,98,99,99,95
-41,OSPN,Technology,Software—Infrastructure,NASDAQ,181.39,98,89,86,34
-42,RLYB,Healthcare,Biotechnology,NASDAQ,181.13,98,99,98,98
-43,OKTA,Technology,Software—Infrastructure,NASDAQ,180.85,98,98,95,20
-44,HOWL,Healthcare,Biotechnology,NASDAQ,180.67,98,94,2,7
-45,GMAB,Healthcare,Biotechnology,NASDAQ,179.66,98,82,64,50
-46,HAE,Healthcare,Medical Instruments & Supplies,NYSE,178.56,98,95,90,29
-47,AOUT,Consumer Cyclical,Leisure,NASDAQ,178.27,98,94,89,37
-48,PRCH,Technology,Software—Application,NASDAQ,177.59,98,93,90,40
-49,QH,Technology,Software—Application,NASDAQ,176.09,98,99,99,95
-50,BDL,Consumer Cyclical,Restaurants,NYSE MKT,175.57,98,89,81,45
-51,AMWL,Healthcare,Health Information Services,NYSE,175.14,98,97,98,88
-52,GKOS,Healthcare,Medical Instruments & Supplies,NYSE,175.07,98,89,94,84
-53,MU,Technology,Semiconductors,NASDAQ,174.67,98,99,99,99
-54,MTW,Industrials,Farm & Heavy Construction Machinery,NYSE,174.22,98,97,90,56
-55,MRVI,Healthcare,Biotechnology,NASDAQ,173.92,98,98,95,89
-56,MPC,Energy,Oil & Gas Refining & Marketing,NYSE,173.01,98,98,91,82
-57,FOSL,Consumer Cyclical,Luxury Goods,NASDAQ,172.63,98,97,97,94
-58,AEYE,Technology,Softwareâ€”Application,NASDAQ,172.35,98,23,6,15
-59,FRO,Energy,Oil & Gas Midstream,NYSE,172.33,98,98,89,91
-60,LCUT,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,172.01,98,96,98,95
-61,LFST,Healthcare,Medical Care Facilities,NASDAQ,171.71,98,95,96,79
-62,RRGB,Consumer Cyclical,Restaurants,NASDAQ,171.6,98,95,96,42
-63,PBF,Energy,Oil & Gas Refining & Marketing,NYSE,171.52,98,98,97,84
-64,RSKD,Technology,Software—Application,NYSE,171.33,98,95,58,41
-65,TLYS,Consumer Cyclical,Apparel Retail,NYSE,171.01,98,93,98,97
-66,KELYB,Industrials,Staffing & Employment Services,NASDAQ,170.36,98,94,92,80
-67,NTWK,Technology,Software—Application,NASDAQ,169.7,98,95,49,81
-68,BMBL,Technology,Software—Application,NASDAQ,169.67,98,11,8,22
-69,CBRL,Consumer Cyclical,Restaurants,NASDAQ,169.58,98,94,92,15
-70,USIO,Technology,Information Technology Services,NASDAQ,169.17,98,97,92,26
-71,GDYN,Technology,Information Technology Services,NASDAQ,169.16,98,75,42,13
-72,SIF,Industrials,Aerospace & Defense,NYSE MKT,169.07,98,99,99,98
-73,TENB,Technology,Software—Infrastructure,NASDAQ,168.97,98,91,91,14
-74,BAND,Technology,Software—Infrastructure,NASDAQ,168.43,98,99,99,99
-75,APPN,Technology,Softwareâ€”Infrastructure,NASDAQ,167.82,98,90,86,7
-76,SSL,Energy,Oil & Gas Integrated,NYSE,167.33,98,96,89,96
-77,KRT,Consumer Cyclical,Packaging & Containers,NASDAQ,166.76,98,98,96,61
-78,KNSA,Healthcare,Biotechnology,NASDAQ,166.01,98,94,94,90
-79,BDSX,Healthcare,Diagnostics & Research,NASDAQ,165.98,97,99,98,91
-80,PSNL,Healthcare,Diagnostics & Research,NASDAQ,165.7,97,96,98,34
-81,ATRC,Healthcare,Medical Instruments & Supplies,NASDAQ,165.23,97,95,84,17
-82,NIQ,Financial Services,Asset Management,NYSE,164.7,97,89,35,11
-83,NTRA,Healthcare,Diagnostics & Research,NASDAQ,164.33,97,96,94,55
-84,CRWD,Technology,Software—Infrastructure,NASDAQ,164.22,97,98,95,77
-85,ANF,Consumer Cyclical,Apparel Retail,NYSE,164.07,97,93,89,19
-86,PDSB,Healthcare,Biotechnology,NASDAQ,163.57,97,79,9,86
-87,RVMD,Healthcare,Biotechnology,NASDAQ,163.36,97,98,99,97
-88,CLDT,Real Estate,REIT—Hotel & Motel,NYSE,163.3,97,95,92,83
-89,HALO,Healthcare,Biotechnology,NASDAQ,163.28,97,94,89,53
-90,HZO,Consumer Cyclical,Specialty Retail,NYSE,163.28,97,97,96,78
-91,TEAM,Technology,Software—Application,NASDAQ,163.13,97,98,86,6
-92,PXS,Industrials,Marine Shipping,NASDAQ,162.9,97,98,88,84
-93,VLO,Energy,Oil & Gas Refining & Marketing,NYSE,162.88,97,98,94,87
-94,NAUT,Healthcare,Biotechnology,NASDAQ,162.76,97,66,4,96
-95,SDGR,Healthcare,Health Information Services,NASDAQ,162.74,97,97,75,18
-96,NDLS,Consumer Cyclical,Restaurants,NASDAQ,162.36,97,97,98,96
-97,NSIT,Technology,Information Technology Services,NASDAQ,161.28,97,95,92,22
-98,PUBM,Technology,Software—Application,NASDAQ,160.46,97,97,97,67
-99,OESX,Industrials,Electrical Equipment & Parts,NASDAQ,160.2,97,99,97,38
-100,NTRB,Healthcare,Biotechnology,NASDAQ,160.14,97,96,7,8
-101,OSCR,Healthcare,Healthcare Plans,NYSE,160.05,97,94,93,89
-102,PD,Technology,Software—Application,NYSE,160.0,97,94,79,6
-103,KIDS,Healthcare,Medical Devices,NASDAQ,159.98,97,82,83,33
-104,IBRX,Healthcare,Biotechnology,NASDAQ,159.47,97,99,96,97
-105,XGN,Healthcare,Diagnostics & Research,NASDAQ,159.07,97,96,82,9
-106,HPE,Technology,Communication Equipment,NYSE,158.99,97,99,98,88
-107,CRL,Healthcare,Diagnostics & Research,NYSE,158.84,97,93,93,48
-108,TRMD,Energy,Oil & Gas Midstream,NASDAQ,158.73,97,96,69,90
-109,SGHT,Healthcare,Medical Devices,NASDAQ,157.59,97,97,90,45
-110,ENTX,Healthcare,Biotechnology,NASDAQ,157.3,97,95,97,8
-111,CHPT,Consumer Cyclical,Specialty Retail,NYSE,157.1,97,88,13,14
-112,DHT,Energy,Oil & Gas Midstream,NYSE,156.93,97,97,79,83
-113,SMWB,Communication Services,Internet Content & Information,NYSE,156.85,97,93,93,2
-114,HBB,Technology,Consumer Electronics,NYSE,156.58,97,98,97,57
-115,INSW,Industrials,Marine Shipping,NYSE,156.53,97,98,92,93
-116,EVC,Communication Services,Broadcasting,NYSE,155.91,97,96,99,98
-117,OMER,Healthcare,Biotechnology,NASDAQ,155.91,97,98,94,96
-118,NAT,Industrials,Marine Shipping,NYSE,155.01,96,98,92,91
-119,PSX,Energy,Oil & Gas Refining & Marketing,NYSE,154.81,96,96,88,76
-120,LUNG,Healthcare,Medical Devices,NASDAQ,154.29,96,71,90,13
-121,CAKE,Consumer Cyclical,Restaurants,NASDAQ,154.28,96,96,96,47
-122,DK,Energy,Oil & Gas Refining & Marketing,NYSE,154.22,96,97,95,91
-123,AMC,Communication Services,Entertainment,NYSE,154.17,96,95,86,11
-124,CRSR,Technology,Computer Hardware,NASDAQ,153.9,96,97,96,72
-125,GTE,Energy,Oil & Gas E&P,NYSE MKT,153.87,96,97,93,94
-126,PAYC,Technology,Software—Application,NYSE,153.22,96,94,86,19
-127,FRD,Basic Materials,Steel,NASDAQ,152.71,96,97,98,69
-128,CVI,Energy,Oil & Gas Refining & Marketing,NYSE,152.66,96,97,46,79
-129,INO,Healthcare,Biotechnology,NASDAQ,152.19,96,21,2,14
-130,QLYS,Technology,Software—Infrastructure,NASDAQ,152.11,96,95,94,9
-131,LIND,Consumer Cyclical,Travel Services,NASDAQ,151.96,96,98,97,79
-132,PACB,Healthcare,Diagnostics & Research,NASDAQ,151.93,96,95,11,19
-133,OPRT,Financial Services,Credit Services,NASDAQ,151.86,96,94,87,34
-134,JRSH,Consumer Cyclical,Apparel Manufacturing,NASDAQ,151.82,96,96,92,47
-135,AVAH,Healthcare,Medical Care Facilities,NASDAQ,151.63,96,92,82,27
-136,CLMT,Energy,Oil & Gas E&P,NASDAQ,151.56,96,98,97,91
-137,OPAD,Real Estate,Real Estate Services,NASDAQ,151.48,96,96,99,4
-138,ILMN,Healthcare,Diagnostics & Research,NASDAQ,151.01,96,97,92,83
-139,VIA,Utilities,Utilities—Regulated Electric,NYSE,150.64,96,91,27,2
-140,APA,Energy,Oil & Gas E&P,NASDAQ,150.31,96,93,90,90
-141,EXEL,Healthcare,Biotechnology,NASDAQ,150.25,96,83,68,77
-142,PEB,Real Estate,REIT—Hotel & Motel,NYSE,149.87,96,90,89,77
-143,DAO,Communication Services,Internet Content & Information,NYSE,149.63,96,92,94,80
-144,REPX,Energy,Oil & Gas E&P,NYSE MKT,149.14,96,92,76,81
-145,TGTX,Healthcare,Biotechnology,NASDAQ,149.07,96,87,88,85
-146,OPHC,Financial Services,Banks—Regional,NYSE MKT,149.06,96,97,95,69
-147,PCRX,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,148.92,96,51,50,40
-148,MANH,Technology,Software—Application,NASDAQ,148.81,96,85,74,12
-149,ASX,Technology,Semiconductors,NYSE,148.6,96,99,97,97
-150,ZETA,Technology,Software—Application,NYSE,148.54,96,95,91,36
-151,NNBR,Industrials,Conglomerates,NASDAQ,148.03,96,98,94,73
-152,FET,Energy,Oil & Gas Equipment & Services,NYSE,147.78,96,98,98,94
-153,FIVN,Technology,Software—Infrastructure,NASDAQ,147.69,96,95,93,46
-154,JAKK,Consumer Cyclical,Leisure,NASDAQ,147.51,96,90,85,73
-155,SM,Energy,Oil & Gas E&P,NYSE,147.31,96,91,82,84
-156,HUM,Healthcare,Healthcare Plans,NYSE,147.24,96,90,91,84
-157,TEN,Consumer Cyclical,Auto Parts,NYSE,147.07,95,96,84,93
-158,RLAY,Healthcare,Biotechnology,NASDAQ,147.04,95,96,99,97
-159,WEYS,Consumer Cyclical,Footwear & Accessories,NASDAQ,146.57,95,95,89,64
-160,HQI,Industrials,Staffing & Employment Services,NASDAQ,146.42,95,96,82,77
-161,CBAT,Industrials,Electrical Equipment & Parts,NASDAQ,146.36,95,96,21,22
-162,IRDM,Communication Services,Telecom Services,NASDAQ,146.1,95,96,96,94
-163,RDVT,Technology,Software—Application,NASDAQ,146.03,95,93,86,42
-164,KYMR,Healthcare,Biotechnology,NASDAQ,145.95,95,84,94,90
-165,SENS,Healthcare,Diagnostics & Research,NASDAQ,145.59,95,94,53,7
-166,CAI,Industrials,Rental & Leasing Services,NASDAQ,145.52,95,84,60,4
-167,FSLY,Technology,Software—Application,NASDAQ,145.39,95,97,98,91
-168,ACU,Consumer Defensive,Household & Personal Products,NYSE MKT,145.23,95,92,85,37
-169,PANW,Technology,Software—Infrastructure,NASDAQ,144.55,95,97,97,77
-170,BOX,Technology,Software—Infrastructure,NYSE,144.47,95,84,74,22
-171,LPG,Energy,Oil & Gas Midstream,NYSE,144.35,95,97,87,86
-172,GH,Healthcare,Diagnostics & Research,NASDAQ,144.23,95,95,96,83
-173,SIBN,Healthcare,Medical Devices,NASDAQ,144.15,95,79,85,22
-174,VRNS,Technology,Software—Infrastructure,NASDAQ,143.66,95,87,83,16
-175,MEI,Technology,Electronic Components,NYSE,143.35,95,96,97,93
-176,VAC,Consumer Cyclical,Resorts & Casinos,NYSE,143.31,95,91,95,77
-177,VEON,Communication Services,Telecom Services,NASDAQ,143.24,95,92,53,58
-178,AGEN,Healthcare,Biotechnology,NASDAQ,143.23,95,98,97,42
-179,KFRC,Industrials,Staffing & Employment Services,NYSE,142.99,95,91,94,76
-180,CURV,Consumer Cyclical,Apparel Retail,NYSE,142.9,95,94,95,32
-181,CRT,Energy,Oil & Gas E&P,NYSE,142.07,95,88,58,77
-182,TISI,Industrials,Specialty Business Services,NYSE,142.04,95,96,43,29
-183,VREX,Healthcare,Medical Devices,NASDAQ,141.96,95,95,94,28
-184,SPT,Technology,Software—Application,NASDAQ,141.94,95,80,71,5
-185,AMD,Technology,Semiconductors,NASDAQ,141.77,95,99,95,97
-186,CROX,Consumer Cyclical,Footwear & Accessories,NASDAQ,141.73,95,79,92,51
-187,SGRY,Healthcare,Medical Care Facilities,NASDAQ,141.59,95,22,29,16
-188,GLBS,Industrials,Marine Shipping,NASDAQ,141.24,95,96,98,90
-189,DOCU,Technology,Software—Application,NASDAQ,141.07,95,84,55,14
-190,PKOH,Industrials,Industrial Distribution,NASDAQ,140.92,95,97,97,81
-191,VSTM,Healthcare,Biotechnology,NASDAQ,140.82,95,85,58,8
-192,PBYI,Healthcare,Biotechnology,NASDAQ,140.79,95,92,91,85
-193,NRC,Healthcare,Diagnostics & Research,NASDAQ,140.78,95,76,80,82
-194,ACB,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,140.75,95,88,11,16
-195,TNGX,Healthcare,Biotechnology,NASDAQ,140.71,95,94,98,99
-196,INTA,Technology,Software—Application,NASDAQ,140.6,94,81,85,6
-197,FNKO,Consumer Cyclical,Leisure,NASDAQ,140.15,94,93,94,85
-198,EQNR,Energy,Oil & Gas Integrated,NYSE,140.02,94,93,87,88
-199,RIGL,Healthcare,Biotechnology,NASDAQ,140.01,94,85,84,55
-200,ECPG,Financial Services,Mortgage Finance,NASDAQ,139.94,94,94,94,90
-201,FROG,Technology,Software—Application,NASDAQ,139.91,94,95,93,78
-202,SAIC,Technology,Information Technology Services,NASDAQ,139.86,94,77,79,30
-203,BB,Technology,Software—Infrastructure,NYSE,139.83,94,97,96,90
-204,DFIN,Financial Services,Capital Markets,NYSE,139.56,94,54,42,19
-205,NTAP,Technology,Computer Hardware,NASDAQ,139.48,94,97,95,68
-206,IFBD,Technology,Software—Application,NASDAQ,139.09,94,18,38,27
-207,IDT,Communication Services,Telecom Services,NYSE,139.09,94,93,73,36
-208,RPD,Technology,Software—Application,NASDAQ,138.88,94,78,72,3
-209,TBI,Industrials,Staffing & Employment Services,NYSE,138.85,94,95,96,65
-210,RLJ,Real Estate,REIT—Hotel & Motel,NYSE,138.71,94,88,88,72
-211,SRZN,Healthcare,Biotechnology,NASDAQ,138.68,94,87,89,96
-212,MNTK,Utilities,Utilities—Diversified,NASDAQ,138.55,94,96,47,15
-213,MTEX,Consumer Defensive,Household & Personal Products,NASDAQ,138.33,94,80,10,4
-214,DMAC,Healthcare,Biotechnology,NASDAQ,138.27,94,69,48,42
-215,VEEV,Healthcare,Health Information Services,NYSE,138.22,94,89,64,10
-216,HBIO,Healthcare,Medical Instruments & Supplies,NASDAQ,138.18,94,93,50,61
-217,PK,Real Estate,REIT—Hotel & Motel,NYSE,138.11,94,88,86,45
-218,AEHR,Technology,Semiconductor Equipment & Materials,NASDAQ,138.09,94,98,99,99
-219,LITE,Technology,Communication Equipment,NASDAQ,138.04,94,99,99,99
-220,BOLT,Healthcare,Biotechnology,NASDAQ,137.86,94,15,13,26
-221,NRIX,Healthcare,Biotechnology,NASDAQ,137.48,94,89,96,79
-222,NEO,Healthcare,Diagnostics & Research,NASDAQ,137.48,94,93,96,27
-223,RHI,Industrials,Staffing & Employment Services,NYSE,137.46,94,78,92,20
-224,MG,Industrials,Security & Protection Services,NYSE,137.4,94,94,67,88
-225,VCTR,Financial Services,Asset Management,NASDAQ,137.38,94,94,90,77
-226,MITK,Technology,Software—Application,NASDAQ,137.18,94,87,92,80
-227,NUWE,Healthcare,Medical Devices,NASDAQ,137.16,94,0,0,0
-228,VIR,Healthcare,Biotechnology,NASDAQ,136.84,94,93,85,90
-229,MYGN,Healthcare,Diagnostics & Research,NASDAQ,136.77,94,11,6,12
-230,DRH,Real Estate,REIT—Hotel & Motel,NASDAQ,136.65,94,86,83,73
-231,DCBO,Technology,Software—Application,NASDAQ,136.45,94,80,48,11
-232,CYRX,Industrials,Integrated Freight & Logistics,NASDAQ,136.29,94,94,90,90
-233,CVLT,Technology,Software—Application,NASDAQ,136.19,94,82,72,18
-234,FDBC,Financial Services,Banks—Regional,NASDAQ,135.95,93,81,72,50
-235,RELL,Technology,Electronic Components,NASDAQ,135.95,93,94,93,87
-236,JILL,Consumer Cyclical,Apparel Retail,NYSE,135.87,93,96,83,12
-237,APLE,Real Estate,REITâ€”Hotel & Motel,NYSE,135.86,93,85,80,70
-238,RRC,Energy,Oil & Gas E&P,NYSE,135.75,93,63,48,62
-239,CFFI,Financial Services,Banks—Regional,NASDAQ,135.72,93,91,69,48
-240,KPLT,Technology,Software—Infrastructure,NASDAQ,135.63,93,5,13,29
-241,BSET,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,135.51,93,85,82,25
-242,FLXS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,135.46,93,96,94,80
-243,AP,Industrials,Metal Fabrication,NYSE,135.29,93,98,96,98
-244,CIX,Industrials,Security & Protection Services,NYSE MKT,135.1,93,96,79,35
-245,KSS,Consumer Cyclical,Department Stores,NYSE,135.07,93,80,85,24
-246,SU,Energy,Oil & Gas Integrated,NYSE,135.06,93,88,74,87
-247,CODI,Industrials,Conglomerates,NYSE,134.86,93,92,85,93
-248,HPK,Energy,Oil & Gas E&P,NASDAQ,134.8,93,88,84,63
-249,MCS,Communication Services,Entertainment,NYSE,134.63,93,93,96,57
-250,PRTH,Technology,Information Technology Services,NASDAQ,134.38,93,84,19,31
-251,ANIK,Healthcare,Medical Devices,NASDAQ,134.34,93,94,96,85
-252,APPS,Technology,Softwareâ€”Application,NASDAQ,134.22,93,97,99,26
-253,RPRX,Healthcare,Biotechnology,NASDAQ,134.06,93,82,81,82
-254,RCKY,Consumer Cyclical,Footwear & Accessories,NASDAQ,133.93,93,89,91,71
-255,MEOH,Basic Materials,Chemicals,NASDAQ,133.71,93,86,72,90
-256,MAX,Communication Services,Internet Content & Information,NYSE,133.58,93,20,85,26
-257,EFOI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,133.47,93,84,66,95
-258,ALTO,Basic Materials,Specialty Chemicals,NASDAQ,133.35,93,91,97,98
-259,HOG,Consumer Cyclical,Recreational Vehicles,NYSE,133.3,93,76,54,65
-260,MATX,Industrials,Marine Shipping,NYSE,133.29,93,93,89,85
-261,ADPT,Healthcare,Biotechnology,NASDAQ,133.08,93,94,95,41
-262,CRVL,Financial Services,Insurance Brokers,NASDAQ,133.07,93,79,34,22
-263,CLAR,Consumer Cyclical,Leisure,NASDAQ,133.06,93,66,69,13
-264,AVTR,Basic Materials,Specialty Chemicals,NYSE,133.0,93,92,86,10
-265,AXGN,Healthcare,Medical Devices,NASDAQ,132.94,93,80,95,95
-266,XERS,Healthcare,Biotechnology,NASDAQ,132.91,93,89,66,36
-267,FA,Industrials,Specialty Business Services,NASDAQ,132.9,93,79,93,72
-268,WPP,Communication Services,Advertising Agencies,NYSE,132.82,93,87,87,15
-269,MXCT,Healthcare,Diagnostics & Research,NASDAQ,132.81,93,31,73,29
-270,YEXT,Technology,Software—Infrastructure,NYSE,132.8,93,79,57,3
-271,PMTS,Financial Services,Credit Services,NASDAQ,132.75,93,93,97,63
-272,MASS,Healthcare,Medical Devices,NASDAQ,132.56,93,96,68,77
-273,AMRX,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,132.56,93,93,90,66
-274,CNC,Healthcare,Healthcare Plans,NYSE,132.54,92,89,94,89
-275,ESTC,Technology,Software—Application,NYSE,132.52,92,93,72,7
-276,BBCP,Industrials,Engineering & Construction,NASDAQ,132.26,92,82,83,60
-277,ATNM,Healthcare,Biotechnology,NYSE MKT,132.21,92,39,4,38
-278,JVA,Consumer Defensive,Packaged Foods,NASDAQ,132.17,92,56,21,75
-279,AVPT,Technology,Software—Infrastructure,NASDAQ,132.13,92,76,53,11
-280,EGBN,Financial Services,Banks—Regional,NASDAQ,132.11,92,76,80,74
-281,CCEL,Healthcare,Medical Care Facilities,NYSE MKT,131.99,92,58,21,24
-282,HRB,Consumer Cyclical,Personal Services,NYSE,131.97,92,67,62,31
-283,LILA,Communication Services,Telecom Services,NASDAQ,131.93,92,93,91,56
-284,BFLY,Healthcare,Medical Devices,NYSE,131.9,92,98,99,91
-285,IMOS,Technology,Semiconductors,NASDAQ,131.6,92,98,95,96
-286,MRVL,Technology,Semiconductors,NASDAQ,131.56,92,99,96,96
-287,TDOC,Healthcare,Health Information Services,NYSE,131.52,92,14,49,66
-288,TRGP,Energy,Oil & Gas Midstream,NYSE,131.51,92,89,80,84
-289,TNK,Energy,Oil & Gas Midstream,NYSE,131.11,92,95,71,84
-290,MSBI,Financial Services,Banks—Regional,NASDAQ,131.08,92,92,92,84
-291,ITGR,Healthcare,Medical Devices,NYSE,131.0,92,90,89,37
-292,OGN,Healthcare,Drug Manufacturers—General,NYSE,130.98,92,93,88,92
-293,TMCI,Healthcare,Medical Devices,NASDAQ,130.91,92,87,94,18
-294,KELYA,Industrials,Staffing & Employment Services,NASDAQ,130.91,92,91,90,29
-295,RCMT,Industrials,Engineering & Construction,NASDAQ,130.89,92,95,69,85
-296,BHC,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,130.69,92,63,51,25
-297,UFCS,Financial Services,Insurance—Property & Casualty,NASDAQ,130.67,92,90,87,84
-298,PTEN,Energy,Oil & Gas Drilling,NASDAQ,130.64,92,93,87,93
-299,WST,Healthcare,Medical Instruments & Supplies,NYSE,130.46,92,83,76,75
-300,SNOW,Technology,Software—Application,NYSE,130.46,92,94,95,15
-301,TWLO,Communication Services,Internet Content & Information,NYSE,130.37,92,97,95,91
-302,VSAT,Technology,Communication Equipment,NASDAQ,130.31,92,93,96,97
-303,LILAK,Communication Services,Telecom Services,NASDAQ,130.28,92,93,90,57
-304,ROIV,Healthcare,Biotechnology,NASDAQ,130.26,92,91,94,92
-305,HUIZ,Financial Services,Insurance Brokers,NASDAQ,130.25,92,19,9,6
-306,TEVA,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,130.19,92,89,83,88
-307,PRTS,Consumer Cyclical,Internet Retail,NASDAQ,130.11,92,89,19,32
-308,PTGX,Healthcare,Biotechnology,NASDAQ,130.1,92,92,96,89
-309,FRSH,Technology,Software—Application,NASDAQ,130.01,92,89,73,19
-310,FDS,Financial Services,Financial Data & Stock Exchanges,NYSE,129.97,92,66,65,12
-311,COP,Energy,Oil & Gas E&P,NYSE,129.67,92,83,71,73
-312,MLAB,Technology,Scientific & Technical Instruments,NASDAQ,129.56,92,94,69,68
-313,ASC,Industrials,Marine Shipping,NYSE,129.53,91,93,66,90
-314,CERT,Healthcare,Biotechnology,NASDAQ,129.53,91,81,60,4
-315,GIC,Industrials,Industrial Distribution,NYSE,129.41,91,89,83,32
-316,EVER,Communication Services,Internet Content & Information,NASDAQ,129.37,91,28,73,34
-317,VTRS,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,129.25,91,89,77,87
-318,COHU,Technology,Semiconductor Equipment & Materials,NASDAQ,129.2,91,99,93,95
-319,TXN,Technology,Semiconductors,NASDAQ,129.13,91,88,79,89
-320,OPK,Healthcare,Diagnostics & Research,NASDAQ,129.12,91,64,60,22
-321,S,Technology,Software—Infrastructure,NYSE,128.95,91,94,87,44
-322,CHCI,Real Estate,Real Estate—Diversified,NASDAQ,128.91,91,83,42,83
-323,RUSHB,Consumer Cyclical,Auto & Truck Dealerships,NASDAQ,128.9,91,87,80,59
-324,CNQ,Energy,Oil & Gas E&P,NYSE,128.89,91,86,78,83
-325,ETSY,Consumer Cyclical,Internet Retail,NYSE,128.84,91,64,85,57
-326,DDOG,Technology,Software—Application,NASDAQ,128.7,91,95,93,88
-327,SBFG,Financial Services,Banks—Regional,NASDAQ,128.7,91,87,74,55
-328,DLTH,Consumer Cyclical,Apparel Retail,NASDAQ,128.56,91,80,89,82
-329,GCBC,Financial Services,Banks—Regional,NASDAQ,128.55,91,88,89,50
-330,NGL,Energy,Oil & Gas Refining & Marketing,NYSE,128.5,91,93,95,97
-331,PARR,Energy,Oil & Gas Refining & Marketing,NYSE,128.46,91,97,93,94
-332,TK,Energy,Oil & Gas Midstream,NYSE,128.41,91,94,61,85
-333,BIIB,Healthcare,Drug Manufacturers—General,NASDAQ,128.33,91,82,70,79
-334,FRHC,Financial Services,Capital Markets,NASDAQ,128.3,91,71,44,46
-335,PBR,Energy,Oil & Gas Integrated,NYSE,128.27,91,95,70,86
-336,TWIN,Industrials,Specialty Industrial Machinery,NASDAQ,128.15,91,95,92,88
-337,CXW,Real Estate,REIT—Specialty,NYSE,128.05,91,90,94,58
-338,HURN,Industrials,Consulting Services,NASDAQ,127.92,91,83,58,12
-339,MSGM,Communication Services,Electronic Gaming & Multimedia,NASDAQ,127.87,91,92,72,90
-340,WHF,Financial Services,Asset Management,NASDAQ,127.81,91,69,31,53
-341,HAS,Consumer Cyclical,Leisure,NASDAQ,127.78,91,73,53,67
-342,EEIQ,Consumer Defensive,Education & Training Services,NASDAQ,127.77,91,85,4,8
-343,ACHC,Healthcare,Medical Care Facilities,NASDAQ,127.75,91,80,92,85
-344,LTH,Consumer Cyclical,Leisure,NYSE,127.7,91,85,88,72
-345,BYFC,Financial Services,Banks—Regional,NASDAQ,127.64,91,90,84,81
-346,BWMN,Industrials,Consulting Services,NASDAQ,127.6,91,88,69,40
-347,REGN,Healthcare,Biotechnology,NASDAQ,127.5,91,65,68,59
-348,LLY,Healthcare,Drug Manufacturers—General,NYSE,127.5,91,71,86,70
-349,XHR,Real Estate,REIT—Hotel & Motel,NYSE,127.44,91,73,80,72
-350,ZIM,Industrials,Marine Shipping,NYSE,127.42,91,91,80,86
-351,LGND,Healthcare,Biotechnology,NASDAQ,127.42,91,86,90,83
-352,BWFG,Financial Services,Banks—Regional,NASDAQ,127.39,90,87,88,71
-353,NMM,Industrials,Marine Shipping,NYSE,127.35,90,93,84,85
-354,CVGI,Consumer Cyclical,Auto Parts,NASDAQ,127.32,90,68,89,98
-355,BBY,Consumer Cyclical,Specialty Retail,NYSE,127.19,90,78,79,17
-356,CLOV,Healthcare,Healthcare Plans,NASDAQ,127.1,90,95,95,85
-357,ACCO,Industrials,Business Equipment & Supplies,NYSE,127.09,90,84,68,52
-358,MGNI,Communication Services,Advertising Agencies,NASDAQ,127.09,90,91,94,26
-359,DAC,Industrials,Marine Shipping,NYSE,127.05,90,94,79,82
-360,CVE,Energy,Oil & Gas Integrated,NYSE,126.93,90,93,88,92
-361,ICLR,Healthcare,Diagnostics & Research,NASDAQ,126.83,90,54,66,47
-362,ACN,Technology,Information Technology Services,NYSE,126.79,90,63,18,6
-363,OVV,Energy,Oil & Gas E&P,NYSE,126.76,90,87,85,83
-364,OCC,Technology,Communication Equipment,NASDAQ,126.7,90,97,96,96
-365,QSI,Healthcare,Biotechnology,NASDAQ,126.66,90,75,8,15
-366,MRK,Healthcare,Drug Manufacturers—General,NYSE,126.53,90,86,83,74
-367,QNST,Communication Services,Advertising Agencies,NASDAQ,126.52,90,49,93,25
-368,UMC,Technology,Semiconductors,NYSE,126.51,90,98,96,94
-369,HST,Real Estate,REIT—Hotel & Motel,NASDAQ,126.5,90,78,77,76
-370,ROKU,Communication Services,Entertainment,NASDAQ,126.45,90,86,88,86
-371,MD,Healthcare,Medical Care Facilities,NYSE,126.41,90,75,79,79
-372,TH,Energy,Oil & Gas Equipment & Services,NASDAQ,126.39,90,95,93,96
-373,LQDT,Consumer Cyclical,Internet Retail,NASDAQ,126.24,90,85,87,75
-374,ZYME,Healthcare,Biotechnology,NASDAQ,126.23,90,67,78,85
-375,SI,Financial Services,Banks—Regional,NYSE,126.13,90,77,93,44
-376,AMGN,Healthcare,Drug Manufacturersâ€”General,NASDAQ,126.11,90,80,79,54
-377,GEO,Real Estate,REIT—Healthcare Facilities,NYSE,126.07,90,91,93,82
-378,FRAF,Financial Services,Banks—Regional,NASDAQ,126.03,90,80,78,75
-379,UVE,Financial Services,Insurance—Property & Casualty,NYSE,125.95,90,85,85,81
-380,EXPD,Industrials,Integrated Freight & Logistics,NYSE,125.88,90,85,75,72
-381,UTZ,Consumer Defensive,Packaged Foods,NYSE,125.86,90,96,91,7
-382,INN,Real Estate,REIT—Hotel & Motel,NYSE,125.84,90,74,75,62
-383,DGICB,Financial Services,Insurance—Property & Casualty,NASDAQ,125.62,90,26,88,63
-384,CVEO,Industrials,Specialty Business Services,NYSE,125.61,90,82,66,82
-385,CIB,Financial Services,Banks—Regional,NYSE,125.54,90,92,90,63
-386,FF,Basic Materials,Chemicals,NYSE,125.39,90,87,78,62
-387,EML,Industrials,Tools & Accessories,NASDAQ,125.39,90,72,67,45
-388,CVU,Industrials,Aerospace & Defense,NYSE MKT,125.2,90,89,93,72
-389,SXC,Basic Materials,Coking Coal,NYSE,125.18,90,89,79,43
-390,A,Healthcare,Diagnostics & Research,NYSE,125.0,89,85,72,25
-391,NEOG,Healthcare,Diagnostics & Research,NASDAQ,125.0,89,92,91,69
-392,CBNK,Financial Services,Banks—Regional,NASDAQ,124.79,89,84,72,33
-393,PAA,Energy,Oil & Gas Midstream,NASDAQ,124.71,89,84,75,76
-394,STTK,Healthcare,Biotechnology,NASDAQ,124.71,89,83,99,99
-395,SWKS,Technology,Semiconductors,NASDAQ,124.61,89,88,39,50
-396,ARCT,Healthcare,Biotechnology,NASDAQ,124.6,89,94,13,23
-397,NUE,Basic Materials,Steel,NYSE,124.59,89,91,91,88
-398,MYO,Healthcare,Medical Devices,NYSE MKT,124.59,89,96,90,16
-399,ALRM,Technology,Softwareâ€”Application,NASDAQ,124.59,89,71,68,18
-400,ABBV,Healthcare,Drug Manufacturersâ€”General,NYSE,124.57,89,76,69,39
-401,LNG,Energy,Oil & Gas Midstream,NYSE,124.53,89,74,65,57
-402,PAGP,Energy,Oil & Gas Midstream,NASDAQ,124.51,89,85,77,76
-403,RHP,Real Estate,REIT—Hotel & Motel,NYSE,124.5,89,79,73,62
-404,VALU,Financial Services,Financial Data & Stock Exchanges,NASDAQ,124.39,89,68,40,25
-405,DGII,Technology,Communication Equipment,NASDAQ,124.39,89,91,96,91
-406,WK,Technology,Software—Application,NYSE,124.37,89,68,55,5
-407,PCTY,Technology,Software—Application,NASDAQ,124.3,89,76,63,13
-408,SHO,Real Estate,REIT—Hotel & Motel,NYSE,124.27,89,74,62,65
-409,EAT,Consumer Cyclical,Restaurants,NYSE,124.2,89,81,93,23
-410,ADT,Industrials,Security & Protection Services,NYSE,124.17,89,28,34,21
-411,CHMG,Financial Services,Banks—Regional,NASDAQ,124.05,89,88,86,75
-412,ELF,Consumer Defensive,Household & Personal Products,NYSE,123.83,89,86,85,6
-413,TGT,Consumer Defensive,Discount Stores,NYSE,123.8,89,90,87,73
-414,LNTH,Healthcare,Diagnostics & Research,NASDAQ,123.78,89,86,88,88
-415,GO,Consumer Defensive,Grocery Stores,NASDAQ,123.37,89,75,26,6
-416,HSTM,Healthcare,Health Information Services,NASDAQ,123.33,89,84,76,36
-417,PNTG,Healthcare,Medical Care Facilities,NASDAQ,123.33,89,83,84,76
-418,IBEX,Technology,Software—Application,NASDAQ,123.27,89,86,59,40
-419,SAFT,Financial Services,Insurance—Property & Casualty,NASDAQ,123.26,89,92,88,27
-420,CVX,Energy,Oil & Gas Integrated,NYSE,123.21,89,84,63,70
-421,KOS,Energy,Oil & Gas E&P,NYSE,123.18,89,92,80,92
-422,SND,Energy,Oil & Gas Equipment & Services,NASDAQ,123.15,89,93,91,92
-423,CNK,Communication Services,Entertainment,NYSE,123.08,89,86,87,35
-424,RBKB,Financial Services,Banks—Regional,NASDAQ,123.05,89,86,84,77
-425,WTI,Energy,Oil & Gas E&P,NYSE,123.0,89,93,91,96
-426,CTOS,Industrials,Rental & Leasing Services,NYSE,122.92,89,87,89,91
-427,EXPO,Industrials,Consulting Services,NASDAQ,122.84,89,62,35,14
-428,IMAX,Communication Services,Entertainment,NYSE,122.81,89,90,92,59
-429,UEIC,Technology,Consumer Electronics,NASDAQ,122.78,88,88,83,25
-430,SMTC,Technology,Semiconductors,NASDAQ,122.69,88,98,91,96
-431,SIG,Consumer Cyclical,Luxury Goods,NYSE,122.64,88,76,52,28
-432,TDC,Technology,Information Technology Services,NYSE,122.51,88,54,33,73
-433,THG,Financial Services,Insurance—Property & Casualty,NYSE,122.41,88,75,77,62
-434,TAK,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,122.4,88,69,57,54
-435,BSVN,Financial Services,Banks—Regional,NASDAQ,122.37,88,82,66,38
-436,BJRI,Consumer Cyclical,Restaurants,NASDAQ,122.35,88,91,95,53
-437,EC,Energy,Oil & Gas Integrated,NYSE,122.31,88,91,92,81
-438,GILD,Healthcare,Drug Manufacturers—General,NASDAQ,122.29,88,73,39,54
-439,ADI,Technology,Semiconductors,NASDAQ,122.28,88,87,77,90
-440,FMAO,Financial Services,Banks—Regional,NASDAQ,122.27,88,88,83,49
-441,MSGE,Communication Services,Entertainment,NYSE,122.26,88,88,90,84
-442,MGYR,Financial Services,Banks—Regional,NASDAQ,122.24,88,71,55,49
-443,SYNA,Technology,Semiconductors,NASDAQ,122.23,88,87,68,92
-444,RDWR,Technology,Software—Infrastructure,NASDAQ,122.21,88,65,55,57
-445,OPCH,Healthcare,Medical Care Facilities,NASDAQ,122.17,88,80,32,6
-446,AMTB,Financial Services,Banksâ€”Regional,NYSE,122.16,88,87,86,65
-447,ICCC,Healthcare,Biotechnology,NASDAQ,122.16,88,86,90,82
-448,ALRS,Financial Services,Banksâ€”Regional,NASDAQ,122.09,88,85,86,69
-449,SFL,Industrials,Marine Shipping,NYSE,121.99,88,92,76,82
-450,R,Industrials,Rental & Leasing Services,NYSE,121.99,88,63,79,76
-451,E,Energy,Oil & Gas Integrated,NYSE,121.97,88,86,78,87
-452,ACHV,Healthcare,Biotechnology,NASDAQ,121.96,88,95,92,92
-453,RDI,Communication Services,Entertainment,NASDAQ,121.96,88,93,84,20
-454,TMO,Healthcare,Diagnostics & Research,NYSE,121.89,88,81,71,25
-455,MAR,Consumer Cyclical,Lodging,NASDAQ,121.83,88,67,57,67
-456,PED,Energy,Oil & Gas E&P,NYSE MKT,121.74,88,63,18,70
-457,FBIZ,Financial Services,Banks—Regional,NASDAQ,121.74,88,83,81,48
-458,EOG,Energy,Oil & Gas E&P,NYSE,121.74,88,80,70,71
-459,CHEF,Consumer Defensive,Food Distribution,NASDAQ,121.7,88,95,91,76
-460,PFIS,Financial Services,Banks—Regional,NASDAQ,121.7,88,85,84,65
-461,ARW,Technology,Electronics & Computer Distribution,NYSE,121.58,88,95,83,90
-462,XOM,Energy,Oil & Gas Integrated,NYSE,121.49,88,85,73,75
-463,GPN,Industrials,Specialty Business Services,NYSE,121.42,88,68,66,24
-464,HELE,Consumer Defensive,Household & Personal Products,NASDAQ,121.38,88,69,84,58
-465,FLYW,Technology,Information Technology Services,NASDAQ,121.37,88,82,77,81
-466,BRKR,Healthcare,Medical Devices,NASDAQ,121.36,88,86,88,68
-467,ARL,Real Estate,Real Estateâ€”Development,NYSE,121.33,88,29,37,18
-468,OUT,Real Estate,REIT—Specialty,NYSE,121.32,87,73,82,89
-469,STM,Technology,Semiconductors,NYSE,121.29,87,92,92,96
-470,CNXN,Technology,Electronics & Computer Distribution,NASDAQ,121.27,87,91,79,37
-471,BDX,Healthcare,Medical Instruments & Supplies,NYSE,121.18,87,78,72,29
-472,PGNY,Healthcare,Health Information Services,NASDAQ,121.16,87,67,79,54
-473,VAL,Energy,Oil & Gas Equipment & Services,NYSE,121.12,87,81,72,91
-474,CD,Technology,Information Technology Services,NASDAQ,121.09,87,95,3,61
-475,SWK,Industrials,Tools & Accessories,NYSE,121.03,87,75,85,44
-476,VIOT,Technology,Consumer Electronics,NASDAQ,120.98,87,88,3,4
-477,PTC,Technology,Software—Application,NASDAQ,120.92,87,87,22,18
-478,PGC,Financial Services,Banks—Regional,NASDAQ,120.89,87,83,86,83
-479,HBT,Financial Services,Banks—Regional,NASDAQ,120.89,87,87,85,53
-480,PDS,Energy,Oil & Gas Drilling,NYSE,120.87,87,73,55,87
-481,LEGH,Consumer Cyclical,Residential Construction,NASDAQ,120.78,87,84,76,38
-482,CZNC,Financial Services,Banks—Regional,NASDAQ,120.76,87,81,76,45
-483,IGR,Financial Services,Asset Management,NYSE,120.69,87,86,97,97
-484,LH,Healthcare,Diagnostics & Research,NYSE,120.63,87,75,74,31
-485,INFU,Healthcare,Medical Instruments & Supplies,NYSE MKT,120.56,87,90,86,53
-486,NWL,Consumer Defensive,Household & Personal Products,NASDAQ,120.56,87,84,90,28
-487,AGYS,Technology,Softwareâ€”Application,NASDAQ,120.55,87,53,73,9
-488,AMAL,Financial Services,Banksâ€”Regional,NASDAQ,120.48,87,86,87,73
-489,TALO,Energy,Oil & Gas E&P,NYSE,120.47,87,89,84,86
-490,MTRN,Basic Materials,Other Industrial Metals & Mining,NYSE,120.36,87,97,96,93
-491,RGA,Financial Services,Insurance—Reinsurance,NYSE,120.26,87,79,69,45
-492,AIN,Consumer Cyclical,Textile Manufacturing,NYSE,120.25,87,46,42,61
-493,OSW,Consumer Cyclical,Leisure,NASDAQ,120.19,87,48,60,57
-494,MORN,Financial Services,Financial Data & Stock Exchanges,NASDAQ,120.17,87,63,44,18
-495,ATER,Technology,Consumer Electronics,NASDAQ,120.14,87,9,3,69
-496,CLBK,Financial Services,Banks—Regional,NASDAQ,120.1,87,90,86,71
-497,IQV,Healthcare,Diagnostics & Research,NYSE,120.03,87,85,80,35
-498,ZS,Technology,Software—Infrastructure,NASDAQ,120.02,87,81,22,8
-499,AQB,Consumer Defensive,Farm Products,NASDAQ,119.97,87,25,91,43
-500,VET,Energy,Oil & Gas E&P,NYSE,119.96,87,84,68,86
-501,ARQT,Healthcare,Biotechnology,NASDAQ,119.9,87,36,73,59
-502,ATLO,Financial Services,Banks—Regional,NASDAQ,119.85,87,86,81,78
-503,SIRI,Communication Services,Broadcasting,NASDAQ,119.84,87,64,76,75
-504,RLGT,Industrials,Integrated Freight & Logistics,NYSE MKT,119.74,87,82,70,75
-505,LTC,Real Estate,REIT—Healthcare Facilities,NYSE,119.72,87,77,52,56
-506,NSP,Industrials,Staffing & Employment Services,NYSE,119.72,87,82,88,20
-507,PDLB,Financial Services,Banks—Regional,NASDAQ,119.71,86,77,74,65
-508,BLMN,Consumer Cyclical,Restaurants,NASDAQ,119.51,86,77,90,73
-509,SCL,Basic Materials,Specialty Chemicals,NYSE,119.51,86,81,79,29
-510,PCB,Financial Services,Banks—Regional,NASDAQ,119.5,86,78,73,60
-511,POWW,Industrials,Aerospace & Defense,NASDAQ,119.35,86,69,91,61
-512,CORT,Healthcare,Biotechnology,NASDAQ,119.33,86,98,97,53
-513,HCSG,Healthcare,Medical Care Facilities,NASDAQ,119.29,86,61,64,74
-514,TRV,Financial Services,Insurance—Property & Casualty,NYSE,119.26,86,78,81,52
-515,SPOT,Communication Services,Internet Content & Information,NYSE,119.26,86,33,42,15
-516,SMTI,Healthcare,Medical Care Facilities,NASDAQ,119.2,86,93,92,19
-517,VOYA,Financial Services,Financial Conglomerates,NYSE,119.08,86,81,82,66
-518,FTDR,Consumer Cyclical,Personal Services,NASDAQ,119.07,86,80,89,63
-519,ASAN,Technology,Softwareâ€”Application,NYSE,119.07,86,65,49,3
-520,NTNX,Technology,Software—Infrastructure,NASDAQ,118.9,86,90,74,16
-521,ARCB,Industrials,Trucking,NASDAQ,118.89,86,82,90,83
-522,MUR,Energy,Oil & Gas E&P,NYSE,118.89,86,76,65,84
-523,RS,Basic Materials,Steel,NYSE,118.86,86,83,82,72
-524,SOPH,Healthcare,Health Information Services,NASDAQ,118.78,86,93,95,67
-525,BGR,Financial Services,Asset Management,NYSE,118.76,86,82,65,74
-526,NHC,Healthcare,Medical Care Facilities,NYSE MKT,118.72,86,91,91,87
-527,FGBI,Financial Services,Banks—Regional,NASDAQ,118.71,86,38,45,65
-528,PRAA,Financial Services,Credit Services,NASDAQ,118.65,86,77,79,60
-529,AVT,Technology,Electronics & Computer Distribution,NASDAQ,118.57,86,96,91,88
-530,ATLC,Financial Services,Credit Services,NASDAQ,118.55,86,87,89,81
-531,BHVN,Healthcare,Biotechnology,NYSE,118.49,86,40,86,12
-532,VFC,Consumer Cyclical,Apparel Manufacturing,NYSE,118.49,86,26,25,56
-533,STNG,Energy,Oil & Gas Midstream,NYSE,118.48,86,88,64,87
-534,TITN,Industrials,Industrial Distribution,NASDAQ,118.46,86,92,26,48
-535,KRP,Energy,Oil & Gas E&P,NYSE,118.44,86,75,57,68
-536,INTT,Technology,Semiconductors,NYSE MKT,118.24,86,87,76,96
-537,CNO,Financial Services,Insurance—Life,NYSE,118.21,86,79,81,66
-538,VCYT,Healthcare,Biotechnology,NASDAQ,118.15,86,54,77,64
-539,THC,Healthcare,Medical Care Facilities,NYSE,118.13,86,85,85,43
-540,U,Technology,Software—Application,NYSE,118.06,86,91,87,54
-541,PYPD,Healthcare,Biotechnology,NASDAQ,118.04,86,73,67,66
-542,EXLS,Technology,Information Technology Services,NASDAQ,117.99,86,65,41,12
-543,TUSK,Energy,Oil & Gas Equipment & Services,NASDAQ,117.98,86,79,83,84
-544,ENTG,Technology,Semiconductor Equipment & Materials,NASDAQ,117.96,86,90,83,87
-545,ZIP,Industrials,Staffing & Employment Services,NYSE,117.9,86,72,91,85
-546,KARO,Technology,Software—Application,NASDAQ,117.86,85,78,84,46
-547,CPAC,Basic Materials,Building Materials,NYSE,117.83,85,83,84,83
-548,HRTG,Financial Services,Insurance—Property & Casualty,NYSE,117.79,85,87,85,22
-549,EPC,Consumer Defensive,Household & Personal Products,NYSE,117.75,85,85,87,19
-550,URGN,Healthcare,Biotechnology,NASDAQ,117.68,85,96,96,93
-551,WAT,Healthcare,Diagnostics & Research,NYSE,117.6,85,81,73,41
-552,PM,Consumer Defensive,Tobacco,NYSE,117.6,85,77,52,62
-553,TILE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,117.57,85,79,81,44
-554,FNLC,Financial Services,Banks—Regional,NASDAQ,117.57,85,78,80,56
-555,ROP,Industrials,Specialty Industrial Machinery,NASDAQ,117.56,85,34,45,14
-556,COKE,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,117.52,85,83,77,72
-557,FEIM,Technology,Communication Equipment,NASDAQ,117.51,85,95,93,95
-558,DCTH,Healthcare,Medical Devices,NASDAQ,117.47,85,89,93,66
-559,V,Financial Services,Credit Services,NYSE,117.46,85,66,52,32
-560,EWTX,Healthcare,Biotechnology,NASDAQ,117.43,85,92,97,91
-561,WTBA,Financial Services,Banks—Regional,NASDAQ,117.4,85,86,80,55
-562,KDP,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,117.39,85,73,38,35
-563,CRON,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,117.37,85,83,63,63
-564,GSAT,Communication Services,Telecom Services,NASDAQ,117.36,85,85,93,96
-565,W,Consumer Cyclical,Internet Retail,NYSE,117.29,85,79,85,21
-566,TD,Financial Services,Banks—Diversified,NYSE,117.28,85,79,83,80
-567,FENC,Healthcare,Biotechnology,NASDAQ,117.28,85,81,87,21
-568,NECB,Financial Services,Banks—Regional,NASDAQ,117.28,85,73,68,53
-569,MO,Consumer Defensive,Tobacco,NYSE,117.24,85,66,44,71
-570,ACNB,Financial Services,Banksâ€”Regional,NASDAQ,117.17,85,85,82,61
-571,DGX,Healthcare,Diagnostics & Research,NYSE,117.17,85,79,79,43
-572,SHIP,Industrials,Marine Shipping,NASDAQ,117.16,85,95,91,94
-573,MEDP,Healthcare,Diagnostics & Research,NASDAQ,117.16,85,69,78,40
-574,PLBC,Financial Services,Banks—Regional,NASDAQ,117.14,85,84,81,63
-575,CZWI,Financial Services,Banks—Regional,NASDAQ,117.14,85,68,58,77
-576,ACIW,Technology,Softwareâ€”Infrastructure,NASDAQ,117.1,85,54,67,28
-577,BNS,Financial Services,Banks—Diversified,NYSE,117.04,85,82,78,74
-578,RRBI,Financial Services,Banks—Regional,NASDAQ,116.94,85,84,80,76
-579,EBAY,Consumer Cyclical,Internet Retail,NASDAQ,116.93,85,62,61,83
-580,BIVI,Healthcare,Biotechnology,NASDAQ,116.9,85,20,12,18
-581,III,Technology,Information Technology Services,NASDAQ,116.87,85,85,58,26
-582,DJCO,Communication Services,Publishing,NASDAQ,116.83,85,80,69,51
-583,DV,Technology,Software—Application,NYSE,116.82,85,81,69,15
-584,ADP,Industrials,Staffing & Employment Services,NASDAQ,116.77,85,67,64,20
-585,CGEM,Healthcare,Biotechnology,NASDAQ,116.74,84,92,95,93
-586,MTD,Healthcare,Diagnostics & Research,NYSE,116.71,84,74,63,14
-587,IFF,Basic Materials,Specialty Chemicals,NYSE,116.59,84,78,69,54
-588,ASH,Basic Materials,Specialty Chemicals,NYSE,116.59,84,82,86,48
-589,OXY,Energy,Oil & Gas E&P,NYSE,116.59,84,79,74,78
-590,SB,Industrials,Marine Shipping,NYSE,116.55,84,94,85,88
-591,KO,Consumer Defensive,Beverages—Non-Alcoholic,NYSE,116.53,84,77,65,61
-592,MCK,Healthcare,Medical Distribution,NYSE,116.5,84,75,59,29
-593,OBT,Financial Services,Banks—Regional,NASDAQ,116.49,84,80,80,67
-594,PEO,Financial Services,Asset Management,NYSE,116.49,84,83,70,73
-595,TRST,Financial Services,Banks—Regional,NASDAQ,116.44,84,82,81,77
-596,CSTL,Healthcare,Diagnostics & Research,NASDAQ,116.43,84,84,86,11
-597,MAN,Industrials,Staffing & Employment Services,NYSE,116.4,84,94,95,15
-598,PDEX,Healthcare,Medical Instruments & Supplies,NASDAQ,116.37,84,90,89,86
-599,COLM,Consumer Cyclical,Apparel Manufacturing,NASDAQ,116.3,84,48,39,39
-600,ESCA,Consumer Cyclical,Leisure,NASDAQ,116.27,84,81,90,81
-601,CBOE,Financial Services,Financial Data & Stock Exchanges,BATS,116.19,84,63,29,85
-602,BP,Energy,Oil & Gas Integrated,NYSE,116.12,84,81,57,78
-603,FTNT,Technology,Software—Infrastructure,NASDAQ,116.12,84,97,95,81
-604,BIO,Healthcare,Medical Devices,NYSE,116.11,84,82,81,20
-605,QTWO,Technology,Software—Application,NYSE,116.1,84,54,55,8
-606,CENT,Consumer Defensive,Packaged Foods,NASDAQ,116.08,84,67,73,55
-607,DCOM,Financial Services,Banks—Regional,NYSE,116.03,84,76,77,73
-608,RGEN,Healthcare,Medical Instruments & Supplies,NASDAQ,116.0,84,81,80,16
-609,CADL,Healthcare,Biotechnology,NASDAQ,115.93,84,94,92,89
-610,LIVN,Healthcare,Medical Devices,NASDAQ,115.89,84,70,78,80
-611,FCN,Industrials,Consulting Services,NYSE,115.88,84,22,21,24
-612,ABNB,Communication Services,Internet Content & Information,NASDAQ,115.83,84,78,88,57
-613,JXN,Financial Services,Asset Management,NYSE,115.77,84,83,78,61
-614,AUDC,Technology,Communication Equipment,NASDAQ,115.76,84,77,63,49
-615,HOFT,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,115.76,84,63,82,64
-616,GENC,Industrials,Farm & Heavy Construction Machinery,NYSE MKT,115.73,84,83,50,44
-617,TTE,Energy,Oil & Gas Integrated,NYSE,115.72,84,79,71,84
-618,PBT,Energy,Oil & Gas E&P,NYSE,115.7,84,95,93,93
-619,TW,Financial Services,Capital Markets,NASDAQ,115.6,84,54,20,26
-620,ASO,Consumer Cyclical,Specialty Retail,NASDAQ,115.58,84,56,29,35
-621,MAC,Real Estate,REIT—Retail,NYSE,115.55,84,70,79,78
-622,ALKS,Healthcare,Biotechnology,NASDAQ,115.52,84,69,90,74
-623,OVID,Healthcare,Biotechnology,NASDAQ,115.51,84,65,97,99
-624,CVCO,Consumer Cyclical,Residential Construction,NASDAQ,115.45,83,60,61,20
-625,BNED,Consumer Cyclical,Specialty Retail,NYSE,115.45,83,77,85,66
-626,PHVS,Healthcare,Biotechnology,NASDAQ,115.42,83,68,85,86
-627,DMLP,Energy,Oil & Gas E&P,NASDAQ,115.39,83,82,57,64
-628,ARMK,Consumer Cyclical,Restaurants,NYSE,115.38,83,81,84,79
-629,EHC,Healthcare,Medical Care Facilities,NYSE,115.37,83,71,61,30
-630,HNST,Consumer Cyclical,Specialty Retail,NASDAQ,115.33,83,93,95,71
-631,NEWP,Basic Materials,Other Precious Metals & Mining,NYSE MKT,115.31,83,96,97,98
-632,SJM,Consumer Defensive,Packaged Foods,NYSE,115.31,83,75,62,29
-633,URI,Industrials,Rental & Leasing Services,NYSE,115.29,83,74,77,62
-634,NWE,Utilities,Utilities—Diversified,NASDAQ,115.24,83,62,56,69
-635,VABK,Financial Services,Banks—Regional,NASDAQ,115.24,83,79,65,59
-636,DSGX,Technology,Software—Application,NASDAQ,115.22,83,55,43,18
-637,CAH,Healthcare,Medical Distribution,NYSE,115.21,83,74,77,48
-638,LOCO,Consumer Cyclical,Restaurants,NASDAQ,115.21,83,73,80,77
-639,MOV,Consumer Cyclical,Luxury Goods,NYSE,115.2,83,86,95,85
-640,GWW,Industrials,Industrial Distribution,NYSE,115.2,83,70,66,73
-641,SIMO,Technology,Semiconductors,NASDAQ,115.19,83,98,95,98
-642,URBN,Consumer Cyclical,Apparel Retail,NASDAQ,115.16,83,70,61,39
-643,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYSE,115.02,83,73,71,16
-644,DBX,Technology,Software—Infrastructure,NASDAQ,115.02,83,83,79,33
-645,BAX,Healthcare,Medical Instruments & Supplies,NYSE,114.97,83,76,87,17
-646,LSBK,Financial Services,Banks—Regional,NASDAQ,114.97,83,79,65,70
-647,HLF,Consumer Defensive,Packaged Foods,NYSE,114.93,83,55,30,76
-648,CCNE,Financial Services,Banks—Regional,NASDAQ,114.89,83,78,78,70
-649,TMP,Financial Services,Banks—Regional,NYSE MKT,114.88,83,83,81,68
-650,RMNI,Technology,Software—Application,NASDAQ,114.87,83,45,82,45
-651,SCSC,Technology,Electronics & Computer Distribution,NASDAQ,114.85,83,89,79,56
-652,PERI,Communication Services,Internet Content & Information,NASDAQ,114.83,83,29,32,66
-653,TACT,Technology,Computer Hardware,NASDAQ,114.82,83,63,90,25
-654,IOSP,Basic Materials,Specialty Chemicals,NASDAQ,114.76,83,84,64,31
-655,CNNE,Consumer Cyclical,Restaurants,NYSE,114.76,83,63,27,24
-656,TSBK,Financial Services,Banks—Regional,NASDAQ,114.66,83,79,76,67
-657,FRBA,Financial Services,Banks—Regional,NASDAQ,114.66,83,64,68,28
-658,WFCF,Technology,Software—Application,NASDAQ,114.63,83,65,37,39
-659,GSBC,Financial Services,Banks—Regional,NASDAQ,114.61,83,77,79,65
-660,QGEN,Healthcare,Diagnostics & Research,NYSE,114.57,83,60,53,9
-661,HLT,Consumer Cyclical,Lodging,NYSE,114.46,83,61,46,58
-662,OOMA,Communication Services,Telecom Services,NYSE,114.44,82,89,91,89
-663,SRCE,Financial Services,Banks—Regional,NASDAQ,114.44,82,82,81,62
-664,DCO,Industrials,Aerospace & Defense,NYSE,114.43,82,90,94,89
-665,EVI,Industrials,Industrial Distribution,NYSE MKT,114.41,82,39,5,12
-666,VIRT,Financial Services,Capital Markets,NYSE,114.36,82,90,80,83
-667,ABM,Industrials,Specialty Business Services,NYSE,114.26,82,72,59,21
-668,ECOR,Healthcare,Medical Devices,NASDAQ,114.25,82,96,91,69
-669,ARTW,Industrials,Farm & Heavy Construction Machinery,NASDAQ,114.24,82,89,49,62
-670,GNK,Industrials,Marine Shipping,NYSE,114.16,82,89,76,86
-671,BPRN,Financial Services,Banks—Regional,NASDAQ,114.14,82,84,75,49
-672,SPSC,Technology,Software—Infrastructure,NASDAQ,114.07,82,75,50,4
-673,CTAS,Industrials,Specialty Business Services,NASDAQ,114.05,82,65,53,17
-674,HPQ,Technology,Computer Hardware,NYSE,114.0,82,91,83,32
-675,IMO,Energy,Oil & Gas Integrated,NYSE MKT,113.97,82,75,71,84
-676,HVT,Consumer Cyclical,Home Improvement Retail,NYSE,113.97,82,82,82,26
-677,INTG,Consumer Cyclical,Lodging,NASDAQ,113.94,82,38,75,95
-678,WSM,Consumer Cyclical,Specialty Retail,NYSE,113.94,82,80,81,23
-679,ICFI,Industrials,Consulting Services,NASDAQ,113.91,82,59,65,11
-680,UFI,Consumer Cyclical,Textile Manufacturing,NYSE,113.91,82,93,93,34
-681,NDAQ,Financial Services,Financial Data & Stock Exchanges,NASDAQ,113.88,82,57,48,57
-682,ATI,Industrials,Metal Fabrication,NYSE,113.87,82,92,97,91
-683,PBFS,Financial Services,Banks—Regional,NASDAQ,113.86,82,79,73,60
-684,STX,Technology,Computer Hardware,NASDAQ,113.79,82,97,98,99
-685,SBLK,Industrials,Marine Shipping,NASDAQ,113.77,82,90,81,82
-686,TYL,Technology,Software—Application,NYSE,113.75,82,32,14,12
-687,MA,Financial Services,Credit Services,NYSE,113.74,82,60,46,25
-688,DE,Industrials,Farm & Heavy Construction Machinery,NYSE,113.74,82,85,56,60
-689,MET,Financial Services,Insurance—Life,NYSE,113.65,82,78,78,44
-690,SAIL,Technology,Software—Infrastructure,NASDAQ,113.65,82,82,80,7
-691,FBIOP,Healthcare,Biotechnology,NASDAQ,113.64,82,94,97,91
-692,NDSN,Industrials,Specialty Industrial Machinery,NASDAQ,113.63,82,85,70,67
-693,PAG,Consumer Cyclical,Auto & Truck Dealerships,NYSE,113.63,82,77,80,37
-694,WTTR,Energy,Oil & Gas Equipment & Services,NYSE,113.61,82,91,94,93
-695,WDAY,Technology,Software—Application,NASDAQ,113.6,82,78,64,5
-696,VG,Communication Services,Telecom Services,NYSE,113.59,82,80,85,81
-697,IHG,Consumer Cyclical,Lodging,NYSE,113.58,82,71,61,66
-698,ALLE,Industrials,Security & Protection Services,NYSE,113.54,82,60,51,15
-699,RPAY,Technology,Software—Infrastructure,NASDAQ,113.52,82,55,41,25
-700,NVAX,Healthcare,Biotechnology,NASDAQ,113.49,82,87,21,72
-701,SPNT,Financial Services,Insurance—Reinsurance,NYSE,113.47,82,72,54,64
-702,ZKIN,Basic Materials,Steel,NASDAQ,113.46,81,63,5,9
-703,NWFL,Financial Services,Banks—Regional,NASDAQ,113.45,81,79,72,54
-704,MBIN,Financial Services,Banks—Regional,NASDAQ,113.41,81,83,86,74
-705,TTC,Industrials,Tools & Accessories,NYSE,113.4,81,73,63,61
-706,PSO,Communication Services,Publishing,NYSE,113.37,81,69,69,61
-707,OVBC,Financial Services,Banks—Regional,NASDAQ,113.35,81,73,53,71
-708,CAC,Financial Services,Banks—Regional,NASDAQ,113.35,81,81,82,63
-709,FATE,Healthcare,Biotechnology,NASDAQ,113.35,81,92,97,94
-710,XOS,Industrials,Farm & Heavy Construction Machinery,NASDAQ,113.34,81,91,69,11
-711,BME,Financial Services,Asset Management,NYSE,113.33,81,66,68,53
-712,AIZ,Financial Services,Insuranceâ€”Specialty,NYSE,113.31,81,70,76,66
-713,PFE,Healthcare,Drug Manufacturers—General,NYSE,113.3,81,71,52,52
-714,ANAB,Healthcare,Biotechnology,NASDAQ,113.26,81,87,96,98
-715,DXCM,Healthcare,Diagnostics & Research,NASDAQ,113.26,81,80,84,20
-716,ULCC,Industrials,Airlines,NASDAQ,113.21,81,78,89,46
-717,EOLS,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,113.19,81,85,79,68
-718,PBI,Industrials,Business Equipment & Supplies,NYSE,113.15,81,88,88,88
-719,VRSN,Technology,Software—Infrastructure,NASDAQ,113.13,81,70,60,74
-720,VGZ,Basic Materials,Gold,NYSE MKT,113.11,81,90,74,87
-721,CFBK,Financial Services,Banks—Regional,NASDAQ,113.07,81,83,83,45
-722,APOG,Industrials,Building Products & Equipment,NASDAQ,113.04,81,61,60,24
-723,AFCG,Real Estate,REITâ€”Specialty,NASDAQ,112.96,81,69,22,36
-724,BKH,Utilities,Utilities—Diversified,NYSE,112.9,81,58,50,65
-725,RLI,Financial Services,Insurance—Property & Casualty,NYSE,112.89,81,41,68,12
-726,CATY,Financial Services,Banks—Regional,NASDAQ,112.85,81,71,74,68
-727,BHB,Financial Services,Banks—Regional,NYSE MKT,112.85,81,77,73,54
-728,DSP,Technology,Software—Application,NASDAQ,112.85,81,63,83,36
-729,JNJ,Healthcare,Drug Manufacturers—General,NYSE,112.8,81,73,78,73
-730,SLAB,Technology,Semiconductors,NASDAQ,112.78,81,83,79,83
-731,AMPH,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,112.78,81,78,22,7
-732,ASRV,Financial Services,Banks—Regional,NASDAQ,112.68,81,86,91,75
-733,LMT,Industrials,Aerospace & Defense,NYSE,112.68,81,43,70,47
-734,CGAU,Basic Materials,Gold,NYSE,112.67,81,91,94,93
-735,DLTR,Consumer Defensive,Discount Stores,NASDAQ,112.66,81,59,75,15
-736,EAF,Industrials,Electrical Equipment & Parts,NYSE,112.63,81,73,10,48
-737,UTHR,Healthcare,Biotechnology,NASDAQ,112.56,81,57,65,86
-738,BSRR,Financial Services,Banks—Regional,NASDAQ,112.53,81,73,69,69
-739,CAPR,Healthcare,Biotechnology,NASDAQ,112.46,81,3,1,98
-740,OKE,Energy,Oil & Gas Midstream,NYSE,112.44,81,73,64,67
-741,MSM,Industrials,Industrial Distribution,NYSE,112.35,80,87,81,75
-742,RSG,Industrials,Waste Management,NYSE,112.33,80,50,38,27
-743,GDDY,Technology,Software—Infrastructure,NYSE,112.32,80,50,18,10
-744,ORMP,Healthcare,Biotechnology,NASDAQ,112.32,80,89,88,93
-745,UNH,Healthcare,Healthcare Plans,NYSE,112.3,80,57,81,82
-746,GDRX,Healthcare,Health Information Services,NASDAQ,112.3,80,71,78,28
-747,HYLN,Consumer Cyclical,Auto Parts,NYSE MKT,112.28,80,95,95,93
-748,WASH,Financial Services,Banks—Regional,NASDAQ,112.26,80,79,79,50
-749,DVN,Energy,Oil & Gas E&P,NYSE,112.26,80,81,63,77
-750,HURC,Industrials,Specialty Industrial Machinery,NASDAQ,112.24,80,79,75,35
-751,CHT,Communication Services,Telecom Services,NYSE,112.24,80,71,38,44
-752,EPAM,Technology,Information Technology Services,NYSE,112.21,80,33,10,3
-753,MYE,Consumer Cyclical,Packaging & Containers,NYSE,112.17,80,92,94,80
-754,ATRA,Healthcare,Biotechnology,NASDAQ,112.14,80,61,41,89
-755,WNC,Industrials,Farm & Heavy Construction Machinery,NYSE,112.13,80,89,90,8
-756,HCI,Financial Services,Insurance—Property & Casualty,NYSE,112.13,80,61,66,30
-757,PRGO,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,112.11,80,76,25,6
-758,CRCT,Technology,Computer Hardware,NASDAQ,112.08,80,90,78,16
-759,UNP,Industrials,Railroads,NYSE,112.07,80,67,70,63
-760,BLKB,Technology,Software—Application,NASDAQ,112.06,80,69,39,4
-761,CACI,Technology,Information Technology Services,NYSE,112.05,80,74,71,31
-762,CCCC,Healthcare,Biotechnology,NASDAQ,112.0,80,51,88,94
-763,CHMI,Real Estate,REIT—Mortgage,NYSE,111.96,80,77,66,46
-764,BSY,Technology,Software—Application,NASDAQ,111.87,80,45,22,13
-765,CSX,Industrials,Railroads,NASDAQ,111.83,80,74,76,75
-766,ORRF,Financial Services,Banks—Regional,NASDAQ,111.82,80,72,72,50
-767,SIGI,Financial Services,Insurance—Property & Casualty,NASDAQ,111.82,80,46,63,45
-768,JAZZ,Healthcare,Biotechnology,NASDAQ,111.81,80,82,92,92
-769,DIN,Consumer Cyclical,Restaurants,NYSE,111.78,80,39,83,60
-770,NOG,Energy,Oil & Gas E&P,NYSE,111.75,80,74,42,32
-771,COFS,Financial Services,Banks—Regional,NASDAQ,111.74,80,69,62,51
-772,GPRK,Energy,Oil & Gas E&P,NYSE,111.71,80,91,61,77
-773,FMX,Consumer Defensive,Beverages—Brewers,NYSE,111.69,80,64,63,75
-774,TCI,Real Estate,Real Estate Services,NYSE,111.67,80,44,17,13
-775,WTRG,Utilities,Utilities—Regulated Water,NYSE,111.64,80,53,46,40
-776,RGR,Industrials,Aerospace & Defense,NYSE,111.63,80,70,39,62
-777,SPB,Consumer Defensive,Household & Personal Products,NYSE,111.59,80,70,82,76
-778,WELL,Real Estate,REIT—Healthcare Facilities,NYSE,111.58,80,71,70,75
-779,KRNY,Financial Services,Banks—Regional,NASDAQ,111.57,79,77,84,69
-780,RIG,Energy,Oil & Gas Drilling,NYSE,111.55,79,74,69,91
-781,TWN,Financial Services,Asset Management,NYSE,111.44,79,95,89,95
-782,PEBK,Financial Services,Banks—Regional,NASDAQ,111.44,79,78,76,74
-783,CENTA,Consumer Defensive,Packaged Foods,NASDAQ,111.41,79,62,67,55
-784,MAS,Industrials,Building Products & Equipment,NYSE,111.4,79,53,52,32
-785,GNE,Utilities,Utilities—Regulated Electric,NYSE,111.4,79,76,31,29
-786,AMG,Financial Services,Asset Management,NYSE,111.39,79,83,83,73
-787,ROG,Technology,Electronic Components,NYSE,111.39,79,91,77,90
-788,NPK,Industrials,Aerospace & Defense,NYSE,111.38,79,80,59,80
-789,EQH,Financial Services,Insurance—Diversified,NYSE,111.38,79,80,68,23
-790,AJG,Financial Services,Insurance Brokers,NYSE,111.38,79,30,57,14
-791,SBH,Consumer Cyclical,Specialty Retail,NYSE,111.36,79,66,73,29
-792,CPIX,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,111.36,79,98,99,87
-793,NL,Industrials,Security & Protection Services,NYSE,111.33,79,81,53,32
-794,RNR,Financial Services,Insurance—Reinsurance,NYSE,111.31,79,70,62,55
-795,TECH,Healthcare,Biotechnology,NASDAQ,111.31,79,72,84,16
-796,FUNC,Financial Services,Banks—Regional,NASDAQ,111.29,79,70,74,54
-797,BILL,Technology,Software—Application,NYSE,111.29,79,49,58,23
-798,MTDR,Energy,Oil & Gas E&P,NYSE,111.26,79,68,55,78
-799,MCBS,Financial Services,Banks—Regional,NASDAQ,111.17,79,76,73,64
-800,VRTX,Healthcare,Biotechnology,NASDAQ,111.16,79,67,73,49
-801,DOCN,Technology,Software—Infrastructure,NYSE,111.15,79,97,97,98
-802,STK,Financial Services,Asset Management,NYSE,111.15,79,89,80,88
-803,MTLS,Technology,Software—Application,NASDAQ,111.13,79,90,74,44
-804,LYB,Basic Materials,Specialty Chemicals,NYSE,111.12,79,70,62,84
-805,ZBRA,Technology,Communication Equipment,NASDAQ,111.09,79,92,90,22
-806,TS,Energy,Oil & Gas Equipment & Services,NYSE,111.08,79,81,64,89
-807,MNST,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,111.08,79,64,68,73
-808,CVLG,Industrials,Trucking,NYSE,111.04,79,67,78,80
-809,MOH,Healthcare,Healthcare Plans,NYSE,111.01,79,52,76,75
-810,STBA,Financial Services,Banks—Regional,NASDAQ,110.94,79,75,75,59
-811,ALL,Financial Services,Insuranceâ€”Property & Casualty,NYSE,110.91,79,53,81,52
-812,PRGS,Technology,Software—Application,NASDAQ,110.87,79,48,70,5
-813,TX,Basic Materials,Steel,NYSE,110.85,79,91,86,76
-814,KOF,Consumer Defensive,Beverages—Non-Alcoholic,NYSE,110.84,79,72,58,59
-815,PLMR,Financial Services,Insurance—Property & Casualty,NASDAQ,110.81,79,48,57,18
-816,CNI,Industrials,Railroads,NYSE,110.78,79,67,73,62
-817,WSFS,Financial Services,Banks—Regional,NASDAQ,110.77,78,77,78,70
-818,MFC,Financial Services,Insurance—Life,NYSE,110.77,78,76,74,73
-819,STLD,Basic Materials,Steel,NASDAQ,110.76,78,87,90,87
-820,HBNC,Financial Services,Banks—Regional,NASDAQ,110.72,78,69,68,57
-821,CARE,Financial Services,Banks—Regional,NASDAQ,110.57,78,84,90,84
-822,SMP,Consumer Cyclical,Auto Parts,NYSE,110.56,78,52,39,41
-823,EGY,Energy,Oil & Gas E&P,NYSE,110.55,78,85,77,87
-824,HMC,Consumer Cyclical,Auto Manufacturers,NYSE,110.52,78,73,58,15
-825,SMHI,Industrials,Marine Shipping,NYSE,110.51,78,79,85,63
-826,PBA,Energy,Oil & Gas Midstream,NYSE,110.49,78,69,64,73
-827,TTEK,Industrials,Engineering & Construction,NASDAQ,110.46,78,59,44,14
-828,DVA,Healthcare,Medical Care Facilities,NYSE,110.41,78,75,71,84
-829,IPAR,Consumer Defensive,Household & Personal Products,NASDAQ,110.4,78,75,76,22
-830,FIVE,Consumer Cyclical,Specialty Retail,NASDAQ,110.38,78,71,82,84
-831,NET,Technology,Software—Infrastructure,NYSE,110.37,78,94,91,46
-832,CBFV,Financial Services,Banks—Regional,NASDAQ,110.34,78,63,56,53
-833,FMBH,Financial Services,Banks—Regional,NASDAQ,110.34,78,77,77,56
-834,AWK,Utilities,Utilities—Regulated Water,NYSE,110.32,78,46,45,35
-835,CCEP,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,110.32,78,65,61,37
-836,BY,Financial Services,Banks—Regional,NYSE,110.31,78,75,78,62
-837,FDX,Industrials,Integrated Freight & Logistics,NYSE,110.31,78,68,81,80
-838,FDMT,Healthcare,Biotechnology,NASDAQ,110.31,78,86,75,89
-839,DHR,Healthcare,Diagnostics & Research,NYSE,110.3,78,60,54,16
-840,FTV,Technology,Scientific & Technical Instruments,NYSE,110.25,78,54,56,62
-841,AFG,Financial Services,Insuranceâ€”Property & Casualty,NYSE,110.22,78,56,55,50
-842,FCBC,Financial Services,Banks—Regional,NASDAQ,110.21,78,84,78,66
-843,DOW,Basic Materials,Chemicals,NYSE,110.2,78,56,52,85
-844,HFBL,Financial Services,Banks—Regional,NASDAQ,110.19,78,88,86,78
-845,LAMR,Real Estate,REIT—Specialty,NASDAQ,110.19,78,64,67,72
-846,ENR,Industrials,Electrical Equipment & Parts,NYSE,110.13,78,68,46,11
-847,DD,Basic Materials,Specialty Chemicals,NYSE,110.11,78,62,60,81
-848,OSBC,Financial Services,Banks—Regional,NASDAQ,110.1,78,82,80,61
-849,BJ,Consumer Defensive,Discount Stores,NYSE,110.09,78,64,34,30
-850,WDC,Technology,Computer Hardware,NASDAQ,110.07,78,94,98,99
-851,BATRA,Communication Services,Entertainment,NASDAQ,110.03,78,77,55,73
-852,PKBK,Financial Services,Banks—Regional,NASDAQ,109.98,78,81,83,78
-853,MDT,Healthcare,Medical Devices,NYSE,109.95,78,48,46,18
-854,CLF,Basic Materials,Steel,NYSE,109.95,78,77,61,63
-855,STT,Financial Services,Asset Management,NYSE,109.94,78,81,88,80
-856,AR,Energy,Oil & Gas E&P,NYSE,109.93,78,56,48,51
-857,DNA,Healthcare,Biotechnology,NYSE,109.89,77,87,11,30
-858,GLBE,Consumer Cyclical,Internet Retail,NASDAQ,109.84,77,65,76,16
-859,FORR,Industrials,Consulting Services,NASDAQ,109.84,77,91,91,17
-860,RVSB,Financial Services,Banks—Regional,NASDAQ,109.84,77,70,34,39
-861,EL,Consumer Defensive,Household & Personal Products,NYSE,109.77,77,69,32,28
-862,SEIC,Financial Services,Asset Management,NASDAQ,109.71,77,78,68,65
-863,MGRC,Industrials,Rental & Leasing Services,NASDAQ,109.7,77,62,47,43
-864,FTK,Energy,Oil & Gas Equipment & Services,NYSE,109.7,77,93,98,76
-865,TNET,Industrials,Staffing & Employment Services,NYSE,109.69,77,80,84,13
-866,SILC,Technology,Communication Equipment,NASDAQ,109.68,77,99,95,97
-867,NML,Financial Services,Asset Management,NYSE MKT,109.68,77,74,64,71
-868,KRO,Basic Materials,Specialty Chemicals,NYSE,109.67,77,90,88,72
-869,SHBI,Financial Services,Banks—Regional,NASDAQ,109.64,77,78,82,65
-870,FIZZ,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,109.62,77,48,25,26
-871,NCNO,Technology,Software—Application,NASDAQ,109.62,77,44,26,11
-872,CZR,Consumer Cyclical,Resorts & Casinos,NASDAQ,109.59,77,67,78,74
-873,AAPL,Technology,Consumer Electronics,NASDAQ,109.57,77,79,60,73
-874,WWW,Consumer Cyclical,Footwear & Accessories,NYSE,109.54,77,59,47,20
-875,EZPW,Financial Services,Credit Services,NASDAQ,109.52,77,80,67,93
-876,SLF,Financial Services,Insurance—Diversified,NYSE,109.47,77,74,80,66
-877,AVNT,Basic Materials,Specialty Chemicals,NYSE,109.45,77,81,83,30
-878,RBCAA,Financial Services,Banks—Regional,NASDAQ,109.43,77,82,85,56
-879,CLPR,Real Estate,REIT—Diversified,NYSE,109.41,77,54,21,21
-880,JHX,Basic Materials,Building Materials,NYSE,109.39,77,76,87,19
-881,LCNB,Financial Services,Banks—Regional,NASDAQ,109.38,77,77,77,42
-882,SGC,Consumer Cyclical,Apparel Manufacturing,NASDAQ,109.38,77,81,74,67
-883,APPF,Technology,Softwareâ€”Application,NASDAQ,109.32,77,63,37,10
-884,CHH,Consumer Cyclical,Lodging,NYSE,109.3,77,44,27,32
-885,KINS,Financial Services,Insurance—Property & Casualty,NASDAQ,109.3,77,69,80,25
-886,NWBI,Financial Services,Banks—Regional,NASDAQ,109.26,77,73,75,63
-887,HTHT,Consumer Cyclical,Lodging,NASDAQ,109.25,77,48,39,65
-888,EMO,Financial Services,Asset Management,NYSE,109.23,77,71,60,62
-889,CM,Financial Services,Banks—Diversified,NYSE,109.23,77,74,79,82
-890,INNV,Healthcare,Medical Care Facilities,NASDAQ,109.22,77,80,96,83
-891,WAB,Industrials,Railroads,NYSE,109.21,77,81,77,73
-892,UNF,Industrials,Specialty Business Services,NYSE,109.2,77,71,89,80
-893,ULTA,Consumer Cyclical,Specialty Retail,NASDAQ,109.2,77,59,38,26
-894,ASTC,Industrials,Aerospace & Defense,NASDAQ,109.17,77,87,99,11
-895,KFFB,Financial Services,Banks—Regional,NASDAQ,109.16,77,86,82,70
-896,BST,Financial Services,Asset Management,NYSE,109.15,76,86,71,73
-897,VMD,Healthcare,Medical Devices,NASDAQ,109.15,76,55,66,78
-898,ADUS,Healthcare,Medical Care Facilities,NASDAQ,109.13,76,63,60,19
-899,PEBO,Financial Services,Banks—Regional,NASDAQ,109.11,76,70,81,59
-900,RY,Financial Services,Banks—Diversified,NYSE,109.11,76,70,81,75
-901,SAP,Technology,Software—Application,NYSE,109.1,76,71,33,8
-902,RICK,Consumer Cyclical,Restaurants,NASDAQ,109.09,76,53,46,22
-903,SENEA,Consumer Defensive,Packaged Foods,NASDAQ,109.09,76,82,90,76
-904,GRC,Industrials,Specialty Industrial Machinery,NYSE,109.07,76,85,87,88
-905,FCF,Financial Services,Banks—Regional,NYSE,109.04,76,68,75,56
-906,CIVB,Financial Services,Banks—Regional,NASDAQ,109.04,76,72,74,60
-907,THFF,Financial Services,Banks—Regional,NASDAQ,109.03,76,75,83,65
-908,OFG,Financial Services,Banks—Regional,NYSE,109.02,76,74,73,53
-909,HNI,Industrials,Business Equipment & Supplies,NYSE,109.02,76,78,78,8
-910,IEX,Industrials,Specialty Industrial Machinery,NYSE,109.02,76,81,73,66
-911,APH,Technology,Electronic Components,NYSE,109.02,76,83,82,50
-912,YOU,Technology,Software—Application,NYSE,109.0,76,44,81,92
-913,PFG,Financial Services,Insurance—Diversified,NASDAQ,109.0,76,74,78,73
-914,ICUI,Healthcare,Medical Instruments & Supplies,NASDAQ,108.99,76,74,87,25
-915,PBHC,Financial Services,Banks—Regional,NASDAQ,108.97,76,74,65,32
-916,WCN,Industrials,Waste Management,NYSE,108.94,76,33,37,25
-917,DXC,Technology,Information Technology Services,NYSE,108.94,76,57,27,4
-918,BOOM,Energy,Oil & Gas Equipment & Services,NASDAQ,108.93,76,34,49,48
-919,BATRK,Communication Services,Entertainment,NASDAQ,108.92,76,76,59,74
-920,NBTB,Financial Services,Banks—Regional,NASDAQ,108.91,76,72,72,46
-921,PDFS,Technology,Software—Application,NASDAQ,108.89,76,91,89,95
-922,BMO,Financial Services,Banks—Diversified,NYSE,108.87,76,72,84,75
-923,WABC,Financial Services,Banks—Regional,NASDAQ,108.86,76,72,64,58
-924,H,Consumer Cyclical,Lodging,NYSE,108.85,76,40,54,58
-925,IT,Technology,Information Technology Services,NYSE,108.83,76,68,49,8
-926,VOC,Energy,Oil & Gas E&P,NYSE,108.81,76,85,70,61
-927,DMRC,Technology,Information Technology Services,NASDAQ,108.76,76,25,22,84
-928,MBWM,Financial Services,Banks—Regional,NASDAQ,108.74,76,75,75,52
-929,AWR,Utilities,Utilities—Regulated Water,NYSE,108.72,76,64,64,52
-930,PVH,Consumer Cyclical,Apparel Manufacturing,NYSE,108.69,76,49,61,58
-931,RNW,Utilities,Utilities—Renewable,NASDAQ,108.66,76,74,31,21
-932,PWR,Industrials,Engineering & Construction,NYSE,108.66,76,89,73,93
-933,TVTX,Healthcare,Biotechnology,NASDAQ,108.65,76,93,97,92
-934,PNW,Utilities,Utilities—Regulated Electric,NYSE,108.65,76,53,48,58
-935,SFNC,Financial Services,Banks—Regional,NASDAQ,108.63,75,69,69,51
-936,JAN,Industrials,Waste Management,NYSE,108.62,75,72,71,68
-937,CB,Financial Services,Insurance—Property & Casualty,NYSE,108.6,75,59,62,52
-938,MSI,Technology,Communication Equipment,NYSE,108.58,75,66,59,28
-939,BEN,Financial Services,Asset Management,NYSE,108.58,75,81,75,80
-940,FCAP,Financial Services,Banks—Regional,NASDAQ,108.58,75,79,84,73
-941,MANU,Consumer Cyclical,Leisure,NYSE,108.5,75,71,72,67
-942,WTS,Industrials,Specialty Industrial Machinery,NYSE,108.49,75,77,83,49
-943,BNY,Financial Services,Asset Management,NYSE,108.47,75,71,83,78
-944,LARK,Financial Services,Banks—Regional,NASDAQ,108.46,75,76,74,53
-945,J,Industrials,Engineering & Construction,NYSE,108.45,75,59,51,15
-946,NX,Industrials,Building Products & Equipment,NYSE,108.44,75,74,63,47
-947,UNM,Financial Services,Insurance—Life,NYSE,108.44,75,73,71,61
-948,PLTR,Technology,Software—Infrastructure,NASDAQ,108.41,75,87,60,24
-949,NTCT,Technology,Software—Infrastructure,NASDAQ,108.37,75,81,77,87
-950,LFUS,Technology,Electronic Components,NASDAQ,108.36,75,90,86,92
-951,CF,Basic Materials,Agricultural Inputs,NYSE,108.33,75,75,75,84
-952,KEYS,Technology,Scientific & Technical Instruments,NYSE,108.3,75,94,86,94
-953,CFFN,Financial Services,Banks—Regional,NASDAQ,108.28,75,78,79,71
-954,FAST,Industrials,Industrial Distribution,NASDAQ,108.27,75,71,66,41
-955,LXFR,Industrials,Specialty Industrial Machinery,NYSE,108.25,75,80,73,68
-956,MTN,Consumer Cyclical,Resorts & Casinos,NYSE,108.23,75,58,55,21
-957,WOR,Industrials,Metal Fabrication,NYSE,108.18,75,75,34,28
-958,CHD,Consumer Defensive,Household & Personal Products,NYSE,108.18,75,62,59,44
-959,PCVX,Healthcare,Biotechnology,NASDAQ,108.13,75,86,80,80
-960,BFST,Financial Services,Banks—Regional,NASDAQ,108.13,75,73,71,48
-961,ICE,Financial Services,Financial Data & Stock Exchanges,NYSE,108.13,75,55,23,34
-962,CPRI,Consumer Cyclical,Apparel Manufacturing,NYSE,108.12,75,13,13,19
-963,VFF,Consumer Defensive,Farm Products,NASDAQ,108.11,75,68,24,74
-964,CUBE,Real Estate,REIT—Industrial,NYSE,108.09,75,49,49,51
-965,UBSI,Financial Services,Banks—Regional,NASDAQ,108.07,75,70,71,57
-966,HAFC,Financial Services,Banks—Regional,NASDAQ,108.05,75,72,68,67
-967,HIW,Real Estate,REIT—Office,NYSE,108.05,75,67,68,48
-968,TFX,Healthcare,Medical Instruments & Supplies,NYSE,108.03,75,47,59,67
-969,APG,Industrials,Engineering & Construction,NYSE,108.03,75,55,44,67
-970,ATR,Consumer Cyclical,Packaging & Containers,NYSE,107.99,75,42,46,22
-971,GRX,Financial Services,Asset Management,NYSE,107.94,75,58,57,36
-972,ACGL,Financial Services,Insuranceâ€”Diversified,NASDAQ,107.93,74,46,47,37
-973,BTX,Healthcare,Biotechnology,NYSE,107.93,74,88,68,80
-974,CME,Financial Services,Financial Data & Stock Exchanges,NASDAQ,107.93,74,61,25,56
-975,SNX,Technology,Information Technology Services,NYSE,107.92,74,92,86,89
-976,HWKN,Basic Materials,Specialty Chemicals,NASDAQ,107.9,74,30,15,67
-977,CTS,Technology,Electronic Components,NYSE,107.89,74,81,79,76
-978,CPF,Financial Services,Banks—Regional,NYSE,107.88,74,66,74,64
-979,FXNC,Financial Services,Banks—Regional,NASDAQ,107.87,74,74,75,63
-980,IFRX,Healthcare,Biotechnology,NASDAQ,107.83,74,71,92,96
-981,CNOB,Financial Services,Banks—Regional,NASDAQ,107.83,74,64,73,68
-982,MSFT,Technology,Software—Infrastructure,NASDAQ,107.82,74,84,59,26
-983,IPSC,Healthcare,Biotechnology,NASDAQ,107.79,74,70,97,98
-984,KIM,Real Estate,REIT—Retail,NYSE,107.77,74,50,57,59
-985,CRAI,Industrials,Consulting Services,NASDAQ,107.76,74,49,38,17
-986,CHE,Healthcare,Medical Care Facilities,NYSE,107.76,74,74,77,25
-987,RELX,Communication Services,Publishing,NYSE,107.75,74,40,32,21
-988,GEF,Consumer Cyclical,Packaging & Containers,NYSE,107.74,74,82,83,40
-989,FCNCA,Financial Services,Banks—Regional,NASDAQ,107.7,74,60,63,37
-990,MTCH,Communication Services,Internet Content & Information,NASDAQ,107.7,74,76,48,67
-991,RBB,Financial Services,Banks—Regional,NASDAQ,107.68,74,78,77,71
-992,GFF,Industrials,Tools & Accessories,NYSE,107.68,74,76,80,50
-993,ED,Utilities,Utilities—Regulated Electric,NYSE,107.68,74,52,41,48
-994,DHC,Real Estate,REIT—Healthcare Facilities,NASDAQ,107.66,74,79,91,94
-995,BAH,Industrials,Consulting Services,NYSE,107.65,74,29,22,15
-996,CCBG,Financial Services,Banks—Regional,NASDAQ,107.65,74,66,71,64
-997,PKG,Consumer Cyclical,Packaging & Containers,NYSE,107.63,74,65,68,47
-998,KRYS,Healthcare,Biotechnology,NASDAQ,107.58,74,82,89,90
-999,MSCI,Financial Services,Financial Data & Stock Exchanges,NYSE,107.57,74,42,31,50
-1000,COLD,Real Estate,REIT—Industrial,NYSE,107.56,74,58,55,68
-1001,TRNS,Industrials,Industrial Distribution,NASDAQ,107.55,74,78,74,47
-1002,VIST,Energy,Oil & Gas E&P,NYSE,107.51,74,86,75,81
-1003,SPG,Real Estate,REIT—Retail,NYSE,107.5,74,59,68,66
-1004,PMVP,Healthcare,Biotechnology,NASDAQ,107.49,74,84,24,66
-1005,MCB,Financial Services,Banks—Regional,NYSE,107.47,74,56,64,63
-1006,EW,Healthcare,Medical Devices,NYSE,107.46,74,54,64,49
-1007,KEX,Industrials,Marine Shipping,NYSE,107.46,74,75,52,79
-1008,WEX,Technology,Software—Infrastructure,NYSE,107.43,74,69,73,24
-1009,KMX,Consumer Cyclical,Auto & Truck Dealerships,NYSE,107.43,74,79,88,17
-1010,EXR,Real Estate,REIT—Industrial,NYSE,107.41,74,47,48,47
-1011,KMI,Energy,Oil & Gas Midstream,NYSE,107.4,74,66,50,69
-1012,CASS,Industrials,Specialty Business Services,NASDAQ,107.4,74,81,81,54
-1013,SUN,Energy,Oil & Gas Refining & Marketing,n/a,107.36,73,84,76,79
-1014,DIBS,Consumer Cyclical,Internet Retail,NASDAQ,107.31,73,41,71,75
-1015,PGR,Financial Services,Insurance—Property & Casualty,NYSE,107.28,73,45,43,24
-1016,FHI,Financial Services,Asset Management,NYSE,107.25,73,56,69,63
-1017,EPSN,Energy,Oil & Gas E&P,NASDAQ,107.22,73,78,51,68
-1018,PSA,Real Estate,REIT—Industrial,NYSE,107.2,73,48,59,55
-1019,PRU,Financial Services,Insurance—Life,NYSE,107.15,73,64,71,38
-1020,CVBF,Financial Services,Banks—Regional,NASDAQ,107.14,73,66,63,42
-1021,CDW,Technology,Information Technology Services,NASDAQ,107.13,73,48,51,8
-1022,FRPT,Consumer Defensive,Packaged Foods,NASDAQ,107.11,73,65,67,11
-1023,FTI,Energy,Oil & Gas Equipment & Services,NYSE,107.09,73,84,87,91
-1024,NXPI,Technology,Semiconductors,NASDAQ,107.08,73,50,27,80
-1025,CRM,Technology,Software—Application,NYSE,107.07,73,77,29,12
-1026,MUFG,Financial Services,Banks—Diversified,NYSE,107.07,73,85,81,68
-1027,APT,Industrials,Building Products & Equipment,NYSE MKT,107.03,73,83,29,76
-1028,PSTL,Real Estate,REIT—Office,NYSE,107.03,73,82,75,87
-1029,FTS,Utilities,Utilities—Regulated Electric,NYSE,107.01,73,49,43,59
-1030,FLNT,Communication Services,Advertising Agencies,NASDAQ,107.0,73,27,94,48
-1031,EWBC,Financial Services,Banks—Diversified,NASDAQ,106.99,73,65,66,64
-1032,FISI,Financial Services,Banks—Regional,NASDAQ,106.98,73,80,84,69
-1033,UFPT,Consumer Cyclical,Packaging & Containers,NASDAQ,106.96,73,88,87,26
-1034,FANG,Energy,Oil & Gas E&P,NASDAQ,106.96,73,72,71,80
-1035,BVS,Healthcare,Diagnostics & Research,NASDAQ,106.94,73,92,93,82
-1036,DAL,Industrials,Airlines,NYSE,106.93,73,74,85,69
-1037,HRI,Industrials,Rental & Leasing Services,NYSE,106.89,73,56,75,29
-1038,VRDN,Healthcare,Biotechnology,NASDAQ,106.87,73,31,59,16
-1039,FFBC,Financial Services,Banks—Regional,NASDAQ,106.85,73,67,74,65
-1040,GRMN,Technology,Scientific & Technical Instruments,NYSE,106.82,73,77,86,64
-1041,PNRG,Energy,Oil & Gas E&P,NASDAQ,106.8,73,75,44,86
-1042,ECL,Basic Materials,Specialty Chemicals,NYSE,106.8,73,56,50,26
-1043,EXPE,Consumer Cyclical,Travel Services,NASDAQ,106.8,73,54,88,44
-1044,EXTR,Technology,Communication Equipment,NASDAQ,106.79,73,73,67,84
-1045,JLL,Real Estate,Real Estate Services,NYSE,106.78,73,39,61,62
-1046,G,Technology,Information Technology Services,NYSE,106.76,73,39,25,11
-1047,GFL,Industrials,Waste Management,NYSE,106.74,73,51,31,17
-1048,BZUN,Consumer Cyclical,Internet Retail,NASDAQ,106.74,73,78,45,31
-1049,RACE,Consumer Cyclical,Auto Manufacturers,NYSE,106.73,73,51,57,15
-1050,CFR,Financial Services,Banks—Regional,NYSE,106.72,73,67,76,46
-1051,FMNB,Financial Services,Banks—Regional,NASDAQ,106.72,73,70,65,47
-1052,APD,Basic Materials,Chemicals,NYSE,106.7,72,51,50,60
-1053,UVSP,Financial Services,Banks—Regional,NASDAQ,106.69,72,74,77,71
-1054,PFBC,Financial Services,Banks—Regional,NASDAQ,106.69,72,67,63,46
-1055,BE,Industrials,Electrical Equipment & Parts,NYSE,106.69,72,98,97,99
-1056,PANL,Industrials,Marine Shipping,NASDAQ,106.67,72,88,62,82
-1057,WMG,Communication Services,Entertainment,NASDAQ,106.66,72,38,16,64
-1058,DTIL,Healthcare,Biotechnology,NASDAQ,106.65,72,49,82,93
-1059,AER,Industrials,Airports & Air Services,NYSE,106.65,72,56,56,61
-1060,PVL,Energy,Oil & Gas E&P,NYSE,106.61,72,67,32,67
-1061,DRI,Consumer Cyclical,Restaurants,NYSE,106.6,72,59,57,35
-1062,CINF,Financial Services,Insurance—Property & Casualty,NASDAQ,106.59,72,47,50,48
-1063,UAN,Basic Materials,Agricultural Inputs,NYSE,106.59,72,81,62,85
-1064,DXPE,Industrials,Industrial Distribution,NASDAQ,106.57,72,90,89,78
-1065,GABC,Financial Services,Banks—Regional,NASDAQ,106.56,72,75,71,50
-1066,KYN,Financial Services,Asset Management,NYSE,106.56,72,72,63,68
-1067,OMC,Communication Services,Advertising Agencies,NYSE,106.55,72,44,65,51
-1068,INBK,Financial Services,Banks—Regional,NASDAQ,106.54,72,74,82,62
-1069,MYFW,Financial Services,Banks—Regional,NASDAQ,106.53,72,67,74,72
-1070,BMY,Healthcare,Drug Manufacturers—General,NYSE,106.49,72,71,76,62
-1071,SBSI,Financial Services,Banks—Regional,NYSE,106.49,72,44,44,54
-1072,ASUR,Technology,Software—Application,NASDAQ,106.48,72,29,29,48
-1073,TASK,Technology,Information Technology Services,NASDAQ,106.47,72,79,31,8
-1074,EVH,Healthcare,Health Information Services,NYSE,106.47,72,25,20,34
-1075,KN,Technology,Communication Equipment,NYSE,106.46,72,89,87,90
-1076,VERX,Technology,Software—Application,NASDAQ,106.42,72,20,9,9
-1077,GME,Consumer Cyclical,Specialty Retail,NYSE,106.37,72,69,14,29
-1078,MAYS,Real Estate,Real Estate Services,NASDAQ,106.22,72,52,36,60
-1079,BSM,Energy,Oil & Gas E&P,NYSE,106.2,72,71,58,45
-1080,QCRH,Financial Services,Banks—Regional,NASDAQ,106.19,72,72,74,61
-1081,NKSH,Financial Services,Banks—Regional,NASDAQ,106.18,72,87,74,65
-1082,FULT,Financial Services,Banks—Regional,NASDAQ,106.18,72,62,73,56
-1083,ITRN,Technology,Communication Equipment,NASDAQ,106.16,72,71,55,86
-1084,CP,Industrials,Railroads,NYSE,106.12,72,60,62,60
-1085,CHCO,Financial Services,Banks—Regional,NASDAQ,106.11,72,72,69,38
-1086,NBIX,Healthcare,Biotechnology,NASDAQ,106.05,72,42,61,77
-1087,SMBK,Financial Services,Banks—Regional,NYSE,106.05,72,84,82,59
-1088,MLR,Consumer Cyclical,Auto Parts,NYSE,106.04,72,83,73,60
-1089,SPGI,Financial Services,Financial Data & Stock Exchanges,NYSE,106.01,72,29,25,23
-1090,HITI,Healthcare,Pharmaceutical Retailers,NASDAQ,106.0,72,65,23,37
-1091,EBC,Financial Services,Banks—Regional,NASDAQ,105.99,71,60,75,57
-1092,EMR,Industrials,Specialty Industrial Machinery,NYSE,105.98,71,76,60,47
-1093,OPRX,Healthcare,Health Information Services,NASDAQ,105.97,71,63,9,2
-1094,NVS,Healthcare,Drug Manufacturers—General,NYSE,105.97,71,45,63,68
-1095,CSCO,Technology,Communication Equipment,NASDAQ,105.96,71,89,89,85
-1096,AIRT,Industrials,Integrated Freight & Logistics,NASDAQ,105.95,71,88,89,39
-1097,WTM,Financial Services,Insurance—Property & Casualty,NYSE,105.95,71,44,45,55
-1098,AMBP,Consumer Cyclical,Packaging & Containers,NYSE,105.95,71,67,80,42
-1099,RDY,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,105.92,71,33,20,28
-1100,SENEB,Consumer Defensive,Packaged Foods,NASDAQ,105.87,71,86,89,78
-1101,CLFD,Technology,Communication Equipment,NASDAQ,105.84,71,62,11,77
-1102,TARS,Healthcare,Biotechnology,NASDAQ,105.84,71,64,59,65
-1103,PI,Technology,Communication Equipment,NASDAQ,105.83,71,83,69,66
-1104,HQY,Healthcare,Health Information Services,NASDAQ,105.81,71,51,74,33
-1105,HP,Energy,Oil & Gas Drilling,NYSE,105.79,71,87,89,89
-1106,PAYX,Industrials,Staffing & Employment Services,NASDAQ,105.78,71,45,66,17
-1107,GVA,Industrials,Engineering & Construction,NYSE,105.76,71,51,41,79
-1108,USFD,Consumer Defensive,Food Distribution,NYSE,105.75,71,69,82,44
-1109,ATNI,Communication Services,Telecom Services,NASDAQ,105.74,71,89,91,82
-1110,BHV,Financial Services,Asset Management,NYSE,105.74,71,59,68,60
-1111,RSVR,Communication Services,Entertainment,NASDAQ,105.73,71,65,67,81
-1112,ALEC,Healthcare,Biotechnology,NASDAQ,105.72,71,34,22,81
-1113,CUBI,Financial Services,Banks—Regional,NYSE,105.72,71,54,64,61
-1114,ACT,Financial Services,Insuranceâ€”Specialty,NASDAQ,105.68,71,72,71,58
-1115,UGI,Utilities,Utilities—Regulated Gas,NYSE,105.67,71,62,37,30
-1116,ROST,Consumer Cyclical,Apparel Retail,NASDAQ,105.65,71,74,86,77
-1117,NOMD,Consumer Defensive,Packaged Foods,NYSE,105.59,71,50,42,7
-1118,VSH,Technology,Semiconductors,NYSE,105.59,71,96,93,96
-1119,STAA,Healthcare,Medical Instruments & Supplies,NASDAQ,105.56,71,29,38,85
-1120,PG,Consumer Defensive,Household & Personal Products,NYSE,105.52,71,57,33,28
-1121,LXU,Basic Materials,Chemicals,NYSE,105.5,71,44,32,91
-1122,ALSN,Consumer Cyclical,Auto Parts,NYSE,105.5,71,66,70,74
-1123,M,Consumer Cyclical,Department Stores,NYSE,105.49,71,68,88,63
-1124,KLIC,Technology,Semiconductor Equipment & Materials,NASDAQ,105.49,71,92,90,96
-1125,CCK,Consumer Cyclical,Packaging & Containers,NYSE,105.47,71,58,67,34
-1126,SMFG,Financial Services,Banks—Diversified,NYSE,105.47,71,81,80,74
-1127,PYPL,Financial Services,Credit Services,NASDAQ,105.46,71,63,64,21
-1128,HQH,Financial Services,Asset Management,NYSE,105.44,71,59,83,75
-1129,AMCR,Consumer Cyclical,Packaging & Containers,NYSE,105.39,71,55,56,21
-1130,TSM,Technology,Semiconductors,NYSE,105.36,70,88,78,85
-1131,DBI,Consumer Cyclical,Apparel Retail,NYSE,105.34,70,75,86,86
-1132,CL,Consumer Defensive,Household & Personal Products,NYSE,105.31,70,61,53,41
-1133,OIS,Energy,Oil & Gas Equipment & Services,NYSE,105.31,70,57,72,83
-1134,TREX,Industrials,Building Products & Equipment,NYSE,105.31,70,57,64,18
-1135,JCI,Industrials,Engineering & Construction,NYSE,105.31,70,84,65,74
-1136,WRLD,Financial Services,Credit Services,NASDAQ,105.28,70,54,82,54
-1137,GM,Consumer Cyclical,Auto Manufacturers,NYSE,105.27,70,72,77,69
-1138,PCOR,Technology,Software—Application,NYSE,105.27,70,49,39,13
-1139,CGNX,Technology,Scientific & Technical Instruments,NASDAQ,105.23,70,86,81,85
-1140,COR,Real Estate,REIT—Office,NYSE,105.2,70,52,50,16
-1141,IX,Financial Services,Credit Services,NYSE,105.16,70,74,79,83
-1142,UPS,Industrials,Integrated Freight & Logistics,NYSE,105.16,70,39,52,39
-1143,SQFTP,Real Estate,REIT—Diversified,NASDAQ,105.12,70,21,31,11
-1144,NTRS,Financial Services,Asset Management,NASDAQ,105.12,70,68,80,78
-1145,CI,Healthcare,Healthcare Plans,NYSE,105.11,70,42,34,54
-1146,IIPR,Real Estate,REIT—Industrial,NYSE,105.1,70,49,70,71
-1147,VLY,Financial Services,Banks—Regional,NASDAQ,105.1,70,51,76,72
-1148,MCY,Financial Services,Insurance—Property & Casualty,NYSE,105.1,70,65,72,75
-1149,SONY,Technology,Consumer Electronics,NYSE,105.08,70,55,34,26
-1150,FBNC,Financial Services,Banks—Regional,NASDAQ,105.03,70,61,65,62
-1151,TDW,Energy,Oil & Gas Equipment & Services,NYSE,105.01,70,85,84,84
-1152,TRIN,Financial Services,Asset Management,NYSE,104.99,70,76,74,70
-1153,RM,Financial Services,Credit Services,NYSE,104.98,70,23,21,41
-1154,EPAC,Industrials,Specialty Industrial Machinery,NYSE,104.96,70,46,26,16
-1155,LYV,Communication Services,Entertainment,NYSE,104.94,70,59,69,63
-1156,CLH,Industrials,Waste Management,NYSE,104.93,70,76,70,76
-1157,LW,Consumer Defensive,Packaged Foods,NYSE,104.92,70,61,53,16
-1158,CERS,Healthcare,Biotechnology,NASDAQ,104.92,70,62,86,89
-1159,OSUR,Healthcare,Medical Instruments & Supplies,NASDAQ,104.9,70,73,87,64
-1160,TFSL,Financial Services,Banks—Regional,NASDAQ,104.9,70,73,76,63
-1161,MDLZ,Consumer Defensive,Confectioners,NASDAQ,104.88,70,61,41,45
-1162,TSEM,Technology,Semiconductors,NASDAQ,104.87,70,97,98,99
-1163,ASB,Financial Services,Banksâ€”Regional,NYSE,104.86,70,60,67,56
-1164,MSEX,Utilities,Utilities—Regulated Water,NASDAQ,104.86,70,51,56,34
-1165,OGE,Utilities,Utilities—Regulated Electric,NYSE,104.83,70,50,40,55
-1166,ARLP,Energy,Thermal Coal,NASDAQ,104.83,70,59,45,47
-1167,HASI,Real Estate,REIT—Specialty,NYSE,104.83,70,64,74,80
+1,MRNA,Healthcare,Biotechnology,NASDAQ,586.44,99,99,94,90
+2,MTC,Technology,Software—Application,NASDAQ,445.22,99,99,50,98
+3,CDNA,Healthcare,Diagnostics & Research,NASDAQ,342.86,99,99,99,77
+4,VNCE,Consumer Cyclical,Apparel Manufacturing,NASDAQ,320.42,99,99,97,95
+5,RCEL,Healthcare,Medical Devices,NASDAQ,314.55,99,99,96,28
+6,KOD,Healthcare,Biotechnology,NASDAQ,313.86,99,99,98,99
+7,IPDN,Industrials,Staffing & Employment Services,NASDAQ,297.24,99,99,1,1
+8,AGL,Healthcare,Medical Care Facilities,NYSE,281.58,99,99,99,99
+9,REPL,Healthcare,Biotechnology,NASDAQ,279.88,99,97,98,8
+10,TXG,Healthcare,Health Information Services,NASDAQ,271.58,99,99,99,88
+11,DHY,Financial Services,Asset Management,NYSE MKT,268.33,99,99,99,99
+12,IOVA,Healthcare,Biotechnology,NASDAQ,256.31,99,99,98,88
+13,SLN,Healthcare,Biotechnology,NASDAQ,254.87,99,93,98,85
+14,PLSE,Healthcare,Medical Instruments & Supplies,NASDAQ,249.98,99,99,98,86
+15,ABCL,Healthcare,Biotechnology,NASDAQ,244.47,99,99,98,83
+16,TWST,Healthcare,Diagnostics & Research,NASDAQ,237.73,99,99,99,86
+17,VRA,Consumer Cyclical,Footwear & Accessories,NASDAQ,230.89,99,94,76,84
+18,PAYS,Industrials,Specialty Business Services,NASDAQ,226.15,99,99,98,85
+19,XNCR,Healthcare,Biotechnology,NASDAQ,225.26,99,96,97,69
+20,ULBI,Industrials,Electrical Equipment & Parts,NASDAQ,223.03,99,57,57,38
+21,SLS,Healthcare,Biotechnology,NASDAQ,215.21,99,99,99,98
+22,ABSI,Healthcare,Biotechnology,NASDAQ,205.85,99,98,99,94
+23,FOSL,Consumer Cyclical,Luxury Goods,NASDAQ,201.78,99,98,96,94
+24,SKIN,Consumer Defensive,Household & Personal Products,NASDAQ,201.01,99,97,99,99
+25,INDP,Healthcare,Biotechnology,NASDAQ,197.18,99,28,3,4
+26,OPRT,Financial Services,Credit Services,NASDAQ,195.99,99,94,85,35
+27,WHLRP,Real Estate,REIT—Retail,NASDAQ,194.59,99,98,95,88
+28,ETON,Healthcare,Biotechnology,NASDAQ,191.23,99,98,97,92
+29,EDRY,Industrials,Marine Shipping,NASDAQ,190.58,99,99,98,93
+30,RNG,Technology,Software—Application,NYSE,190.12,99,99,96,80
+31,ATEX,Communication Services,Telecom Services,NASDAQ,188.99,99,99,99,96
+32,RXT,Technology,Software—Infrastructure,NASDAQ,188.79,99,99,99,99
+33,QMCO,Technology,Computer Hardware,NASDAQ,187.21,99,99,98,73
+34,HOWL,Healthcare,Biotechnology,NASDAQ,186.65,99,93,2,5
+35,GTBP,Healthcare,Biotechnology,NASDAQ,186.25,99,98,99,99
+36,HAE,Healthcare,Medical Instruments & Supplies,NYSE,182.61,99,94,90,29
+37,ULH,Industrials,Trucking,NASDAQ,181.23,99,58,75,10
+38,RLYB,Healthcare,Biotechnology,NASDAQ,180.63,99,99,99,98
+39,MRVI,Healthcare,Biotechnology,NASDAQ,180.59,99,97,95,89
+40,GKOS,Healthcare,Medical Instruments & Supplies,NYSE,180.54,98,92,94,85
+41,FIGS,Consumer Cyclical,Apparel Manufacturing,NYSE,179.08,98,91,91,89
+42,MXL,Technology,Semiconductors,NASDAQ,178.21,98,99,99,99
+43,AMN,Healthcare,Medical Care Facilities,NYSE,178.08,98,96,90,91
+44,PRCH,Technology,Software—Application,NASDAQ,177.79,98,94,90,47
+45,NDLS,Consumer Cyclical,Restaurants,NASDAQ,177.66,98,97,98,97
+46,OKTA,Technology,Software—Infrastructure,NASDAQ,177.49,98,99,95,23
+47,ANF,Consumer Cyclical,Apparel Retail,NYSE,177.08,98,92,88,19
+48,AOUT,Consumer Cyclical,Leisure,NASDAQ,176.66,98,94,90,47
+49,AXTI,Technology,Semiconductor Equipment & Materials,NASDAQ,176.46,98,99,99,99
+50,QH,Technology,Software—Application,NASDAQ,176.3,98,99,99,91
+51,IBRX,Healthcare,Biotechnology,NASDAQ,175.7,98,99,96,97
+52,RRGB,Consumer Cyclical,Restaurants,NASDAQ,175.43,98,95,95,56
+53,ATRC,Healthcare,Medical Instruments & Supplies,NASDAQ,175.13,98,95,84,19
+54,IFBD,Technology,Software—Application,NASDAQ,174.36,98,14,36,18
+55,GMAB,Healthcare,Biotechnology,NASDAQ,173.75,98,81,62,51
+56,LFST,Healthcare,Medical Care Facilities,NASDAQ,173.61,98,95,95,76
+57,WEYS,Consumer Cyclical,Footwear & Accessories,NASDAQ,173.55,98,95,90,67
+58,OSPN,Technology,Software—Infrastructure,NASDAQ,171.97,98,88,84,36
+59,USIO,Technology,Information Technology Services,NASDAQ,171.83,98,97,93,61
+60,TLYS,Consumer Cyclical,Apparel Retail,NYSE,171.58,98,95,98,98
+61,RSKD,Technology,Software—Application,NYSE,171.25,98,96,56,31
+62,CBRL,Consumer Cyclical,Restaurants,NASDAQ,171.03,98,94,93,14
+63,GDYN,Technology,Information Technology Services,NASDAQ,170.79,98,76,46,15
+64,LCUT,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,170.39,98,96,98,96
+65,OSCR,Healthcare,Healthcare Plans,NYSE,170.21,98,95,91,89
+66,BMBL,Technology,Software—Application,NASDAQ,169.92,98,12,8,20
+67,CRCT,Technology,Computer Hardware,NASDAQ,169.01,98,91,80,16
+68,BDL,Consumer Cyclical,Restaurants,NYSE MKT,168.93,98,87,83,44
+69,LIFE,Healthcare,Biotechnology,NASDAQ,168.5,98,98,96,91
+70,KNSA,Healthcare,Biotechnology,NASDAQ,168.24,98,95,94,90
+71,AMC,Communication Services,Entertainment,NYSE,167.92,98,95,87,11
+72,DELL,Technology,Computer Hardware,NYSE,167.83,98,99,99,95
+73,BAND,Technology,Software—Infrastructure,NASDAQ,167.43,98,99,99,98
+74,SDGR,Healthcare,Health Information Services,NASDAQ,167.34,98,96,76,17
+75,KIDS,Healthcare,Medical Devices,NASDAQ,166.82,98,82,84,35
+76,NTWK,Technology,Software—Application,NASDAQ,166.67,98,95,45,78
+77,TENB,Technology,Software—Infrastructure,NASDAQ,166.66,98,92,91,14
+78,RVMD,Healthcare,Biotechnology,NASDAQ,165.75,98,98,99,97
+79,NSIT,Technology,Information Technology Services,NASDAQ,165.69,97,96,91,23
+80,PSNL,Healthcare,Diagnostics & Research,NASDAQ,165.18,97,96,98,53
+81,MU,Technology,Semiconductors,NASDAQ,164.59,97,99,99,99
+82,AMWL,Healthcare,Health Information Services,NYSE,164.57,97,97,98,82
+83,CHPT,Consumer Cyclical,Specialty Retail,NYSE,164.22,97,84,15,17
+84,EVC,Communication Services,Broadcasting,NYSE,163.39,97,97,98,98
+85,KRT,Consumer Cyclical,Packaging & Containers,NASDAQ,163.21,97,98,97,54
+86,APPN,Technology,Softwareâ€”Infrastructure,NASDAQ,163.2,97,91,85,7
+87,XGN,Healthcare,Diagnostics & Research,NASDAQ,163.13,97,96,85,13
+88,NIQ,Financial Services,Asset Management,NYSE,163.07,97,90,86,4
+89,DHX,Industrials,Staffing & Employment Services,NYSE,162.61,97,97,89,92
+90,SSL,Energy,Oil & Gas Integrated,NYSE,162.02,97,96,89,96
+91,LUNG,Healthcare,Medical Devices,NASDAQ,161.34,97,74,90,13
+92,HZO,Consumer Cyclical,Specialty Retail,NYSE,161.21,97,97,96,79
+93,PACB,Healthcare,Diagnostics & Research,NASDAQ,161.13,97,96,12,19
+94,CRWD,Technology,Software—Infrastructure,NASDAQ,159.76,97,98,95,78
+95,AEYE,Technology,Softwareâ€”Application,NASDAQ,159.43,97,25,7,13
+96,MPC,Energy,Oil & Gas Refining & Marketing,NYSE,158.97,97,98,93,81
+97,PD,Technology,Software—Application,NYSE,158.93,97,94,80,6
+98,NAUT,Healthcare,Biotechnology,NASDAQ,158.68,97,78,4,95
+99,CLDT,Real Estate,REIT—Hotel & Motel,NYSE,158.16,97,95,92,84
+100,AVAH,Healthcare,Medical Care Facilities,NASDAQ,158.08,97,92,70,41
+101,PBF,Energy,Oil & Gas Refining & Marketing,NYSE,158.06,97,99,97,84
+102,FRO,Energy,Oil & Gas Midstream,NYSE,157.66,97,98,89,90
+103,CAKE,Consumer Cyclical,Restaurants,NASDAQ,157.49,97,96,96,53
+104,VIA,Utilities,Utilities—Regulated Electric,NYSE,157.47,97,92,58,2
+105,OMER,Healthcare,Biotechnology,NASDAQ,157.22,97,98,93,95
+106,CD,Technology,Information Technology Services,NASDAQ,156.41,97,98,3,82
+107,CRSR,Technology,Computer Hardware,NASDAQ,156.03,97,97,95,38
+108,SIF,Industrials,Aerospace & Defense,NYSE MKT,155.55,97,98,98,98
+109,JAKK,Consumer Cyclical,Leisure,NASDAQ,154.72,97,90,85,74
+110,AGEN,Healthcare,Biotechnology,NASDAQ,154.71,97,98,96,43
+111,HBB,Technology,Consumer Electronics,NYSE,154.12,97,97,97,68
+112,KYMR,Healthcare,Biotechnology,NASDAQ,154.08,97,86,94,90
+113,ENTX,Healthcare,Biotechnology,NASDAQ,153.96,97,95,95,9
+114,BDSX,Healthcare,Diagnostics & Research,NASDAQ,153.9,97,99,98,94
+115,FSLY,Technology,Software—Application,NASDAQ,153.77,97,97,99,90
+116,OPAD,Real Estate,Real Estate Services,NASDAQ,153.68,97,95,99,4
+117,NTRA,Healthcare,Diagnostics & Research,NASDAQ,153.49,97,97,92,56
+118,DAO,Communication Services,Internet Content & Information,NYSE,153.11,96,92,94,79
+119,CURV,Consumer Cyclical,Apparel Retail,NYSE,152.5,96,94,94,28
+120,PUBM,Technology,Software—Application,NASDAQ,152.37,96,97,97,69
+121,ZETA,Technology,Software—Application,NYSE,152.23,96,96,93,40
+122,VLO,Energy,Oil & Gas Refining & Marketing,NYSE,152.2,96,98,94,87
+123,PMTS,Financial Services,Credit Services,NASDAQ,152.2,96,94,97,65
+124,RLAY,Healthcare,Biotechnology,NASDAQ,152.07,96,96,99,97
+125,HALO,Healthcare,Biotechnology,NASDAQ,152.05,96,94,88,49
+126,SMWB,Communication Services,Internet Content & Information,NYSE,151.97,96,94,92,3
+127,LIND,Consumer Cyclical,Travel Services,NASDAQ,151.69,96,98,97,81
+128,MTW,Industrials,Farm & Heavy Construction Machinery,NYSE,151.67,96,97,92,56
+129,SGHT,Healthcare,Medical Devices,NASDAQ,151.34,96,97,90,57
+130,PEB,Real Estate,REIT—Hotel & Motel,NYSE,150.28,96,90,88,76
+131,JRSH,Consumer Cyclical,Apparel Manufacturing,NASDAQ,149.83,96,96,93,47
+132,PAYC,Technology,Software—Application,NYSE,149.81,96,94,86,17
+133,HPE,Technology,Communication Equipment,NYSE,149.7,96,99,98,90
+134,NTRB,Healthcare,Biotechnology,NASDAQ,149.44,96,96,7,9
+135,TGTX,Healthcare,Biotechnology,NASDAQ,149.2,96,88,89,82
+136,HQI,Industrials,Staffing & Employment Services,NASDAQ,148.83,96,96,93,80
+137,NRC,Healthcare,Diagnostics & Research,NASDAQ,148.67,96,79,82,84
+138,QLYS,Technology,Software—Infrastructure,NASDAQ,148.39,96,95,94,9
+139,EXEL,Healthcare,Biotechnology,NASDAQ,148.25,96,82,64,71
+140,VIR,Healthcare,Biotechnology,NASDAQ,147.86,96,93,85,90
+141,GTE,Energy,Oil & Gas E&P,NYSE MKT,147.77,96,98,94,94
+142,DMAC,Healthcare,Biotechnology,NASDAQ,147.72,96,69,57,46
+143,HELE,Consumer Defensive,Household & Personal Products,NASDAQ,147.71,96,72,84,63
+144,RIGL,Healthcare,Biotechnology,NASDAQ,147.45,96,87,79,50
+145,PCRX,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,147.45,96,55,47,42
+146,PXS,Industrials,Marine Shipping,NASDAQ,147.28,96,98,89,85
+147,BB,Technology,Software—Infrastructure,NYSE,147.22,96,95,96,90
+148,CRL,Healthcare,Diagnostics & Research,NYSE,147.21,96,93,94,42
+149,PDSB,Healthcare,Biotechnology,NASDAQ,147.12,96,80,0,89
+150,MANH,Technology,Software—Application,NASDAQ,146.77,96,86,74,13
+151,SIBN,Healthcare,Medical Devices,NASDAQ,146.72,96,75,75,24
+152,BFLY,Healthcare,Medical Devices,NYSE,146.52,96,97,99,93
+153,PSX,Energy,Oil & Gas Refining & Marketing,NYSE,146.48,96,96,90,76
+154,TRMD,Energy,Oil & Gas Midstream,NASDAQ,146.48,96,96,66,87
+155,CROX,Consumer Cyclical,Footwear & Accessories,NASDAQ,146.31,96,74,90,52
+156,INSW,Industrials,Marine Shipping,NYSE,146.01,96,98,92,93
+157,ACB,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,145.77,95,85,19,14
+158,ACU,Consumer Defensive,Household & Personal Products,NYSE MKT,145.23,95,91,86,43
+159,INO,Healthcare,Biotechnology,NASDAQ,144.9,95,24,2,15
+160,MNTK,Utilities,Utilities—Diversified,NASDAQ,144.73,95,96,56,19
+161,AMD,Technology,Semiconductors,NASDAQ,144.7,95,99,95,97
+162,CNC,Healthcare,Healthcare Plans,NYSE,144.51,95,90,92,88
+163,INM,Healthcare,Biotechnology,NASDAQ,144.24,95,66,89,2
+164,IRDM,Communication Services,Telecom Services,NASDAQ,144.2,95,96,96,95
+165,TEAM,Technology,Software—Application,NASDAQ,144.15,95,98,87,7
+166,ILMN,Healthcare,Diagnostics & Research,NASDAQ,144.04,95,97,91,82
+167,NAT,Industrials,Marine Shipping,NYSE,143.77,95,97,92,90
+168,VEON,Communication Services,Telecom Services,NASDAQ,143.6,95,93,56,49
+169,PBYI,Healthcare,Biotechnology,NASDAQ,143.11,95,92,86,86
+170,FIVN,Technology,Software—Infrastructure,NASDAQ,143.08,95,96,92,40
+171,OPHC,Financial Services,Banks—Regional,NYSE MKT,143.0,95,97,96,70
+172,FET,Energy,Oil & Gas Equipment & Services,NYSE,142.4,95,98,98,95
+173,MTEX,Consumer Defensive,Household & Personal Products,NASDAQ,142.38,95,84,10,2
+174,RDVT,Technology,Software—Application,NASDAQ,142.38,95,93,90,36
+175,APPS,Technology,Softwareâ€”Application,NASDAQ,142.26,95,97,99,28
+176,BOX,Technology,Software—Infrastructure,NYSE,142.11,95,86,72,22
+177,IDT,Communication Services,Telecom Services,NYSE,141.86,95,93,73,37
+178,PANW,Technology,Software—Infrastructure,NASDAQ,141.74,95,97,96,79
+179,FNKO,Consumer Cyclical,Leisure,NASDAQ,141.65,95,94,89,85
+180,HUM,Healthcare,Healthcare Plans,NYSE,141.59,95,90,89,83
+181,TNGX,Healthcare,Biotechnology,NASDAQ,141.33,95,93,98,99
+182,KSS,Consumer Cyclical,Department Stores,NYSE,141.22,95,84,82,20
+183,OESX,Industrials,Electrical Equipment & Parts,NASDAQ,141.21,95,99,97,48
+184,VRNS,Technology,Software—Infrastructure,NASDAQ,141.12,95,89,81,15
+185,DFIN,Financial Services,Capital Markets,NYSE,141.07,95,59,45,19
+186,RLJ,Real Estate,REIT—Hotel & Motel,NYSE,140.91,95,89,86,74
+187,SRZN,Healthcare,Biotechnology,NASDAQ,140.77,95,83,88,96
+188,DHT,Energy,Oil & Gas Midstream,NYSE,140.47,95,96,78,82
+189,ASX,Technology,Semiconductors,NYSE,140.29,95,98,97,97
+190,VSTM,Healthcare,Biotechnology,NASDAQ,140.27,95,87,66,8
+191,VREX,Healthcare,Medical Devices,NASDAQ,139.95,95,95,94,26
+192,CBAT,Industrials,Electrical Equipment & Parts,NASDAQ,139.87,95,94,21,19
+193,CLMT,Energy,Oil & Gas E&P,NASDAQ,139.86,95,98,97,91
+194,CIX,Industrials,Security & Protection Services,NYSE MKT,139.84,95,96,80,31
+195,VCTR,Financial Services,Asset Management,NASDAQ,139.72,95,94,90,78
+196,JILL,Consumer Cyclical,Apparel Retail,NYSE,139.68,94,96,85,13
+197,FRD,Basic Materials,Steel,NASDAQ,139.07,94,97,97,63
+198,ECPG,Financial Services,Mortgage Finance,NASDAQ,139.0,94,94,93,91
+199,DK,Energy,Oil & Gas Refining & Marketing,NYSE,138.96,94,98,95,91
+200,APA,Energy,Oil & Gas E&P,NASDAQ,138.88,94,93,89,90
+201,TDOC,Healthcare,Health Information Services,NYSE,138.47,94,13,46,61
+202,INTA,Technology,Software—Application,NASDAQ,138.46,94,84,87,5
+203,SGRY,Healthcare,Medical Care Facilities,NASDAQ,138.42,94,25,21,16
+204,MITK,Technology,Software—Application,NASDAQ,138.23,94,88,92,75
+205,CRT,Energy,Oil & Gas E&P,NYSE,138.2,94,89,58,76
+206,TISI,Industrials,Specialty Business Services,NYSE,138.02,94,97,88,31
+207,PK,Real Estate,REIT—Hotel & Motel,NYSE,138.0,94,88,84,48
+208,RCKY,Consumer Cyclical,Footwear & Accessories,NASDAQ,137.95,94,89,91,72
+209,ANIK,Healthcare,Medical Devices,NASDAQ,137.91,94,95,96,88
+210,TEN,Consumer Cyclical,Auto Parts,NYSE,137.8,94,96,83,93
+211,HOG,Consumer Cyclical,Recreational Vehicles,NYSE,137.67,94,75,57,62
+212,VAC,Consumer Cyclical,Resorts & Casinos,NYSE,137.53,94,91,96,76
+213,ACHC,Healthcare,Medical Care Facilities,NASDAQ,137.45,94,83,91,83
+214,GIC,Industrials,Industrial Distribution,NYSE,137.44,94,89,81,34
+215,FDBC,Financial Services,Banks—Regional,NASDAQ,137.06,94,83,74,47
+216,VEEV,Healthcare,Health Information Services,NYSE,136.76,94,90,64,9
+217,MYGN,Healthcare,Diagnostics & Research,NASDAQ,136.53,94,13,6,12
+218,FLYW,Technology,Information Technology Services,NASDAQ,136.48,94,85,77,83
+219,CODI,Industrials,Conglomerates,NYSE,136.45,94,92,91,93
+220,CYRX,Industrials,Integrated Freight & Logistics,NASDAQ,136.41,94,93,90,90
+221,CLOV,Healthcare,Healthcare Plans,NASDAQ,136.3,94,95,93,85
+222,RHI,Industrials,Staffing & Employment Services,NYSE,136.25,94,80,91,20
+223,GH,Healthcare,Diagnostics & Research,NASDAQ,136.21,94,95,96,82
+224,DOCU,Technology,Software—Application,NASDAQ,135.96,94,85,55,13
+225,CRVL,Financial Services,Insurance Brokers,NASDAQ,135.84,94,80,30,20
+226,NTAP,Technology,Computer Hardware,NASDAQ,135.83,94,98,95,67
+227,DRH,Real Estate,REIT—Hotel & Motel,NASDAQ,135.82,94,86,79,73
+228,SI,Financial Services,Banks—Regional,NYSE,135.8,94,77,91,62
+229,SAIC,Technology,Information Technology Services,NASDAQ,135.58,94,78,78,31
+230,CAI,Industrials,Rental & Leasing Services,NASDAQ,135.54,94,86,50,5
+231,GLBS,Industrials,Marine Shipping,NASDAQ,135.36,94,97,98,90
+232,APLE,Real Estate,REITâ€”Hotel & Motel,NYSE,135.26,94,84,77,72
+233,MCS,Communication Services,Entertainment,NYSE,135.13,94,94,95,59
+234,YEXT,Technology,Software—Infrastructure,NYSE,134.98,94,83,53,3
+235,FLXS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,134.94,93,96,94,82
+236,ROIV,Healthcare,Biotechnology,NASDAQ,134.86,93,90,94,92
+237,REPX,Energy,Oil & Gas E&P,NYSE MKT,134.76,93,92,77,81
+238,NEO,Healthcare,Diagnostics & Research,NASDAQ,134.71,93,93,96,30
+239,EGBN,Financial Services,Banks—Regional,NASDAQ,134.59,93,76,82,74
+240,BSET,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,134.58,93,86,82,27
+241,ETSY,Consumer Cyclical,Internet Retail,NYSE,134.55,93,62,84,61
+242,AVPT,Technology,Software—Infrastructure,NASDAQ,134.45,93,78,61,12
+243,CVLT,Technology,Software—Application,NASDAQ,134.44,93,79,72,20
+244,ADV,Communication Services,Advertising Agencies,NASDAQ,134.41,93,38,47,88
+245,BOLT,Healthcare,Biotechnology,NASDAQ,134.39,93,17,13,30
+246,BBY,Consumer Cyclical,Specialty Retail,NYSE,134.36,93,78,80,18
+247,ADPT,Healthcare,Biotechnology,NASDAQ,134.35,93,95,95,41
+248,TBI,Industrials,Staffing & Employment Services,NYSE,134.17,93,96,96,63
+249,HBIO,Healthcare,Medical Instruments & Supplies,NASDAQ,134.14,93,94,58,63
+250,MG,Industrials,Security & Protection Services,NYSE,134.05,93,94,86,88
+251,CFFI,Financial Services,Banks—Regional,NASDAQ,133.99,93,91,70,52
+252,NEWP,Basic Materials,Other Precious Metals & Mining,NYSE MKT,133.97,93,96,98,97
+253,KELYA,Industrials,Staffing & Employment Services,NASDAQ,133.97,93,93,89,30
+254,KELYB,Industrials,Staffing & Employment Services,NASDAQ,133.81,93,94,92,74
+255,TMCI,Healthcare,Medical Devices,NASDAQ,133.78,93,85,93,27
+256,YOU,Technology,Software—Application,NYSE,133.74,93,53,69,93
+257,DCBO,Technology,Software—Application,NASDAQ,133.65,93,80,54,9
+258,RPRX,Healthcare,Biotechnology,NASDAQ,133.58,93,84,82,82
+259,CVI,Energy,Oil & Gas Refining & Marketing,NYSE,133.54,93,98,57,77
+260,RPD,Technology,Software—Application,NASDAQ,133.53,93,85,85,3
+261,FROG,Technology,Software—Application,NASDAQ,133.37,93,95,90,79
+262,CVGI,Consumer Cyclical,Auto Parts,NASDAQ,133.11,93,65,89,98
+263,LTH,Consumer Cyclical,Leisure,NYSE,133.08,93,86,88,72
+264,LPG,Energy,Oil & Gas Midstream,NYSE,133.03,93,97,85,86
+265,SWK,Industrials,Tools & Accessories,NYSE,132.82,93,74,85,43
+266,ACCO,Industrials,Business Equipment & Supplies,NYSE,132.81,93,86,65,54
+267,WPP,Communication Services,Advertising Agencies,NYSE,132.8,93,88,87,14
+268,MASS,Healthcare,Medical Devices,NASDAQ,132.77,93,95,85,75
+269,VIOT,Technology,Consumer Electronics,NASDAQ,132.76,93,91,3,4
+270,AXGN,Healthcare,Medical Devices,NASDAQ,132.64,93,82,95,95
+271,PTGX,Healthcare,Biotechnology,NASDAQ,132.59,93,93,95,90
+272,ARQT,Healthcare,Biotechnology,NASDAQ,132.55,93,41,78,60
+273,PKOH,Industrials,Industrial Distribution,NASDAQ,132.41,93,97,97,82
+274,RUSHB,Consumer Cyclical,Auto & Truck Dealerships,NASDAQ,132.37,92,86,81,64
+275,PRTH,Technology,Information Technology Services,NASDAQ,132.34,92,84,18,33
+276,OVID,Healthcare,Biotechnology,NASDAQ,132.02,92,67,96,99
+277,CHCI,Real Estate,Real Estate—Diversified,NASDAQ,131.98,92,85,32,84
+278,KPLT,Technology,Software—Infrastructure,NASDAQ,131.56,92,4,31,27
+279,ATLC,Financial Services,Credit Services,NASDAQ,131.55,92,87,88,86
+280,TRNS,Industrials,Industrial Distribution,NASDAQ,131.44,92,78,81,55
+281,BRKR,Healthcare,Medical Devices,NASDAQ,131.28,92,87,87,71
+282,LIVN,Healthcare,Medical Devices,NASDAQ,131.22,92,74,79,77
+283,AVTR,Basic Materials,Specialty Chemicals,NYSE,131.11,92,92,85,11
+284,ARL,Real Estate,Real Estateâ€”Development,NYSE,131.08,92,35,42,19
+285,LGND,Healthcare,Biotechnology,NASDAQ,130.91,92,85,89,83
+286,EFOI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,130.61,92,85,65,96
+287,MD,Healthcare,Medical Care Facilities,NYSE,130.53,92,77,78,77
+288,LQDT,Consumer Cyclical,Internet Retail,NASDAQ,130.5,92,86,88,74
+289,LILA,Communication Services,Telecom Services,NASDAQ,130.48,92,94,93,57
+290,ATNM,Healthcare,Biotechnology,NYSE MKT,130.46,92,37,5,37
+291,EQNR,Energy,Oil & Gas Integrated,NYSE,130.38,92,92,87,88
+292,AEHR,Technology,Semiconductor Equipment & Materials,NASDAQ,130.31,92,98,99,99
+293,EAT,Consumer Cyclical,Restaurants,NYSE,130.29,92,78,93,29
+294,DLTH,Consumer Cyclical,Apparel Retail,NASDAQ,130.22,92,83,90,81
+295,OGN,Healthcare,Drug Manufacturers—General,NYSE,130.08,92,91,88,91
+296,CERT,Healthcare,Biotechnology,NASDAQ,129.92,92,79,69,3
+297,KFRC,Industrials,Staffing & Employment Services,NYSE,129.9,92,92,94,77
+298,FDS,Financial Services,Financial Data & Stock Exchanges,NYSE,129.86,92,68,64,11
+299,ARCT,Healthcare,Biotechnology,NASDAQ,129.84,92,94,17,20
+300,RELL,Technology,Electronic Components,NASDAQ,129.83,92,94,93,89
+301,TGT,Consumer Defensive,Discount Stores,NYSE,129.67,92,89,86,73
+302,SENS,Healthcare,Diagnostics & Research,NASDAQ,129.57,92,92,62,9
+303,CCEL,Healthcare,Medical Care Facilities,NYSE MKT,129.55,92,64,22,30
+304,EVER,Communication Services,Internet Content & Information,NASDAQ,129.47,92,29,72,25
+305,ZYME,Healthcare,Biotechnology,NASDAQ,129.46,92,75,79,84
+306,FA,Industrials,Specialty Business Services,NASDAQ,129.28,92,80,89,70
+307,RRC,Energy,Oil & Gas E&P,NYSE,129.25,92,65,49,61
+308,MSBI,Financial Services,Banks—Regional,NASDAQ,129.12,92,91,93,85
+309,S,Technology,Software—Infrastructure,NYSE,129.07,92,95,87,46
+310,OPK,Healthcare,Diagnostics & Research,NASDAQ,129.01,92,59,60,21
+311,LILAK,Communication Services,Telecom Services,NASDAQ,128.92,92,93,92,58
+312,XHR,Real Estate,REIT—Hotel & Motel,NYSE,128.79,92,73,77,71
+313,SIG,Consumer Cyclical,Luxury Goods,NYSE,128.74,91,78,56,28
+314,MGNI,Communication Services,Advertising Agencies,NASDAQ,128.59,91,93,93,20
+315,BIIB,Healthcare,Drug Manufacturers—General,NASDAQ,128.58,91,83,68,74
+316,ALTO,Basic Materials,Specialty Chemicals,NASDAQ,128.54,91,90,97,98
+317,RCMT,Industrials,Engineering & Construction,NASDAQ,128.49,91,96,72,84
+318,HRB,Consumer Cyclical,Personal Services,NYSE,128.39,91,71,65,26
+319,HAS,Consumer Cyclical,Leisure,NASDAQ,128.37,91,73,55,68
+320,GO,Consumer Defensive,Grocery Stores,NASDAQ,128.3,91,83,26,6
+321,ROKU,Communication Services,Entertainment,NASDAQ,128.27,91,88,88,84
+322,IMOS,Technology,Semiconductors,NASDAQ,128.26,91,98,97,96
+323,GCBC,Financial Services,Banks—Regional,NASDAQ,128.26,91,90,89,55
+324,MRK,Healthcare,Drug Manufacturers—General,NYSE,128.25,91,87,82,74
+325,W,Consumer Cyclical,Internet Retail,NYSE,128.05,91,80,85,24
+326,BWFG,Financial Services,Banks—Regional,NASDAQ,128.04,91,87,88,71
+327,LLY,Healthcare,Drug Manufacturers—General,NYSE,128.01,91,76,84,68
+328,BHC,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,127.9,91,68,41,25
+329,ACN,Technology,Information Technology Services,NYSE,127.79,91,70,18,7
+330,SU,Energy,Oil & Gas Integrated,NYSE,127.64,91,88,74,87
+331,AMGN,Healthcare,Drug Manufacturersâ€”General,NASDAQ,127.59,91,83,78,54
+332,FRHC,Financial Services,Capital Markets,NASDAQ,127.56,91,72,44,44
+333,JVA,Consumer Defensive,Packaged Foods,NASDAQ,127.55,91,81,20,75
+334,PRLD,Healthcare,Biotechnology,NASDAQ,127.49,91,87,99,98
+335,ITGR,Healthcare,Medical Devices,NYSE,127.46,91,90,89,38
+336,XERS,Healthcare,Biotechnology,NASDAQ,127.31,91,89,71,37
+337,CNK,Communication Services,Entertainment,NYSE,127.31,91,89,85,36
+338,MAX,Communication Services,Internet Content & Information,NYSE,127.21,91,23,85,23
+339,TEVA,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,127.15,91,90,84,87
+340,ASO,Consumer Cyclical,Specialty Retail,NASDAQ,127.13,91,59,29,37
+341,FGBI,Financial Services,Banks—Regional,NASDAQ,127.12,91,34,44,61
+342,WST,Healthcare,Medical Instruments & Supplies,NYSE,127.12,91,84,78,75
+343,NNBR,Industrials,Conglomerates,NASDAQ,127.12,91,98,95,77
+344,ACHV,Healthcare,Biotechnology,NASDAQ,127.1,91,95,92,92
+345,CIB,Financial Services,Banks—Regional,NYSE,127.04,91,91,92,63
+346,ECOR,Healthcare,Medical Devices,NASDAQ,127.01,91,96,92,73
+347,MEOH,Basic Materials,Chemicals,NASDAQ,126.95,91,87,67,89
+348,MLAB,Technology,Scientific & Technical Instruments,NASDAQ,126.94,91,94,82,68
+349,AMRX,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,126.86,91,92,88,64
+350,NEOG,Healthcare,Diagnostics & Research,NASDAQ,126.81,91,92,91,65
+351,INN,Real Estate,REIT—Hotel & Motel,NYSE,126.8,90,75,68,65
+352,VTRS,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,126.6,90,89,75,87
+353,WHF,Financial Services,Asset Management,NASDAQ,126.52,90,69,45,55
+354,DTIL,Healthcare,Biotechnology,NASDAQ,126.49,90,48,83,92
+355,ICLR,Healthcare,Diagnostics & Research,NASDAQ,126.4,90,60,66,32
+356,HST,Real Estate,REIT—Hotel & Motel,NASDAQ,126.37,90,79,73,76
+357,MATX,Industrials,Marine Shipping,NYSE,126.17,90,94,89,85
+358,NUWE,Healthcare,Medical Devices,NASDAQ,125.86,90,0,0,0
+359,PGNY,Healthcare,Health Information Services,NASDAQ,125.84,90,78,65,49
+360,ESTC,Technology,Software—Application,NYSE,125.83,90,93,71,7
+361,SXC,Basic Materials,Coking Coal,NYSE,125.83,90,88,76,48
+362,PNTG,Healthcare,Medical Care Facilities,NASDAQ,125.74,90,83,76,79
+363,TXN,Technology,Semiconductors,NASDAQ,125.7,90,87,80,89
+364,INFU,Healthcare,Medical Instruments & Supplies,NYSE MKT,125.68,90,90,88,60
+365,VGZ,Basic Materials,Gold,NYSE MKT,125.66,90,90,73,86
+366,UTZ,Consumer Defensive,Packaged Foods,NYSE,125.62,90,96,91,7
+367,CBNK,Financial Services,Banks—Regional,NASDAQ,125.59,90,83,73,34
+368,ZIM,Industrials,Marine Shipping,NYSE,125.55,90,93,74,84
+369,TWIN,Industrials,Specialty Industrial Machinery,NASDAQ,125.4,90,93,92,88
+370,NWL,Consumer Defensive,Household & Personal Products,NASDAQ,125.39,90,86,91,23
+371,FRAF,Financial Services,Banks—Regional,NASDAQ,125.34,90,79,80,76
+372,LITE,Technology,Communication Equipment,NASDAQ,125.33,90,99,99,99
+373,CVU,Industrials,Aerospace & Defense,NYSE MKT,125.33,90,89,94,72
+374,BWMN,Industrials,Consulting Services,NASDAQ,125.29,90,89,71,40
+375,ALRM,Technology,Softwareâ€”Application,NASDAQ,125.2,90,69,68,18
+376,BBCP,Industrials,Engineering & Construction,NASDAQ,125.15,90,80,84,59
+377,ABBV,Healthcare,Drug Manufacturersâ€”General,NYSE,125.08,90,79,68,41
+378,DAC,Industrials,Marine Shipping,NYSE,125.06,90,94,75,82
+379,TDC,Technology,Information Technology Services,NYSE,124.95,90,59,29,75
+380,ZIP,Industrials,Staffing & Employment Services,NYSE,124.92,90,78,91,78
+381,CHEF,Consumer Defensive,Food Distribution,NASDAQ,124.85,90,95,91,76
+382,TRGP,Energy,Oil & Gas Midstream,NYSE,124.78,90,89,79,85
+383,SIRI,Communication Services,Broadcasting,NASDAQ,124.78,90,64,76,74
+384,PARR,Energy,Oil & Gas Refining & Marketing,NYSE,124.71,90,97,94,94
+385,RDI,Communication Services,Entertainment,NASDAQ,124.7,90,93,76,20
+386,SHO,Real Estate,REIT—Hotel & Motel,NYSE,124.46,90,76,58,67
+387,THC,Healthcare,Medical Care Facilities,NYSE,124.45,90,86,84,44
+388,BLMN,Consumer Cyclical,Restaurants,NASDAQ,124.44,90,73,90,71
+389,ADT,Industrials,Security & Protection Services,NYSE,124.32,90,28,31,21
+390,MEI,Technology,Electronic Components,NYSE,124.11,89,96,97,85
+391,DGII,Technology,Communication Equipment,NASDAQ,124.01,89,93,95,91
+392,CLAR,Consumer Cyclical,Leisure,NASDAQ,123.95,89,66,74,17
+393,EML,Industrials,Tools & Accessories,NASDAQ,123.93,89,74,63,38
+394,NVAX,Healthcare,Biotechnology,NASDAQ,123.9,89,86,22,72
+395,IMAX,Communication Services,Entertainment,NYSE,123.82,89,92,91,58
+396,BDX,Healthcare,Medical Instruments & Supplies,NYSE,123.81,89,79,70,29
+397,SNOW,Technology,Software—Application,NYSE,123.79,89,95,95,13
+398,NMM,Industrials,Marine Shipping,NYSE,123.77,89,93,84,83
+399,OSW,Consumer Cyclical,Leisure,NASDAQ,123.76,89,48,62,61
+400,GILD,Healthcare,Drug Manufacturers—General,NASDAQ,123.72,89,77,44,53
+401,PCOR,Technology,Software—Application,NYSE,123.71,89,58,43,12
+402,STIM,Healthcare,Diagnostics & Research,NASDAQ,123.65,89,80,95,5
+403,RHP,Real Estate,REIT—Hotel & Motel,NYSE,123.64,89,79,74,61
+404,SBFG,Financial Services,Banks—Regional,NASDAQ,123.57,89,87,76,53
+405,ELF,Consumer Defensive,Household & Personal Products,NYSE,123.55,89,86,84,6
+406,CXW,Real Estate,REIT—Specialty,NYSE,123.53,89,90,95,60
+407,SM,Energy,Oil & Gas E&P,NYSE,123.52,89,93,83,85
+408,UMC,Technology,Semiconductors,NYSE,123.51,89,98,96,95
+409,ASC,Industrials,Marine Shipping,NYSE,123.41,89,91,66,89
+410,U,Technology,Software—Application,NYSE,123.38,89,92,87,62
+411,PDEX,Healthcare,Medical Instruments & Supplies,NASDAQ,123.27,89,89,92,87
+412,PYPD,Healthcare,Biotechnology,NASDAQ,123.27,89,71,63,70
+413,DCTH,Healthcare,Medical Devices,NASDAQ,123.26,89,90,93,64
+414,QSI,Healthcare,Biotechnology,NASDAQ,123.25,89,85,9,14
+415,BSVN,Financial Services,Banks—Regional,NASDAQ,123.11,89,81,68,40
+416,LEGH,Consumer Cyclical,Residential Construction,NASDAQ,123.07,89,82,77,38
+417,SPOT,Communication Services,Internet Content & Information,NYSE,123.03,89,46,29,14
+418,KDP,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,123.02,89,70,35,34
+419,EPC,Consumer Defensive,Household & Personal Products,NYSE,123.0,89,86,88,12
+420,CHMG,Financial Services,Banks—Regional,NASDAQ,122.96,89,88,86,76
+421,GEO,Real Estate,REIT—Healthcare Facilities,NYSE,122.89,89,92,94,82
+422,MYO,Healthcare,Medical Devices,NYSE MKT,122.87,89,93,93,23
+423,LH,Healthcare,Diagnostics & Research,NYSE,122.81,89,76,71,31
+424,ALRS,Financial Services,Banksâ€”Regional,NASDAQ,122.75,89,85,86,70
+425,PFIS,Financial Services,Banks—Regional,NASDAQ,122.74,89,84,84,65
+426,VFC,Consumer Cyclical,Apparel Manufacturing,NYSE,122.68,89,26,24,56
+427,AP,Industrials,Metal Fabrication,NYSE,122.61,89,97,98,98
+428,ICCC,Healthcare,Biotechnology,NASDAQ,122.61,89,84,90,81
+429,IGR,Financial Services,Asset Management,NYSE,122.59,88,84,97,97
+430,PED,Energy,Oil & Gas E&P,NYSE MKT,122.58,88,65,17,73
+431,MXCT,Healthcare,Diagnostics & Research,NASDAQ,122.58,88,25,77,39
+432,RGR,Industrials,Aerospace & Defense,NYSE,122.47,88,73,41,65
+433,DJCO,Communication Services,Publishing,NASDAQ,122.46,88,80,68,54
+434,WK,Technology,Software—Application,NYSE,122.45,88,74,57,6
+435,UVE,Financial Services,Insurance—Property & Casualty,NYSE,122.45,88,87,82,81
+436,A,Healthcare,Diagnostics & Research,NYSE,122.43,88,86,71,26
+437,RBKB,Financial Services,Banks—Regional,NASDAQ,122.32,88,86,83,79
+438,FMAO,Financial Services,Banks—Regional,NASDAQ,122.31,88,88,84,43
+439,BYFC,Financial Services,Banks—Regional,NASDAQ,122.29,88,90,84,83
+440,ATLO,Financial Services,Banks—Regional,NASDAQ,122.24,88,86,82,78
+441,EXPO,Industrials,Consulting Services,NASDAQ,122.21,88,63,44,13
+442,HSTM,Healthcare,Health Information Services,NASDAQ,122.13,88,87,70,35
+443,FF,Basic Materials,Chemicals,NYSE,122.05,88,86,93,65
+444,DBI,Consumer Cyclical,Apparel Retail,NYSE,121.98,88,75,84,86
+445,MAR,Consumer Cyclical,Lodging,NASDAQ,121.95,88,66,53,69
+446,LOCO,Consumer Cyclical,Restaurants,NASDAQ,121.86,88,76,78,78
+447,COP,Energy,Oil & Gas E&P,NYSE,121.82,88,85,72,74
+448,AMTB,Financial Services,Banksâ€”Regional,NYSE,121.69,88,87,86,64
+449,NUE,Basic Materials,Steel,NYSE,121.65,88,90,90,88
+450,CAPR,Healthcare,Biotechnology,NASDAQ,121.64,88,3,1,98
+451,NSP,Industrials,Staffing & Employment Services,NYSE,121.64,88,85,89,19
+452,BJRI,Consumer Cyclical,Restaurants,NASDAQ,121.64,88,90,94,54
+453,PGC,Financial Services,Banks—Regional,NASDAQ,121.62,88,82,86,84
+454,CDW,Technology,Information Technology Services,NASDAQ,121.53,88,51,52,9
+455,ALEC,Healthcare,Biotechnology,NASDAQ,121.5,88,48,54,85
+456,VCYT,Healthcare,Biotechnology,NASDAQ,121.45,88,56,76,66
+457,CGAU,Basic Materials,Gold,NYSE,121.44,88,91,94,93
+458,DNA,Healthcare,Biotechnology,NYSE,121.15,88,85,13,19
+459,VRDN,Healthcare,Biotechnology,NASDAQ,121.14,88,32,58,19
+460,TWLO,Communication Services,Internet Content & Information,NYSE,121.08,88,97,96,92
+461,SCL,Basic Materials,Specialty Chemicals,NYSE,121.08,88,80,79,29
+462,ULCC,Industrials,Airlines,NASDAQ,121.03,88,81,91,51
+463,FTDR,Consumer Cyclical,Personal Services,NASDAQ,121.0,88,79,87,63
+464,MRVL,Technology,Semiconductors,NASDAQ,120.89,88,99,97,96
+465,POWW,Industrials,Aerospace & Defense,NASDAQ,120.84,88,73,85,62
+466,CZNC,Financial Services,Banks—Regional,NASDAQ,120.79,87,80,77,44
+467,FBIZ,Financial Services,Banks—Regional,NASDAQ,120.79,87,83,83,49
+468,AMAL,Financial Services,Banksâ€”Regional,NASDAQ,120.79,87,85,88,74
+469,FRSH,Technology,Software—Application,NASDAQ,120.78,87,89,73,19
+470,EBAY,Consumer Cyclical,Internet Retail,NASDAQ,120.75,87,65,53,82
+471,BNED,Consumer Cyclical,Specialty Retail,NYSE,120.74,87,75,85,61
+472,DLTR,Consumer Defensive,Discount Stores,NASDAQ,120.72,87,62,74,17
+473,CRON,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,120.71,87,82,61,63
+474,URBN,Consumer Cyclical,Apparel Retail,NASDAQ,120.7,87,73,60,43
+475,GSAT,Communication Services,Telecom Services,NASDAQ,120.66,87,87,92,96
+476,NGL,Energy,Oil & Gas Refining & Marketing,NYSE,120.66,87,93,95,97
+477,TMO,Healthcare,Diagnostics & Research,NYSE,120.63,87,83,71,26
+478,LNTH,Healthcare,Diagnostics & Research,NASDAQ,120.58,87,87,88,87
+479,MORN,Financial Services,Financial Data & Stock Exchanges,NASDAQ,120.57,87,68,38,16
+480,ASAN,Technology,Softwareâ€”Application,NYSE,120.57,87,70,56,3
+481,THG,Financial Services,Insurance—Property & Casualty,NYSE,120.53,87,75,73,64
+482,EEIQ,Consumer Defensive,Education & Training Services,NASDAQ,120.5,87,88,5,5
+483,QTWO,Technology,Software—Application,NYSE,120.45,87,59,53,8
+484,TAK,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,120.36,87,74,55,53
+485,UEIC,Technology,Consumer Electronics,NASDAQ,120.33,87,89,85,27
+486,HBT,Financial Services,Banks—Regional,NASDAQ,120.32,87,86,86,55
+487,PCTY,Technology,Software—Application,NASDAQ,120.3,87,80,63,12
+488,HCSG,Healthcare,Medical Care Facilities,NASDAQ,120.29,87,61,57,74
+489,RMNI,Technology,Software—Application,NASDAQ,120.27,87,47,80,43
+490,R,Industrials,Rental & Leasing Services,NYSE,120.22,87,64,80,76
+491,V,Financial Services,Credit Services,NYSE,120.16,87,68,52,34
+492,AGYS,Technology,Softwareâ€”Application,NASDAQ,120.15,87,63,71,9
+493,ARCB,Industrials,Trucking,NASDAQ,120.12,87,84,90,86
+494,PAA,Energy,Oil & Gas Midstream,NASDAQ,120.11,87,85,74,78
+495,SYNA,Technology,Semiconductors,NASDAQ,120.09,87,89,75,92
+496,MGYR,Financial Services,Banks—Regional,NASDAQ,120.08,87,71,53,51
+497,REGN,Healthcare,Biotechnology,NASDAQ,120.07,87,66,66,54
+498,RLGT,Industrials,Integrated Freight & Logistics,NYSE MKT,120.04,87,83,59,75
+499,IQV,Healthcare,Diagnostics & Research,NYSE,119.98,87,86,81,36
+500,SAFT,Financial Services,Insurance—Property & Casualty,NASDAQ,119.96,87,92,87,29
+501,TRV,Financial Services,Insurance—Property & Casualty,NYSE,119.94,87,79,80,55
+502,GWW,Industrials,Industrial Distribution,NYSE,119.79,87,70,67,74
+503,DGICB,Financial Services,Insurance—Property & Casualty,NASDAQ,119.75,87,40,87,72
+504,PAGP,Energy,Oil & Gas Midstream,NASDAQ,119.68,87,85,76,78
+505,TK,Energy,Oil & Gas Midstream,NYSE,119.54,87,94,63,85
+506,HLF,Consumer Defensive,Packaged Foods,NYSE,119.54,87,55,33,77
+507,CLBK,Financial Services,Banks—Regional,NASDAQ,119.43,86,89,87,73
+508,TNK,Energy,Oil & Gas Midstream,NYSE,119.36,86,95,74,83
+509,ROP,Industrials,Specialty Industrial Machinery,NASDAQ,119.32,86,34,44,14
+510,HPK,Energy,Oil & Gas E&P,NASDAQ,119.31,86,91,80,56
+511,MSGE,Communication Services,Entertainment,NYSE,119.3,86,91,89,85
+512,UFPT,Consumer Cyclical,Packaging & Containers,NASDAQ,119.26,86,88,86,28
+513,EC,Energy,Oil & Gas Integrated,NYSE,119.16,86,91,92,82
+514,STTK,Healthcare,Biotechnology,NASDAQ,119.14,86,80,99,99
+515,SMTI,Healthcare,Medical Care Facilities,NASDAQ,119.12,86,94,90,30
+516,PDLB,Financial Services,Banks—Regional,NASDAQ,119.12,86,76,75,66
+517,PBR,Energy,Oil & Gas Integrated,NYSE,119.11,86,96,64,87
+518,OVV,Energy,Oil & Gas E&P,NYSE,119.07,86,88,84,83
+519,CADL,Healthcare,Biotechnology,NASDAQ,119.05,86,94,92,90
+520,PCVX,Healthcare,Biotechnology,NASDAQ,119.03,86,87,82,80
+521,SCSC,Technology,Electronics & Computer Distribution,NASDAQ,119.03,86,89,75,58
+522,PRAA,Financial Services,Credit Services,NASDAQ,118.99,86,79,76,59
+523,DCOM,Financial Services,Banks—Regional,NYSE,118.97,86,74,77,74
+524,TD,Financial Services,Banks—Diversified,NYSE,118.96,86,75,82,81
+525,EVTC,Technology,Software—Infrastructure,NYSE,118.91,86,48,51,14
+526,ESCA,Consumer Cyclical,Leisure,NASDAQ,118.85,86,83,88,83
+527,CZWI,Financial Services,Banks—Regional,NASDAQ,118.84,86,69,59,76
+528,NHC,Healthcare,Medical Care Facilities,NYSE MKT,118.77,86,91,89,88
+529,MOV,Consumer Cyclical,Luxury Goods,NYSE,118.76,86,85,95,86
+530,RPAY,Technology,Software—Infrastructure,NASDAQ,118.75,86,52,31,26
+531,WSM,Consumer Cyclical,Specialty Retail,NYSE,118.74,86,81,80,23
+532,VOYA,Financial Services,Financial Conglomerates,NYSE,118.73,86,81,79,65
+533,TREX,Industrials,Building Products & Equipment,NYSE,118.69,86,53,68,19
+534,EWTX,Healthcare,Biotechnology,NASDAQ,118.68,86,92,97,92
+535,CSTL,Healthcare,Diagnostics & Research,NASDAQ,118.64,86,87,86,13
+536,EXLS,Technology,Information Technology Services,NASDAQ,118.57,86,68,40,11
+537,CENT,Consumer Defensive,Packaged Foods,NASDAQ,118.48,86,70,72,53
+538,PTEN,Energy,Oil & Gas Drilling,NASDAQ,118.48,86,92,87,94
+539,ASH,Basic Materials,Specialty Chemicals,NYSE,118.39,86,83,84,47
+540,ARW,Technology,Electronics & Computer Distribution,NYSE,118.38,86,94,85,90
+541,DGX,Healthcare,Diagnostics & Research,NYSE,118.38,86,79,76,40
+542,CNXN,Technology,Electronics & Computer Distribution,NASDAQ,118.37,86,91,79,43
+543,CNQ,Energy,Oil & Gas E&P,NYSE,118.36,86,87,78,83
+544,OUT,Real Estate,REIT—Specialty,NYSE,118.35,86,75,78,90
+545,IPSC,Healthcare,Biotechnology,NASDAQ,118.33,86,51,98,98
+546,TILE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,118.3,85,79,84,49
+547,HPQ,Technology,Computer Hardware,NYSE,118.28,85,93,81,27
+548,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYSE,118.26,85,67,71,17
+549,PCB,Financial Services,Banks—Regional,NASDAQ,118.24,85,77,76,60
+550,CTOS,Industrials,Rental & Leasing Services,NYSE,118.23,85,84,89,91
+551,LNG,Energy,Oil & Gas Midstream,NYSE,118.14,85,75,63,57
+552,IBEX,Technology,Software—Application,NASDAQ,118.13,85,87,62,37
+553,INNV,Healthcare,Medical Care Facilities,NASDAQ,118.12,85,83,95,83
+554,SGC,Consumer Cyclical,Apparel Manufacturing,NASDAQ,118.08,85,82,69,68
+555,HRTG,Financial Services,Insurance—Property & Casualty,NYSE,118.07,85,86,82,25
+556,AVNT,Basic Materials,Specialty Chemicals,NYSE,118.06,85,81,82,31
+557,QNST,Communication Services,Advertising Agencies,NASDAQ,118.02,85,58,93,19
+558,FNLC,Financial Services,Banks—Regional,NASDAQ,117.99,85,78,82,58
+559,OPCH,Healthcare,Medical Care Facilities,NASDAQ,117.88,85,81,29,5
+560,NECB,Financial Services,Banks—Regional,NASDAQ,117.84,85,76,71,52
+561,MCK,Healthcare,Medical Distribution,NYSE,117.78,85,74,62,30
+562,BNS,Financial Services,Banks—Diversified,NYSE,117.76,85,79,78,74
+563,CVCO,Consumer Cyclical,Residential Construction,NASDAQ,117.74,85,48,64,22
+564,CPAC,Basic Materials,Building Materials,NYSE,117.71,85,83,83,83
+565,CVX,Energy,Oil & Gas Integrated,NYSE,117.65,85,84,64,70
+566,WWW,Consumer Cyclical,Footwear & Accessories,NYSE,117.64,85,54,41,19
+567,ACNB,Financial Services,Banksâ€”Regional,NASDAQ,117.56,85,85,82,61
+568,EL,Consumer Defensive,Household & Personal Products,NYSE,117.49,85,71,30,27
+569,MOH,Healthcare,Healthcare Plans,NYSE,117.41,85,55,70,68
+570,E,Energy,Oil & Gas Integrated,NYSE,117.37,85,86,79,87
+571,LTC,Real Estate,REIT—Healthcare Facilities,NYSE,117.35,85,76,44,56
+572,TVTX,Healthcare,Biotechnology,NASDAQ,117.31,85,92,97,92
+573,DXCM,Healthcare,Diagnostics & Research,NASDAQ,117.31,85,81,85,16
+574,VSAT,Technology,Communication Equipment,NASDAQ,117.27,85,93,96,98
+575,RDWR,Technology,Software—Infrastructure,NASDAQ,117.24,85,68,56,57
+576,PTC,Technology,Software—Application,NASDAQ,117.24,85,88,21,16
+577,MAC,Real Estate,REIT—Retail,NYSE,117.23,85,67,77,79
+578,WTBA,Financial Services,Banks—Regional,NASDAQ,117.13,85,84,82,57
+579,COLM,Consumer Cyclical,Apparel Manufacturing,NASDAQ,117.08,85,49,38,37
+580,CVEO,Industrials,Specialty Business Services,NYSE,117.05,85,80,69,86
+581,OCC,Technology,Communication Equipment,NASDAQ,117.03,85,97,97,97
+582,CNNE,Consumer Cyclical,Restaurants,NYSE,117.03,85,64,30,22
+583,DBX,Technology,Software—Infrastructure,NASDAQ,116.95,85,82,76,33
+584,HLT,Consumer Cyclical,Lodging,NASDAQ,116.86,85,62,46,62
+585,RS,Basic Materials,Steel,NYSE,116.84,84,82,81,72
+586,KARO,Technology,Software—Application,NASDAQ,116.76,84,78,83,32
+587,CVE,Energy,Oil & Gas Integrated,NYSE,116.74,84,92,87,92
+588,ADP,Industrials,Staffing & Employment Services,NASDAQ,116.71,84,70,61,19
+589,CPIX,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,116.7,84,98,99,86
+590,MSGM,Communication Services,Electronic Gaming & Multimedia,NASDAQ,116.69,84,94,50,83
+591,SWKS,Technology,Semiconductors,NASDAQ,116.56,84,90,42,42
+592,AIZ,Financial Services,Insuranceâ€”Specialty,NYSE,116.51,84,70,72,71
+593,EXPD,Industrials,Integrated Freight & Logistics,NYSE,116.43,84,85,73,68
+594,EHC,Healthcare,Medical Care Facilities,NYSE,116.39,84,69,57,30
+595,RGA,Financial Services,Insurance—Reinsurance,NYSE,116.35,84,80,70,49
+596,NL,Industrials,Security & Protection Services,NYSE,116.34,84,82,51,57
+597,GPN,Industrials,Specialty Business Services,NYSE,116.25,84,65,65,24
+598,ORMP,Healthcare,Biotechnology,NASDAQ,116.22,84,89,89,94
+599,TCI,Real Estate,Real Estate Services,NYSE,116.19,84,50,17,15
+600,MAN,Industrials,Staffing & Employment Services,NYSE,116.19,84,95,95,16
+601,PSO,Communication Services,Publishing,NYSE,116.18,84,71,65,59
+602,SBH,Consumer Cyclical,Specialty Retail,NYSE,116.17,84,68,77,24
+603,TRST,Financial Services,Banks—Regional,NASDAQ,116.16,84,82,83,78
+604,GENC,Industrials,Farm & Heavy Construction Machinery,NYSE MKT,116.16,84,81,62,43
+605,MA,Financial Services,Credit Services,NYSE,116.13,84,63,45,24
+606,MO,Consumer Defensive,Tobacco,NYSE,116.1,84,68,40,72
+607,RRBI,Financial Services,Banks—Regional,NASDAQ,116.04,84,83,81,76
+608,PBT,Energy,Oil & Gas E&P,NYSE,116.04,84,95,91,92
+609,DSGX,Technology,Software—Application,NASDAQ,116.03,84,61,42,18
+610,SPB,Consumer Defensive,Household & Personal Products,NYSE,116.02,84,72,81,76
+611,ASRV,Financial Services,Banks—Regional,NASDAQ,115.96,84,88,88,78
+612,ACIW,Technology,Softwareâ€”Infrastructure,NASDAQ,115.94,84,56,66,28
+613,MTD,Healthcare,Diagnostics & Research,NYSE,115.88,84,76,63,15
+614,MET,Financial Services,Insurance—Life,NYSE,115.79,84,78,76,45
+615,GLBE,Consumer Cyclical,Internet Retail,NASDAQ,115.76,84,66,75,20
+616,CCNE,Financial Services,Banks—Regional,NASDAQ,115.76,84,77,78,69
+617,APOG,Industrials,Building Products & Equipment,NASDAQ,115.68,84,72,64,26
+618,CNO,Financial Services,Insurance—Life,NYSE,115.67,84,79,78,68
+619,EXPE,Consumer Cyclical,Travel Services,NASDAQ,115.64,84,57,87,48
+620,SJM,Consumer Defensive,Packaged Foods,NYSE,115.63,84,76,58,27
+621,TMP,Financial Services,Banks—Regional,NYSE MKT,115.61,84,83,82,69
+622,CORT,Healthcare,Biotechnology,NASDAQ,115.6,84,98,97,52
+623,NDAQ,Financial Services,Financial Data & Stock Exchanges,NASDAQ,115.54,84,59,47,57
+624,ADI,Technology,Semiconductors,NASDAQ,115.49,83,87,78,89
+625,PBI,Industrials,Business Equipment & Supplies,NYSE,115.48,83,87,86,89
+626,JHX,Basic Materials,Building Materials,NYSE,115.48,83,69,87,17
+627,BHVN,Healthcare,Biotechnology,NYSE,115.43,83,35,87,13
+628,TALO,Energy,Oil & Gas E&P,NYSE,115.42,83,90,82,86
+629,IHG,Consumer Cyclical,Lodging,NYSE,115.4,83,72,58,65
+630,BHB,Financial Services,Banks—Regional,NYSE MKT,115.39,83,77,73,55
+631,CAC,Financial Services,Banks—Regional,NASDAQ,115.38,83,81,83,62
+632,PLBC,Financial Services,Banks—Regional,NASDAQ,115.36,83,84,82,63
+633,III,Technology,Information Technology Services,NASDAQ,115.36,83,88,56,23
+634,FCN,Industrials,Consulting Services,NYSE,115.33,83,22,25,25
+635,WAT,Healthcare,Diagnostics & Research,NYSE,115.31,83,83,73,40
+636,CAH,Healthcare,Medical Distribution,NYSE,115.22,83,74,78,55
+637,HNST,Consumer Cyclical,Specialty Retail,NASDAQ,115.21,83,93,94,63
+638,BAX,Healthcare,Medical Instruments & Supplies,NYSE,115.19,83,76,86,17
+639,ZS,Technology,Software—Infrastructure,NASDAQ,115.17,83,87,23,8
+640,VABK,Financial Services,Banks—Regional,NASDAQ,115.14,83,80,65,60
+641,ABNB,Communication Services,Internet Content & Information,NASDAQ,115.05,83,79,88,54
+642,DXC,Technology,Information Technology Services,NYSE,115.04,83,62,27,4
+643,TYL,Technology,Software—Application,NYSE,115.0,83,35,15,11
+644,PVH,Consumer Cyclical,Apparel Manufacturing,NYSE,115.0,83,51,55,54
+645,FDMT,Healthcare,Biotechnology,NASDAQ,114.95,83,87,81,87
+646,KO,Consumer Defensive,Beverages—Non-Alcoholic,NYSE,114.95,83,77,62,62
+647,COKE,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,114.93,83,78,72,70
+648,AJG,Financial Services,Insurance Brokers,NYSE,114.92,83,31,58,15
+649,PM,Consumer Defensive,Tobacco,NYSE,114.89,83,78,49,66
+650,FBIOP,Healthcare,Biotechnology,NASDAQ,114.88,83,93,97,92
+651,BIO,Healthcare,Medical Devices,NYSE,114.88,83,84,81,26
+652,PBFS,Financial Services,Banks—Regional,NASDAQ,114.84,83,79,71,62
+653,OBT,Financial Services,Banks—Regional,NASDAQ,114.79,83,80,80,68
+654,EOG,Energy,Oil & Gas E&P,NYSE,114.72,83,81,70,70
+655,VALU,Financial Services,Financial Data & Stock Exchanges,NASDAQ,114.68,83,80,56,26
+656,FRBA,Financial Services,Banks—Regional,NASDAQ,114.68,83,64,70,29
+657,FIVE,Consumer Cyclical,Specialty Retail,NASDAQ,114.66,83,68,82,84
+658,GSBC,Financial Services,Banks—Regional,NASDAQ,114.66,83,76,79,65
+659,MBIN,Financial Services,Banks—Regional,NASDAQ,114.63,83,82,86,73
+660,MAS,Industrials,Building Products & Equipment,NYSE,114.62,83,52,53,34
+661,MANU,Consumer Cyclical,Leisure,NYSE,114.6,83,71,74,71
+662,AIN,Consumer Cyclical,Textile Manufacturing,NYSE,114.57,82,49,51,61
+663,XOM,Energy,Oil & Gas Integrated,NYSE,114.53,82,85,71,76
+664,DAL,Industrials,Airlines,NYSE,114.5,82,76,86,70
+665,SOPH,Healthcare,Health Information Services,NASDAQ,114.5,82,92,95,73
+666,SAIL,Technology,Software—Infrastructure,NASDAQ,114.46,82,87,79,11
+667,FATE,Healthcare,Biotechnology,NASDAQ,114.44,82,88,97,92
+668,GDRX,Healthcare,Health Information Services,NASDAQ,114.39,82,72,83,23
+669,PDS,Energy,Oil & Gas Drilling,NYSE,114.37,82,73,58,87
+670,QGEN,Healthcare,Diagnostics & Research,NYSE,114.37,82,60,44,9
+671,SFL,Industrials,Marine Shipping,NYSE,114.33,82,92,68,83
+672,BILL,Technology,Software—Application,NYSE,114.32,82,50,59,20
+673,SB,Industrials,Marine Shipping,NYSE,114.32,82,93,81,88
+674,CBOE,Financial Services,Financial Data & Stock Exchanges,BATS,114.31,82,65,27,84
+675,SPT,Technology,Software—Application,NASDAQ,114.3,82,86,67,4
+676,MNST,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,114.29,82,63,67,73
+677,JNJ,Healthcare,Drug Manufacturers—General,NYSE,114.26,82,76,76,73
+678,TSBK,Financial Services,Banks—Regional,NASDAQ,114.25,82,78,78,66
+679,CNMD,Healthcare,Medical Devices,NYSE,114.2,82,69,67,14
+680,ABM,Industrials,Specialty Business Services,NYSE,114.12,82,74,59,22
+681,COFS,Financial Services,Banks—Regional,NASDAQ,114.09,82,71,62,52
+682,ATER,Technology,Consumer Electronics,NASDAQ,114.07,82,7,3,80
+683,ARTW,Industrials,Farm & Heavy Construction Machinery,NASDAQ,114.05,82,89,46,52
+684,SRCE,Financial Services,Banks—Regional,NASDAQ,113.99,82,81,82,62
+685,PHVS,Healthcare,Biotechnology,NASDAQ,113.98,82,74,82,80
+686,MEDP,Healthcare,Diagnostics & Research,NASDAQ,113.95,82,72,81,40
+687,RGEN,Healthcare,Medical Instruments & Supplies,NASDAQ,113.93,82,78,81,13
+688,BPRN,Financial Services,Banks—Regional,NASDAQ,113.87,82,84,77,52
+689,LSBK,Financial Services,Banks—Regional,NASDAQ,113.84,82,79,65,70
+690,MSFT,Technology,Software—Infrastructure,NASDAQ,113.77,82,85,58,26
+691,OUST,Technology,Electronic Components,NASDAQ,113.77,82,90,95,93
+692,NX,Industrials,Building Products & Equipment,NYSE,113.75,82,70,70,47
+693,CENTA,Consumer Defensive,Packaged Foods,NASDAQ,113.73,82,65,67,54
+694,PFE,Healthcare,Drug Manufacturers—General,NYSE,113.73,82,75,48,51
+695,CTAS,Industrials,Specialty Business Services,NASDAQ,113.71,82,66,54,18
+696,NWE,Utilities,Utilities—Diversified,NASDAQ,113.68,82,71,51,69
+697,BSY,Technology,Software—Application,NASDAQ,113.64,82,46,24,14
+698,COHU,Technology,Semiconductor Equipment & Materials,NASDAQ,113.5,82,98,94,95
+699,AVT,Technology,Electronics & Computer Distribution,NASDAQ,113.49,82,95,91,89
+700,TITN,Industrials,Industrial Distribution,NASDAQ,113.49,82,90,32,54
+701,MTLS,Technology,Software—Application,NASDAQ,113.45,81,91,71,54
+702,AFCG,Real Estate,REITâ€”Specialty,NASDAQ,113.42,81,72,19,33
+703,DIBS,Consumer Cyclical,Internet Retail,NASDAQ,113.41,81,34,55,73
+704,SWIM,Industrials,Building Products & Equipment,NASDAQ,113.4,81,55,76,11
+705,MDT,Healthcare,Medical Devices,NYSE,113.37,81,45,45,18
+706,NWFL,Financial Services,Banks—Regional,NASDAQ,113.36,81,79,74,55
+707,CSX,Industrials,Railroads,NASDAQ,113.36,81,74,76,77
+708,BLKB,Technology,Software—Application,NASDAQ,113.34,81,74,44,4
+709,ALKS,Healthcare,Biotechnology,NASDAQ,113.33,81,71,88,74
+710,IPAR,Consumer Defensive,Household & Personal Products,NASDAQ,113.31,81,74,77,20
+711,GCO,Consumer Cyclical,Apparel Retail,NYSE,113.3,81,80,75,69
+712,WASH,Financial Services,Banks—Regional,NASDAQ,113.25,81,77,80,49
+713,BEN,Financial Services,Asset Management,NYSE,113.23,81,82,74,80
+714,USFD,Consumer Defensive,Food Distribution,NYSE,113.19,81,69,83,42
+715,BME,Financial Services,Asset Management,NYSE,113.14,81,69,67,53
+716,SHIP,Industrials,Marine Shipping,NASDAQ,113.04,81,94,90,94
+717,HUIZ,Financial Services,Insurance Brokers,NASDAQ,113.01,81,15,7,10
+718,GDDY,Technology,Software—Infrastructure,NYSE,112.99,81,49,17,10
+719,DE,Industrials,Farm & Heavy Construction Machinery,NYSE,112.98,81,83,59,59
+720,TASK,Technology,Information Technology Services,NASDAQ,112.97,81,78,26,8
+721,AAPL,Technology,Consumer Electronics,NASDAQ,112.94,81,81,58,74
+722,APPF,Technology,Softwareâ€”Application,NASDAQ,112.93,81,62,42,9
+723,FMX,Consumer Defensive,Beverages—Brewers,NYSE,112.87,81,66,58,74
+724,JXN,Financial Services,Asset Management,NYSE,112.84,81,81,76,65
+725,TFX,Healthcare,Medical Instruments & Supplies,NYSE,112.84,81,47,60,68
+726,PFG,Financial Services,Insurance—Diversified,NASDAQ,112.82,81,75,77,73
+727,CPRI,Consumer Cyclical,Apparel Manufacturing,NYSE,112.82,81,13,13,20
+728,HOFT,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,112.81,81,59,84,65
+729,STNG,Energy,Oil & Gas Midstream,NYSE,112.81,81,86,61,87
+730,BZUN,Consumer Cyclical,Internet Retail,NASDAQ,112.81,81,82,43,28
+731,TW,Financial Services,Capital Markets,NASDAQ,112.79,81,57,20,26
+732,TACT,Technology,Computer Hardware,NASDAQ,112.77,81,64,91,26
+733,RLI,Financial Services,Insurance—Property & Casualty,NYSE,112.74,81,41,67,14
+734,EQH,Financial Services,Insurance—Diversified,NYSE,112.67,81,79,63,24
+735,PRU,Financial Services,Insurance—Life,NYSE,112.67,81,64,69,40
+736,CATY,Financial Services,Banks—Regional,NASDAQ,112.66,81,69,74,68
+737,JAZZ,Healthcare,Biotechnology,NASDAQ,112.64,81,82,91,92
+738,VRTX,Healthcare,Biotechnology,NASDAQ,112.64,81,69,73,44
+739,KRO,Basic Materials,Specialty Chemicals,NYSE,112.6,81,91,88,74
+740,KINS,Financial Services,Insurance—Property & Casualty,NASDAQ,112.57,80,69,75,31
+741,M,Consumer Cyclical,Department Stores,NYSE,112.53,80,73,87,64
+742,EOLS,Healthcare,Drug Manufacturers—Specialty & Generic,NASDAQ,112.5,80,90,86,64
+743,AEO,Consumer Cyclical,Apparel Retail,NYSE,112.49,80,48,49,30
+744,ALLE,Industrials,Security & Protection Services,NYSE,112.46,80,51,54,15
+745,FUNC,Financial Services,Banks—Regional,NASDAQ,112.45,80,70,77,55
+746,STM,Technology,Semiconductors,NYSE,112.45,80,91,93,96
+747,NCNO,Technology,Software—Application,NASDAQ,112.39,80,45,27,9
+748,UTHR,Healthcare,Biotechnology,NASDAQ,112.37,80,61,59,86
+749,NTNX,Technology,Software—Infrastructure,NASDAQ,112.34,80,92,74,17
+750,SWBI,Industrials,Aerospace & Defense,NASDAQ,112.3,80,78,83,89
+751,SND,Energy,Oil & Gas Equipment & Services,NASDAQ,112.3,80,93,91,93
+752,PERI,Communication Services,Internet Content & Information,NASDAQ,112.28,80,35,36,60
+753,SHOO,Consumer Cyclical,Footwear & Accessories,NASDAQ,112.24,80,75,86,73
+754,BGR,Financial Services,Asset Management,NYSE,112.22,80,82,65,74
+755,MFC,Financial Services,Insurance—Life,NYSE,112.19,80,75,73,63
+756,CCEP,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,112.19,80,64,61,35
+757,MYE,Consumer Cyclical,Packaging & Containers,NYSE,112.16,80,90,93,82
+758,VRSN,Technology,Software—Infrastructure,NASDAQ,112.15,80,72,56,72
+759,FTNT,Technology,Software—Infrastructure,NASDAQ,112.13,80,97,94,84
+760,GRMN,Technology,Scientific & Technical Instruments,NYSE,112.12,80,77,86,62
+761,DVA,Healthcare,Medical Care Facilities,NYSE,112.1,80,74,64,82
+762,PAG,Consumer Cyclical,Auto & Truck Dealerships,NYSE,112.09,80,75,80,43
+763,PRTS,Consumer Cyclical,Internet Retail,NASDAQ,112.06,80,91,21,45
+764,ORRF,Financial Services,Banks—Regional,NASDAQ,112.05,80,71,72,52
+765,MTN,Consumer Cyclical,Resorts & Casinos,NYSE,112.04,80,60,55,22
+766,EZPW,Financial Services,Credit Services,NASDAQ,112.01,80,79,66,93
+767,UNH,Healthcare,Healthcare Plans,NYSE,111.98,80,60,77,81
+768,ALL,Financial Services,Insuranceâ€”Property & Casualty,NYSE,111.97,80,53,76,52
+769,GNE,Utilities,Utilities—Regulated Electric,NYSE,111.96,80,78,32,20
+770,BSRR,Financial Services,Banks—Regional,NASDAQ,111.92,80,73,71,71
+771,GNK,Industrials,Marine Shipping,NYSE,111.91,80,89,72,84
+772,UNP,Industrials,Railroads,NYSE,111.87,80,69,69,66
+773,FIZZ,Consumer Defensive,Beverages—Non-Alcoholic,NASDAQ,111.85,80,43,24,27
+774,TTE,Energy,Oil & Gas Integrated,NYSE,111.83,80,80,69,83
+775,DMLP,Energy,Oil & Gas E&P,NASDAQ,111.79,80,82,60,62
+776,FDX,Industrials,Integrated Freight & Logistics,NYSE,111.79,80,69,80,81
+777,PRGO,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,111.78,80,83,27,6
+778,SPNT,Financial Services,Insurance—Reinsurance,NYSE,111.77,80,73,50,66
+779,EVH,Healthcare,Health Information Services,NYSE,111.72,79,36,25,32
+780,TTEK,Industrials,Engineering & Construction,NASDAQ,111.7,79,57,47,12
+781,KRNY,Financial Services,Banks—Regional,NASDAQ,111.7,79,77,84,70
+782,MSCI,Financial Services,Financial Data & Stock Exchanges,NYSE,111.67,79,45,34,48
+783,VIRT,Financial Services,Capital Markets,NYSE,111.67,79,89,78,84
+784,WELL,Real Estate,REIT—Healthcare Facilities,NYSE,111.65,79,69,61,74
+785,AMPH,Healthcare,Drug Manufacturersâ€”Specialty & Generic,NASDAQ,111.64,79,78,22,5
+786,RGS,Consumer Cyclical,Personal Services,NASDAQ,111.63,79,70,62,78
+787,CARE,Financial Services,Banks—Regional,NASDAQ,111.61,79,84,90,85
+788,PEBK,Financial Services,Banks—Regional,NASDAQ,111.6,79,79,78,75
+789,FHI,Financial Services,Asset Management,NYSE,111.6,79,54,67,61
+790,INTT,Technology,Semiconductors,NYSE MKT,111.6,79,88,79,96
+791,DV,Technology,Software—Application,NYSE,111.59,79,82,75,13
+792,HVT,Consumer Cyclical,Home Improvement Retail,NYSE,111.57,79,82,81,27
+793,WFCF,Technology,Software—Application,NASDAQ,111.57,79,65,41,33
+794,HMC,Consumer Cyclical,Auto Manufacturers,NYSE,111.57,79,74,58,17
+795,ZBH,Healthcare,Medical Devices,NYSE,111.56,79,43,51,21
+796,SIGI,Financial Services,Insurance—Property & Casualty,NASDAQ,111.55,79,45,59,49
+797,SPSC,Technology,Software—Infrastructure,NASDAQ,111.52,79,78,52,4
+798,FTK,Energy,Oil & Gas Equipment & Services,NYSE,111.52,79,92,98,81
+799,NDSN,Industrials,Specialty Industrial Machinery,NASDAQ,111.52,79,84,70,67
+800,WTRG,Utilities,Utilities—Regulated Water,NYSE,111.5,79,52,46,36
+801,SKY,Consumer Cyclical,Residential Construction,NYSE,111.49,79,59,75,16
+802,DIN,Consumer Cyclical,Restaurants,NYSE,111.48,79,38,82,72
+803,CFBK,Financial Services,Banks—Regional,NASDAQ,111.47,79,82,83,47
+804,OVBC,Financial Services,Banks—Regional,NASDAQ,111.47,79,73,52,72
+805,ACEL,Consumer Cyclical,Gambling,NYSE,111.47,79,38,52,54
+806,DSP,Technology,Software—Application,NASDAQ,111.44,79,76,76,35
+807,OOMA,Communication Services,Telecom Services,NYSE,111.42,79,90,91,89
+808,VAL,Energy,Oil & Gas Equipment & Services,NYSE,111.39,79,82,76,92
+809,LCNB,Financial Services,Banks—Regional,NASDAQ,111.39,79,77,78,46
+810,SBLK,Industrials,Marine Shipping,NASDAQ,111.38,79,90,77,81
+811,MCBS,Financial Services,Banks—Regional,NASDAQ,111.36,79,76,75,64
+812,BKH,Utilities,Utilities—Diversified,NYSE,111.35,79,68,47,65
+813,WNC,Industrials,Farm & Heavy Construction Machinery,NYSE,111.34,79,89,90,8
+814,FSTR,Industrials,Railroads,NASDAQ,111.33,79,70,72,89
+815,FENC,Healthcare,Biotechnology,NASDAQ,111.31,79,82,93,70
+816,STT,Financial Services,Asset Management,NYSE,111.3,79,81,88,80
+817,ENR,Industrials,Electrical Equipment & Parts,NYSE,111.29,79,66,49,9
+818,MTCH,Communication Services,Internet Content & Information,NASDAQ,111.28,78,79,49,64
+819,SEIC,Financial Services,Asset Management,NASDAQ,111.27,78,78,68,62
+820,ATI,Industrials,Metal Fabrication,NYSE,111.25,78,91,97,90
+821,BMO,Financial Services,Banks—Diversified,NYSE,111.21,78,69,83,76
+822,ANAB,Healthcare,Biotechnology,NASDAQ,111.2,78,84,96,98
+823,CCCC,Healthcare,Biotechnology,NASDAQ,111.16,78,48,91,94
+824,WDAY,Technology,Software—Application,NASDAQ,111.16,78,80,64,5
+825,FMBH,Financial Services,Banks—Regional,NASDAQ,111.07,78,77,78,56
+826,HIW,Real Estate,REIT—Office,NYSE,111.04,78,69,67,46
+827,CHT,Communication Services,Telecom Services,NYSE,111.01,78,71,37,43
+828,CZR,Consumer Cyclical,Resorts & Casinos,NASDAQ,111.0,78,72,79,76
+829,STBA,Financial Services,Banks—Regional,NASDAQ,111.0,78,75,76,61
+830,TTC,Industrials,Tools & Accessories,NYSE,111.0,78,70,63,57
+831,DG,Consumer Defensive,Discount Stores,NYSE,110.99,78,62,50,26
+832,MMM,Industrials,Specialty Industrial Machinery,NYSE,110.95,78,61,66,25
+833,WTI,Energy,Oil & Gas E&P,NYSE,110.94,78,93,89,96
+834,STAA,Healthcare,Medical Instruments & Supplies,NASDAQ,110.82,78,27,35,90
+835,CNI,Industrials,Railroads,NYSE,110.81,78,65,72,61
+836,USPH,Healthcare,Medical Care Facilities,NYSE,110.79,78,66,60,16
+837,RELX,Communication Services,Publishing,NYSE,110.78,78,45,33,17
+838,RY,Financial Services,Banks—Diversified,NYSE,110.78,78,67,80,76
+839,TNET,Industrials,Staffing & Employment Services,NYSE,110.75,78,84,84,13
+840,VMD,Healthcare,Medical Devices,NASDAQ,110.69,78,59,62,78
+841,CM,Financial Services,Banks—Diversified,NYSE,110.66,78,69,78,82
+842,SLF,Financial Services,Insurance—Diversified,NYSE,110.61,78,73,77,66
+843,HQY,Healthcare,Health Information Services,NASDAQ,110.6,78,53,73,33
+844,RNR,Financial Services,Insurance—Reinsurance,NYSE,110.58,78,69,59,56
+845,BP,Energy,Oil & Gas Integrated,NYSE,110.48,78,81,59,78
+846,OXY,Energy,Oil & Gas E&P,NYSE,110.33,78,80,73,78
+847,GFF,Industrials,Tools & Accessories,NYSE,110.33,78,77,83,56
+848,SAP,Technology,Software—Application,NYSE,110.32,78,73,37,8
+849,RDNT,Healthcare,Diagnostics & Research,NASDAQ,110.31,78,55,68,14
+850,UFI,Consumer Cyclical,Textile Manufacturing,NYSE,110.29,78,91,93,37
+851,SLAB,Technology,Semiconductors,NASDAQ,110.28,78,85,80,83
+852,RICK,Consumer Cyclical,Restaurants,NASDAQ,110.24,78,55,48,23
+853,ZBRA,Technology,Communication Equipment,NASDAQ,110.24,78,93,88,27
+854,PEO,Financial Services,Asset Management,NYSE,110.14,78,83,71,73
+855,HBNC,Financial Services,Banks—Regional,NASDAQ,110.12,78,68,70,58
+856,EW,Healthcare,Medical Devices,NYSE,110.11,78,55,64,48
+857,SMRT,Technology,Software—Application,NYSE,110.07,77,36,47,27
+858,CUBE,Real Estate,REIT—Industrial,NYSE,110.0,77,46,47,49
+859,H,Consumer Cyclical,Lodging,NYSE,109.99,77,39,51,62
+860,ROST,Consumer Cyclical,Apparel Retail,NASDAQ,109.98,77,76,85,77
+861,CVLG,Industrials,Trucking,NYSE,109.93,77,67,78,83
+862,BY,Financial Services,Banks—Regional,NYSE,109.91,77,74,79,63
+863,EVI,Industrials,Industrial Distribution,NYSE MKT,109.91,77,39,8,17
+864,TUSK,Energy,Oil & Gas Equipment & Services,NASDAQ,109.91,77,79,83,85
+865,FEIM,Technology,Communication Equipment,NASDAQ,109.88,77,95,95,95
+866,DMRC,Technology,Information Technology Services,NASDAQ,109.87,77,39,25,81
+867,COTY,Consumer Defensive,Household & Personal Products,NYSE,109.87,77,67,30,5
+868,AMG,Financial Services,Asset Management,NYSE,109.84,77,84,81,71
+869,IFF,Basic Materials,Specialty Chemicals,NYSE,109.81,77,81,69,50
+870,NWBI,Financial Services,Banks—Regional,NASDAQ,109.81,77,73,76,63
+871,VCEL,Healthcare,Biotechnology,NASDAQ,109.79,77,60,75,22
+872,CHH,Consumer Cyclical,Lodging,NYSE,109.76,77,46,26,30
+873,PLMR,Financial Services,Insurance—Property & Casualty,NASDAQ,109.75,77,48,53,18
+874,STK,Financial Services,Asset Management,NYSE,109.73,77,89,81,87
+875,NBTB,Financial Services,Banks—Regional,NASDAQ,109.72,77,72,72,46
+876,BNY,Financial Services,Asset Management,NYSE,109.7,77,71,83,78
+877,RSVR,Communication Services,Entertainment,NASDAQ,109.68,77,67,64,81
+878,WSFS,Financial Services,Banks—Regional,NASDAQ,109.68,77,76,79,71
+879,ULTA,Consumer Cyclical,Specialty Retail,NASDAQ,109.68,77,59,36,26
+880,PEBO,Financial Services,Banks—Regional,NASDAQ,109.65,77,68,82,58
+881,FTV,Technology,Scientific & Technical Instruments,NYSE,109.65,77,50,55,60
+882,KFFB,Financial Services,Banks—Regional,NASDAQ,109.64,77,85,85,77
+883,KOS,Energy,Oil & Gas E&P,NYSE,109.64,77,94,79,92
+884,INTG,Consumer Cyclical,Lodging,NASDAQ,109.64,77,57,81,95
+885,DHR,Healthcare,Diagnostics & Research,NYSE,109.63,77,64,51,15
+886,AWK,Utilities,Utilities—Regulated Water,NYSE,109.63,77,45,44,31
+887,KMX,Consumer Cyclical,Auto & Truck Dealerships,NYSE,109.62,77,72,86,18
+888,ATR,Consumer Cyclical,Packaging & Containers,NYSE,109.59,77,44,48,21
+889,CRAI,Industrials,Consulting Services,NASDAQ,109.57,77,53,43,17
+890,FCAP,Financial Services,Banks—Regional,NASDAQ,109.55,77,80,84,75
+891,WCN,Industrials,Waste Management,NYSE,109.53,77,35,36,26
+892,SILC,Technology,Communication Equipment,NASDAQ,109.5,77,99,97,98
+893,HTHT,Consumer Cyclical,Lodging,NASDAQ,109.49,77,49,30,59
+894,MUFG,Financial Services,Banks—Diversified,NYSE,109.49,77,84,79,64
+895,OSUR,Healthcare,Medical Instruments & Supplies,NASDAQ,109.48,77,73,85,62
+896,GME,Consumer Cyclical,Specialty Retail,NYSE,109.47,76,70,14,26
+897,RL,Consumer Cyclical,Apparel Manufacturing,NYSE,109.45,76,48,70,49
+898,VFF,Consumer Defensive,Farm Products,NASDAQ,109.42,76,61,19,71
+899,OSBC,Financial Services,Banks—Regional,NASDAQ,109.38,76,81,81,61
+900,RSG,Industrials,Waste Management,NYSE,109.35,76,52,36,29
+901,RBCAA,Financial Services,Banks—Regional,NASDAQ,109.33,76,81,86,58
+902,KRP,Energy,Oil & Gas E&P,NYSE,109.33,76,77,55,67
+903,KIM,Real Estate,REIT—Retail,NYSE,109.32,76,49,54,59
+904,MBWM,Financial Services,Banks—Regional,NASDAQ,109.29,76,74,75,53
+905,WMG,Communication Services,Entertainment,NASDAQ,109.27,76,45,12,62
+906,SHBI,Financial Services,Banks—Regional,NASDAQ,109.23,76,78,83,66
+907,BJ,Consumer Defensive,Discount Stores,NYSE,109.21,76,65,29,30
+908,IT,Technology,Information Technology Services,NYSE,109.2,76,71,43,7
+909,UFCS,Financial Services,Insurance—Property & Casualty,NASDAQ,109.2,76,90,86,85
+910,CBFV,Financial Services,Banks—Regional,NASDAQ,109.17,76,67,57,52
+911,THFF,Financial Services,Banks—Regional,NASDAQ,109.17,76,75,83,64
+912,WAB,Industrials,Railroads,NYSE,109.17,76,80,77,74
+913,JLL,Real Estate,Real Estate Services,NYSE,109.09,76,37,64,46
+914,EXR,Real Estate,REIT—Industrial,NYSE,109.09,76,44,47,47
+915,CHD,Consumer Defensive,Household & Personal Products,NYSE,109.04,76,63,55,42
+916,GM,Consumer Cyclical,Auto Manufacturers,NYSE,109.0,76,72,77,71
+917,PKBK,Financial Services,Banks—Regional,NASDAQ,108.98,76,80,83,79
+918,CCI,Real Estate,REIT—Specialty,NYSE,108.97,76,23,14,30
+919,ARMK,Consumer Cyclical,Restaurants,NYSE,108.95,76,82,86,81
+920,ENTG,Technology,Semiconductor Equipment & Materials,NASDAQ,108.9,76,91,86,85
+921,HYLN,Consumer Cyclical,Auto Parts,NYSE MKT,108.9,76,94,95,95
+922,SMP,Consumer Cyclical,Auto Parts,NYSE,108.87,76,51,40,43
+923,AFG,Financial Services,Insuranceâ€”Property & Casualty,NYSE,108.86,76,57,54,50
+924,DRI,Consumer Cyclical,Restaurants,NYSE,108.85,76,58,57,36
+925,TRI,Industrials,Consulting Services,NASDAQ,108.84,76,49,33,7
+926,ICUI,Healthcare,Medical Instruments & Supplies,NASDAQ,108.82,76,73,86,27
+927,NTCT,Technology,Software—Infrastructure,NASDAQ,108.81,76,81,78,86
+928,CAL,Consumer Cyclical,Footwear & Accessories,NYSE,108.79,76,56,67,21
+929,ED,Utilities,Utilities—Regulated Electric,NYSE,108.76,76,52,42,48
+930,BFST,Financial Services,Banks—Regional,NASDAQ,108.76,76,72,72,48
+931,PYPL,Financial Services,Credit Services,NASDAQ,108.75,76,63,62,19
+932,RNW,Utilities,Utilities—Renewable,NASDAQ,108.73,76,76,56,22
+933,ADUS,Healthcare,Medical Care Facilities,NASDAQ,108.69,76,65,52,17
+934,RM,Financial Services,Credit Services,NYSE,108.69,76,25,21,43
+935,URI,Industrials,Rental & Leasing Services,NYSE,108.68,75,69,77,68
+936,TECK,Basic Materials,Other Industrial Metals & Mining,NYSE,108.67,75,85,84,87
+937,CFFN,Financial Services,Banks—Regional,NASDAQ,108.65,75,77,80,71
+938,CIVB,Financial Services,Banks—Regional,NASDAQ,108.63,75,72,76,60
+939,NTR,Basic Materials,Agricultural Inputs,NYSE,108.59,75,71,43,66
+940,ECL,Basic Materials,Specialty Chemicals,NYSE,108.56,75,57,48,25
+941,CERS,Healthcare,Biotechnology,NASDAQ,108.56,75,60,82,88
+942,OMC,Communication Services,Advertising Agencies,NYSE,108.46,75,46,64,41
+943,PHG,Healthcare,Diagnostics & Research,NYSE,108.46,75,29,32,29
+944,RACE,Consumer Cyclical,Auto Manufacturers,NYSE,108.46,75,53,54,15
+945,PSA,Real Estate,REIT—Industrial,NYSE,108.44,75,46,57,54
+946,CNOB,Financial Services,Banks—Regional,NASDAQ,108.43,75,64,75,68
+947,EPAM,Technology,Information Technology Services,NYSE,108.4,75,38,11,2
+948,SNX,Technology,Information Technology Services,NYSE,108.38,75,91,86,89
+949,EMR,Industrials,Specialty Industrial Machinery,NYSE,108.38,75,76,67,44
+950,HAFC,Financial Services,Banks—Regional,NASDAQ,108.38,75,72,69,68
+951,CB,Financial Services,Insurance—Property & Casualty,NYSE,108.36,75,61,59,56
+952,MGRC,Industrials,Rental & Leasing Services,NASDAQ,108.36,75,55,48,45
+953,XOS,Industrials,Farm & Heavy Construction Machinery,NASDAQ,108.35,75,92,63,10
+954,DOW,Basic Materials,Chemicals,NYSE,108.33,75,58,55,86
+955,FISI,Financial Services,Banks—Regional,NASDAQ,108.25,75,79,84,69
+956,TX,Basic Materials,Steel,NYSE,108.24,75,91,86,76
+957,ACGL,Financial Services,Insuranceâ€”Diversified,NASDAQ,108.24,75,44,44,38
+958,HWKN,Basic Materials,Specialty Chemicals,NASDAQ,108.2,75,33,15,61
+959,WABC,Financial Services,Banks—Regional,NASDAQ,108.19,75,73,64,59
+960,NPK,Industrials,Aerospace & Defense,NYSE,108.18,75,81,62,80
+961,G,Technology,Information Technology Services,NYSE,108.16,75,45,22,9
+962,CPF,Financial Services,Banks—Regional,NYSE,108.16,75,65,74,65
+963,EBC,Financial Services,Banks—Regional,NASDAQ,108.15,75,58,77,58
+964,AMBP,Consumer Cyclical,Packaging & Containers,NYSE,108.14,75,67,80,40
+965,NEXA,Basic Materials,Other Industrial Metals & Mining,NYSE,108.14,75,88,95,96
+966,MSI,Technology,Communication Equipment,NYSE,108.09,75,64,60,27
+967,FCBC,Financial Services,Banks—Regional,NASDAQ,108.08,75,85,80,66
+968,PRGS,Technology,Software—Application,NASDAQ,108.08,75,52,72,5
+969,CHMI,Real Estate,REIT—Mortgage,NYSE,108.07,75,77,72,42
+970,JKHY,Technology,Information Technology Services,NASDAQ,108.07,75,39,32,18
+971,HCA,Healthcare,Medical Care Facilities,NYSE,108.06,75,52,23,32
+972,FCF,Financial Services,Banks—Regional,NYSE,108.01,75,67,75,58
+973,KOF,Consumer Defensive,Beverages—Non-Alcoholic,NYSE,107.99,74,73,57,60
+974,UBSI,Financial Services,Banks—Regional,NASDAQ,107.96,74,68,72,58
+975,TECH,Healthcare,Biotechnology,NASDAQ,107.94,74,75,84,15
+976,TRIN,Financial Services,Asset Management,NYSE,107.9,74,76,71,72
+977,CHE,Healthcare,Medical Care Facilities,NYSE,107.89,74,74,73,25
+978,RVSB,Financial Services,Banks—Regional,NASDAQ,107.89,74,71,33,39
+979,NWSA,Communication Services,Broadcasting,NASDAQ,107.87,74,67,50,45
+980,LXFR,Industrials,Specialty Industrial Machinery,NYSE,107.87,74,81,75,70
+981,HFBL,Financial Services,Banks—Regional,NASDAQ,107.86,74,89,85,78
+982,AER,Industrials,Airports & Air Services,NYSE,107.86,74,54,55,59
+983,TS,Energy,Oil & Gas Equipment & Services,NYSE,107.85,74,80,61,88
+984,BMI,Industrials,Electrical Equipment & Parts,NYSE,107.84,74,19,24,7
+985,LARK,Financial Services,Banks—Regional,NASDAQ,107.84,74,78,72,55
+986,LYB,Basic Materials,Specialty Chemicals,NYSE,107.82,74,71,63,84
+987,NEM,Basic Materials,Gold,NYSE,107.81,74,75,69,85
+988,HITI,Healthcare,Pharmaceutical Retailers,NASDAQ,107.81,74,68,23,34
+989,HCI,Financial Services,Insurance—Property & Casualty,NYSE,107.8,74,64,61,32
+990,OFG,Financial Services,Banks—Regional,NYSE,107.76,74,75,74,54
+991,DCO,Industrials,Aerospace & Defense,NYSE,107.76,74,88,94,89
+992,NMR,Financial Services,Capital Markets,NYSE,107.76,74,70,74,51
+993,IMO,Energy,Oil & Gas Integrated,NYSE MKT,107.73,74,74,70,84
+994,GOTU,Consumer Defensive,Education & Training Services,NYSE,107.72,74,87,10,10
+995,MUR,Energy,Oil & Gas E&P,NYSE,107.72,74,77,65,85
+996,RBB,Financial Services,Banks—Regional,NASDAQ,107.71,74,77,79,71
+997,MCB,Financial Services,Banks—Regional,NYSE,107.71,74,54,63,66
+998,PPG,Basic Materials,Specialty Chemicals,NYSE,107.7,74,47,50,29
+999,SMFG,Financial Services,Banks—Diversified,NYSE,107.7,74,81,78,70
+1000,AXTA,Basic Materials,Specialty Chemicals,NYSE,107.67,74,66,76,23
+1001,KMPR,Financial Services,Insurance—Property & Casualty,NYSE,107.66,74,17,10,13
+1002,SPG,Real Estate,REIT—Retail,NYSE,107.65,74,56,65,66
+1003,FRPT,Consumer Defensive,Packaged Foods,NASDAQ,107.64,74,70,74,12
+1004,UPS,Industrials,Integrated Freight & Logistics,NYSE,107.61,74,38,51,37
+1005,INBK,Financial Services,Banks—Regional,NASDAQ,107.57,74,73,83,62
+1006,FAST,Industrials,Industrial Distribution,NASDAQ,107.57,74,69,67,40
+1007,WOR,Industrials,Metal Fabrication,NYSE,107.57,74,74,36,30
+1008,SBUX,Consumer Cyclical,Restaurants,NASDAQ,107.51,74,54,55,70
+1009,SXT,Basic Materials,Specialty Chemicals,NYSE,107.5,74,88,72,73
+1010,PBHC,Financial Services,Banks—Regional,NASDAQ,107.48,74,76,67,32
+1011,CP,Industrials,Railroads,NYSE,107.41,74,59,61,61
+1012,PBA,Energy,Oil & Gas Midstream,NYSE,107.39,73,68,67,74
+1013,STLD,Basic Materials,Steel,NASDAQ,107.39,73,86,89,87
+1014,SPGI,Financial Services,Financial Data & Stock Exchanges,NYSE,107.36,73,31,25,21
+1015,CASS,Industrials,Specialty Business Services,NASDAQ,107.36,73,80,81,55
+1016,CINF,Financial Services,Insurance—Property & Casualty,NASDAQ,107.35,73,44,49,52
+1017,FFBC,Financial Services,Banks—Regional,NASDAQ,107.33,73,65,76,67
+1018,PG,Consumer Defensive,Household & Personal Products,NYSE,107.31,73,58,30,28
+1019,ICE,Financial Services,Financial Data & Stock Exchanges,NYSE,107.31,73,57,24,33
+1020,CTRN,Consumer Cyclical,Apparel Retail,NASDAQ,107.28,73,72,96,72
+1021,HURN,Industrials,Consulting Services,NASDAQ,107.25,73,83,65,12
+1022,STX,Technology,Computer Hardware,NASDAQ,107.24,73,98,98,99
+1023,MAYS,Real Estate,Real Estate Services,NASDAQ,107.24,73,58,36,60
+1024,MDIA,Communication Services,Broadcasting,NASDAQ,107.24,73,81,44,67
+1025,VOD,Communication Services,Telecom Services,NASDAQ,107.22,73,83,69,78
+1026,SHOP,Technology,Software—Application,NASDAQ,107.22,73,84,74,14
+1027,OKE,Energy,Oil & Gas Midstream,NYSE,107.22,73,72,65,69
+1028,BBWI,Consumer Cyclical,Specialty Retail,NYSE,107.19,73,26,18,9
+1029,PDM,Real Estate,REIT—Office,NYSE,107.18,73,68,59,46
+1030,CUZ,Real Estate,REIT—Office,NYSE,107.17,73,62,60,56
+1031,HURC,Industrials,Specialty Industrial Machinery,NASDAQ,107.17,73,74,78,35
+1032,CCK,Consumer Cyclical,Packaging & Containers,NYSE,107.16,73,59,66,33
+1033,NVS,Healthcare,Drug Manufacturers—General,NYSE,107.12,73,50,58,67
+1034,OPRX,Healthcare,Health Information Services,NASDAQ,107.12,73,58,10,2
+1035,TWN,Financial Services,Asset Management,NYSE,107.12,73,94,90,95
+1036,FXNC,Financial Services,Banks—Regional,NASDAQ,107.09,73,73,79,63
+1037,SFNC,Financial Services,Banks—Regional,NASDAQ,107.08,73,67,69,53
+1038,SBSI,Financial Services,Banks—Regional,NYSE,107.08,73,45,46,56
+1039,LAMR,Real Estate,REIT—Specialty,NASDAQ,107.07,73,65,65,73
+1040,PGR,Financial Services,Insurance—Property & Casualty,NYSE,107.05,73,47,39,24
+1041,CVBF,Financial Services,Banks—Regional,NASDAQ,107.03,73,65,66,44
+1042,GRX,Financial Services,Asset Management,NYSE,106.99,73,60,56,37
+1043,CME,Financial Services,Financial Data & Stock Exchanges,NASDAQ,106.98,73,63,22,56
+1044,WTM,Financial Services,Insurance—Property & Casualty,NYSE,106.98,73,44,45,55
+1045,NTRS,Financial Services,Asset Management,NASDAQ,106.97,73,68,80,77
+1046,ANET,Technology,Computer Hardware,NYSE,106.95,73,90,86,67
+1047,AMCR,Consumer Cyclical,Packaging & Containers,NYSE,106.93,73,56,58,21
+1048,PKG,Consumer Cyclical,Packaging & Containers,NYSE,106.93,73,64,69,49
+1049,FULT,Financial Services,Banks—Regional,NASDAQ,106.93,73,61,73,59
+1050,COLD,Real Estate,REIT—Industrial,NYSE,106.91,73,59,52,65
+1051,FCNCA,Financial Services,Banks—Regional,NASDAQ,106.9,72,59,63,39
+1052,FMNB,Financial Services,Banks—Regional,NASDAQ,106.84,72,71,68,47
+1053,BMY,Healthcare,Drug Manufacturers—General,NYSE,106.84,72,71,73,64
+1054,J,Industrials,Engineering & Construction,NYSE,106.83,72,58,54,17
+1055,RDY,Healthcare,Drug Manufacturers—Specialty & Generic,NYSE,106.82,72,35,25,32
+1056,GABC,Financial Services,Banks—Regional,NASDAQ,106.81,72,75,73,50
+1057,EWBC,Financial Services,Banks—Diversified,NASDAQ,106.76,72,64,68,65
+1058,BIVI,Healthcare,Biotechnology,NASDAQ,106.75,72,18,20,15
+1059,CRM,Technology,Software—Application,NYSE,106.72,72,78,33,12
+1060,AUPH,Healthcare,Biotechnology,NASDAQ,106.71,72,66,47,79
+1061,CCBG,Financial Services,Banks—Regional,NASDAQ,106.7,72,65,72,65
+1062,AWR,Utilities,Utilities—Regulated Water,NYSE,106.69,72,63,64,50
+1063,BST,Financial Services,Asset Management,NYSE,106.69,72,87,72,75
+1064,BLK,Financial Services,Asset Management,NYSE,106.65,72,56,45,49
+1065,AMT,Real Estate,REITâ€”Specialty,NYSE,106.65,72,47,24,24
+1066,INCY,Healthcare,Biotechnology,NASDAQ,106.63,72,68,75,61
+1067,CUBI,Financial Services,Banks—Regional,NYSE,106.6,72,53,65,63
+1068,MDLZ,Consumer Defensive,Confectioners,NASDAQ,106.56,72,61,41,42
+1069,HNI,Industrials,Business Equipment & Supplies,NYSE,106.55,72,78,80,9
+1070,APD,Basic Materials,Chemicals,NYSE,106.54,72,49,50,59
+1071,PSTL,Real Estate,REIT—Office,NYSE,106.51,72,81,74,86
+1072,WOOF,Consumer Cyclical,Specialty Retail,NASDAQ,106.5,72,17,31,25
+1073,TRUP,Financial Services,Insurance—Specialty,NASDAQ,106.5,72,22,29,5
+1074,EXTR,Technology,Communication Equipment,NASDAQ,106.5,72,73,73,87
+1075,ROG,Technology,Electronic Components,NYSE,106.48,72,92,83,90
+1076,BATRA,Communication Services,Entertainment,NASDAQ,106.47,72,79,57,71
+1077,JAN,Industrials,Waste Management,NYSE,106.46,72,71,67,66
+1078,AIRT,Industrials,Integrated Freight & Logistics,NASDAQ,106.43,72,89,86,37
+1079,LYV,Communication Services,Entertainment,NYSE,106.43,72,61,65,63
+1080,UGI,Utilities,Utilities—Regulated Gas,NYSE,106.43,72,62,42,32
+1081,IX,Financial Services,Credit Services,NYSE,106.37,72,75,77,80
+1082,NXPI,Technology,Semiconductors,NASDAQ,106.36,72,46,31,79
+1083,SONY,Technology,Consumer Electronics,NYSE,106.34,72,55,28,21
+1084,ITRN,Technology,Communication Equipment,NASDAQ,106.31,72,74,60,86
+1085,FTS,Utilities,Utilities—Regulated Electric,NYSE,106.3,72,50,45,58
+1086,GCMG,Financial Services,Asset Management,NASDAQ,106.3,72,70,71,28
+1087,MYFW,Financial Services,Banks—Regional,NASDAQ,106.27,72,67,73,73
+1088,SMBK,Financial Services,Banks—Regional,NYSE,106.26,72,83,84,61
+1089,ICFI,Industrials,Consulting Services,NASDAQ,106.23,72,61,66,11
+1090,HQH,Financial Services,Asset Management,NYSE,106.17,71,59,83,74
+1091,GRC,Industrials,Specialty Industrial Machinery,NYSE,106.17,71,82,88,88
+1092,TGB,Basic Materials,Other Industrial Metals & Mining,NYSE MKT,106.17,71,91,92,94
+1093,KR,Consumer Defensive,Grocery Stores,NYSE,106.15,71,42,15,36
+1094,VG,Communication Services,Telecom Services,NYSE,106.14,71,82,69,79
+1095,LSPD,Technology,Software—Application,NYSE,106.13,71,48,38,18
+1096,UVSP,Financial Services,Banks—Regional,NASDAQ,106.13,71,74,79,72
+1097,VOC,Energy,Oil & Gas E&P,NYSE,106.13,71,85,66,64
+1098,WSBF,Financial Services,Banks—Regional,NASDAQ,106.11,71,72,78,72
+1099,PSHG,Industrials,Marine Shipping,NASDAQ,106.11,71,32,23,26
+1100,IDXX,Healthcare,Diagnostics & Research,NASDAQ,106.09,71,23,27,21
+1101,CL,Consumer Defensive,Household & Personal Products,NYSE,106.07,71,61,49,44
+1102,IIPR,Real Estate,REIT—Industrial,NYSE,106.05,71,51,68,71
+1103,RCL,Consumer Cyclical,Travel Services,NYSE,106.05,71,47,53,27
+1104,MMSI,Healthcare,Medical Instruments & Supplies,NASDAQ,106.04,71,70,73,10
+1105,EQIX,Real Estate,REIT—Specialty,NASDAQ,106.03,71,74,60,76
+1106,COR,Real Estate,REIT—Office,NYSE,106.01,71,54,55,15
+1107,LW,Consumer Defensive,Packaged Foods,NYSE,105.99,71,63,52,17
+1108,SMHI,Industrials,Marine Shipping,NYSE,105.97,71,82,85,60
+1109,MSM,Industrials,Industrial Distribution,NYSE,105.92,71,88,77,74
+1110,TFSL,Financial Services,Banks—Regional,NASDAQ,105.88,71,70,75,66
+1111,LIN,Basic Materials,Specialty Chemicals,NASDAQ,105.88,71,51,43,62
+1112,MQ,Technology,Software—Infrastructure,NASDAQ,105.86,71,50,16,18
+1113,SAM,Consumer Defensive,Beverages—Brewers,NYSE,105.86,71,22,18,12
+1114,KRYS,Healthcare,Biotechnology,NASDAQ,105.86,71,83,88,91
+1115,TNL,Consumer Cyclical,Travel Services,NYSE,105.85,71,32,64,47
+1116,SIMO,Technology,Semiconductors,NASDAQ,105.85,71,97,95,98
+1117,DD,Basic Materials,Specialty Chemicals,NYSE,105.82,71,62,61,80
+1118,RGLD,Basic Materials,Gold,NASDAQ,105.8,71,63,49,68
+1119,GLSI,Healthcare,Biotechnology,NASDAQ,105.8,71,22,27,95
+1120,BAH,Industrials,Consulting Services,NYSE,105.79,71,33,22,16
+1121,PAYX,Industrials,Staffing & Employment Services,NASDAQ,105.76,71,47,66,16
+1122,NTIP,Technology,Communication Equipment,NYSE MKT,105.73,71,76,60,60
+1123,LOVE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NASDAQ,105.72,71,31,63,38
+1124,MCO,Financial Services,Financial Data & Stock Exchanges,NYSE,105.68,71,38,40,29
+1125,RYAN,Financial Services,Insurance—Specialty,NYSE,105.68,71,27,37,6
+1126,HSIC,Healthcare,Medical Distribution,NASDAQ,105.67,71,68,74,37
+1127,OGE,Utilities,Utilities—Regulated Electric,NYSE,105.66,71,52,39,53
+1128,PRG,Industrials,Rental & Leasing Services,NYSE,105.62,71,29,78,60
+1129,KOP,Basic Materials,Specialty Chemicals,NYSE,105.57,70,85,84,81
+1130,FIBK,Financial Services,Banks—Regional,NASDAQ,105.55,70,51,63,57
+1131,CTVA,Basic Materials,Agricultural Inputs,NYSE,105.52,70,85,39,69
+1132,KTB,Consumer Cyclical,Apparel Manufacturing,NYSE,105.49,70,29,54,27
+1133,FBNC,Financial Services,Banks—Regional,NASDAQ,105.49,70,59,66,62
+1134,D,Utilities,Utilities—Regulated Electric,NYSE,105.48,70,49,54,50
+1135,WEX,Technology,Software—Infrastructure,NYSE,105.48,70,67,76,22
+1136,BE,Industrials,Electrical Equipment & Parts,NYSE,105.47,70,98,97,99
+1137,PLX,Healthcare,Biotechnology,NYSE MKT,105.43,70,81,69,32
+1138,UNF,Industrials,Specialty Business Services,NYSE,105.41,70,74,86,80
+1139,QCRH,Financial Services,Banks—Regional,NASDAQ,105.41,70,72,75,60
+1140,LYFT,Technology,Software—Application,NASDAQ,105.4,70,40,57,18
+1141,ALSN,Consumer Cyclical,Auto Parts,NYSE,105.39,70,63,71,74
+1142,VERX,Technology,Software—Application,NASDAQ,105.37,70,23,10,7
+1143,SMG,Basic Materials,Agricultural Inputs,NYSE,105.37,70,21,44,32
+1144,WMK,Consumer Defensive,Grocery Stores,NYSE,105.34,70,57,42,40
+1145,PANL,Industrials,Marine Shipping,NASDAQ,105.33,70,88,36,82
+1146,MGA,Consumer Cyclical,Auto Parts,NYSE,105.32,70,77,82,77
+1147,NOMD,Consumer Defensive,Packaged Foods,NYSE,105.28,70,52,41,10
+1148,CHCO,Financial Services,Banks—Regional,NASDAQ,105.25,70,72,70,40
+1149,WMT,Consumer Defensive,Discount Stores,NASDAQ,105.23,70,43,27,71
+1150,ESQ,Financial Services,Banks—Regional,NASDAQ,105.21,70,59,79,50
+1151,PFBC,Financial Services,Banks—Regional,NASDAQ,105.2,70,65,65,46
+1152,NBN,Financial Services,Banks—Regional,NASDAQ,105.19,70,68,74,69
+1153,UTMD,Healthcare,Medical Instruments & Supplies,NASDAQ,105.17,70,77,66,59
+1154,LUV,Industrials,Airlines,NYSE,105.11,70,55,72,53
+1155,IEX,Industrials,Specialty Industrial Machinery,NYSE,105.06,70,81,75,65
+1156,VLY,Financial Services,Banks—Regional,NASDAQ,105.04,70,49,76,71
+1157,EGY,Energy,Oil & Gas E&P,NYSE,105.01,70,87,77,87
+1158,VOR,Healthcare,Biotechnology,NASDAQ,105.0,70,56,77,92
+1159,DIS,Communication Services,Entertainment,NYSE,104.97,70,58,26,31
+1160,SLG,Real Estate,REIT—Office,NYSE,104.96,70,63,71,30
+1161,REAL,Consumer Cyclical,Specialty Retail,NASDAQ,104.93,70,24,76,44
+1162,NET,Technology,Software—Infrastructure,NYSE,104.93,70,94,91,50
+1163,BVS,Healthcare,Diagnostics & Research,NASDAQ,104.93,70,92,93,83
+1164,CWBC,Financial Services,Banks—Regional,NASDAQ,104.93,70,69,61,60
+1165,AROW,Financial Services,Banksâ€”Regional,NASDAQ,104.92,70,66,70,71
+1166,ZKIN,Basic Materials,Steel,NASDAQ,104.91,70,68,5,11
+1167,ARGX,Healthcare,Biotechnology,NASDAQ,104.91,70,72,52,66
